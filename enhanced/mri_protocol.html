@@ -1,0 +1,175 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Magnetic Resonance Imaging Protocol &mdash; Nathan Kline Institute - Rockland Sample  documentation</title>
+    
+    <link rel="stylesheet" href="_static/nature.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="Nathan Kline Institute - Rockland Sample  documentation" href="index.html" />
+    <link rel="next" title="Assessments" href="assessments.html" />
+    <link rel="prev" title="Participant Schedule" href="sched.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="assessments.html" title="Assessments"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="sched.html" title="Participant Schedule"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Nathan Kline Institute - Rockland Sample</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="magnetic-resonance-imaging-protocol">
+<h1>Magnetic Resonance Imaging Protocol<a class="headerlink" href="#magnetic-resonance-imaging-protocol" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="multi-band-imaging">
+<h2>Multi-Band Imaging<a class="headerlink" href="#multi-band-imaging" title="Permalink to this headline">¶</a></h2>
+<p>Recently developed multiband echo planar Imaging (<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed?term=auerbach%20multiband">Moeller et al., 2010</a>) and <a class="reference external" href="http://www.cmrr.umn.edu/research/neuro-3.shtml">multiplexed echo planar imaging</a> (<a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg et al., 2010</a>) approaches enable the acquisition of functional MRI and diffusion imaging data with unprecedented sampling rates for full-brain coverage through the acquisition of multiple slices simultaneously in the same time it takes to obtain a single slice image using standard EPI (<a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S1053811912000663">Feinberg et al. (in press)</a>, see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al. (2012)</a> for initial application of Multiband EPI with recent improvements (Xu et al. 2012). The <a class="reference external" href="http://www.cmrr.umn.edu/">Center for Magnetic Resonance Research (CMRR)</a>, University of Minnesota, where these sequences are developed for the Washington University-University of Minnesota (WU-Minn) consortium of the <a class="reference external" href="http://humanconnectome.org/">Human Connectome Project</a>, has provided the NKI-RS effort with the latest version of the Multiband EPI sequence (Xu et al. 2012) and associated image reconstruction algorithms, enabling the acquisition of state-of-the-art imaging datasets for this large-scale imaging effort.  Specific parameter selections were based on initial pilot data to optimize image quality on our scanner.  As specified in detail below, three R-fMRI sequences are included in the protocol - one with a TR = 645msec (3mm isotropic voxels, 10 minutes) to provide optimal temporal resolution and another with TR = 1400msec (2mm isotropic voxels, 10 minutes) to provide optimal spatial resolution. A standard EPI sequence (TR = 2500msec, 3mm isotropic voxels, 5 minutes) is included also for reference. We are very grateful to WU-Minn HCP members at CMRR for guidance and assistance in the design, implementation and troubleshooting of these sequences and their reconstruction. These sequences and the associated image reconstruction algorithms for the Siemens platforms are <a class="reference external" href="http://www.cmrr.umn.edu/multiband/">available for distribution from CMRR</a>.</p>
+</div>
+<div class="section" id="important-analytic-considerations-for-multiband-imaging">
+<h2>Important Analytic Considerations for Multiband Imaging<a class="headerlink" href="#important-analytic-considerations-for-multiband-imaging" title="Permalink to this headline">¶</a></h2>
+<p>Innovations associated with multiband imaging (e.g., simultaneous acquisition of multiple slices) can introduce novel challenges for functional MRI imaging preprocessing and analyses.  When using this data please keep in mind the following caveats provided by Christian Beckmann and Steve Smith from the HCP:</p>
+<ul class="simple">
+<li>The increased number of time points obtained when using short TR will change the temporal degrees of freedom. This can be used to drive investigations into the temporal characteristics of resting-state patterns (see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al. (2012)</a>). However, the effective temporal autocorrelation will change. This needs to be corrected for, e.g. when converting regression coefficients or correlation coefficients to T, Z or P statistics  (for more discussion see <a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg et al., 2010</a>)</li>
+<li>The spatial smoothness of the data may be affected. In particular, smoothness can be non-stationary, so Gaussian-Random Field Theory-based inference (e.g. cluster-correction in in SPM or FSL) might not be suitable.</li>
+<li>Because multiple slices are excited simultaneously, simple slice time correction will not work and each slice will need to be corrected using custom timing information. Given the short effective TR it is probably less important, though.</li>
+</ul>
+</div>
+<div class="section" id="scans-acquired">
+<h2>Scans Acquired<a class="headerlink" href="#scans-acquired" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/NKI_MPRAGE.pdf">MPRAGE (TR = 1900; voxel size = 1mm isotropic)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_645.pdf">R-mfMRI (TR = 645msec; voxel size = 3mm isotropic; duration = 10 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_1400.pdf">R-mfMRI (TR = 1400msec; voxel size = 2mm isotropic; duration = 10 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_CAP.pdf">R-fMRI (TR = 2500msec; voxel size = 3mm isotropic; duration = 5 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/DIff_137.pdf">Diffusion Tensor Imaging (137 direction; voxel size = 2mm isotropic)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_645.pdf">Visual Checkboard Stimulation (TR = 645msec; voxel size = 3mm isotropic; duration = 2.5 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_1400.pdf">Visual Checkboard Stimulation (TR = 1400msec; voxel size = 2mm isotropic; duration = 2.5 minutes)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/CheckboardParadigm.txt">Visual Checkerboard Stimulation Design File</a></li>
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker.zip">Visual Checkerboard Stimulation Stimuls Execution Script</a> (for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Breath_1400.pdf">Breath Holding  (TR = 1400msec; voxel size = 2mm isotropic; duration = 10 minutes)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BreathHoldParadigm.txt">Breath Holding Stimulus Design File</a></li>
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BH_serial_nostop.py">Breath Holding Stimulus Executino Script</a> (for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+<p>Xu, J., S. Moeller, J. Strupp, E. Auerbach, L. Chen, D. Feinberg, K. Ugurbil and E. Yacoub (2012). &#8220;Highly accelerated whole Brain Imaging Using Aligned-Blipped-Controlled Aliasing Multiband EPI.&#8221; Proc. Int. Soc. Mag Reson Med.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="index.html">
+              <img class="logo" src="_static/nki_cmi.png" alt="Logo"/>
+            </a></p>
+<h3><a href="index.html">Table Of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="recruit.html">Recruitment</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sched.html">Participant Schedule</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">MRI Protocol</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#multi-band-imaging">Multi-Band Imaging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#important-analytic-considerations-for-multiband-imaging">Important Analytic Considerations for Multiband Imaging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#scans-acquired">Scans Acquired</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#references">References</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="assessments.html">Assessments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="demo.html">Sample Characteristics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sharing.html">Data Sharing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="download.html">NKI-RS Lite Releases</a></li>
+</ul>
+
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+          <div id="indi_sidebar">
+          An open neuroscience project brought to you by: <br/><br/>
+
+      <a href="http://fcon_1000.projects.nitrc.org/"><img src="_static/indi_logo.jpg"/></a><br/><br/>
+    </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="assessments.html" title="Assessments"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="sched.html" title="Participant Schedule"
+             >previous</a> |</li>
+        <li><a href="index.html">Nathan Kline Institute - Rockland Sample</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2012, INDI.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>

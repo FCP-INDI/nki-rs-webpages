@@ -1,0 +1,98 @@
+
+<html>
+<head>
+<title>NKI-Rockland Sample Lite DICOM Download</title>
+<script type="text/javascript">
+var suffix=1;
+function downloadAll(oFrm){
+  var oChk = oFrm.elements["file"+(suffix++)];
+  if (oChk){
+    if (oChk.checked){
+      location.href = oChk.value;
+      setTimeout(function(){downloadAll(oFrm)}, 1000);
+    }
+    else{
+      downloadAll(oFrm);
+    }
+  }
+}
+
+function check(){
+  for (var s=1; s<=36; s++) {
+    document.getElementById("file"+(s)).checked=true;
+  }
+}
+
+function uncheck(){
+  for (var s=1; s<=36; s++) {
+    document.getElementById("file"+(s)).checked=false;
+  }
+}
+</script>
+<style type="text/css">
+body {width:900px;margin:0 auto;padding-top:100px;padding-bottom:100px;}
+
+</style>
+</head>
+<body>
+  <center>
+    <font size="6em">DICOM Download</font>
+<p><font size="5em">Consistent with the policies of the 1000 Functional Connectome Project, data usage is unrestricted for non-commercial research purposes. As per INDI protocol, we simply require that users register with the NITRC 1000 Functional Connectomes Project to gain access.</p></font>
+<font size="5em"><a href="http://fcon_1000.projects.nitrc.org/indi/req_access.html">Register</a></font>
+<br>
+<p><font size="4em">Subjects are organized by age (ascending) and grouped into archives containing 5 subjects each. Each archive is approximately 5GB. Use the checkboxes to select which archives you would like to download.<p/></font>
+<br>
+<b><font color="red">
+NOTE: PLEASE BE SURE THAT YOU ARE LOGGED INTO NITRC BEFORE ATTEMPTING TO DOWNLOAD DATA.</b></font>
+<br><br>
+<button onclick="check()">Select All</button>
+<button onclick="uncheck()">Deselect All</button>
+
+<br>
+<form>
+<input type="checkbox" name="file1" id="file1" value="http://www.nitrc.org/frs/downloadlink.php/5164" /><label for="file1"> Group 0</label><br />
+<input type="checkbox" name="file2" id="file2" value="http://www.nitrc.org/frs/downloadlink.php/5165" /><label for="file2"> Group 1</label><br />
+<input type="checkbox" name="file3" id="file3" value="http://www.nitrc.org/frs/downloadlink.php/5166" /><label for="file3"> Group 2</label><br />
+<input type="checkbox" name="file4" id="file4" value="http://www.nitrc.org/frs/downloadlink.php/5167" /><label for="file4"> Group 3</label><br />
+<input type="checkbox" name="file5" id="file5" value="http://www.nitrc.org/frs/downloadlink.php/5168" /><label for="file5"> Group 4</label><br />
+<input type="checkbox" name="file6" id="file6" value="http://www.nitrc.org/frs/downloadlink.php/5169" /><label for="file6"> Group 5</label><br />
+<input type="checkbox" name="file7" id="file7" value="http://www.nitrc.org/frs/downloadlink.php/5170" /><label for="file7"> Group 6</label><br />
+<input type="checkbox" name="file8" id="file8" value="http://www.nitrc.org/frs/downloadlink.php/5171" /><label for="file8"> Group 7</label><br />
+<input type="checkbox" name="file9" id="file9" value="http://www.nitrc.org/frs/downloadlink.php/5172" /><label for="file9"> Group 8</label><br />
+<input type="checkbox" name="file10" id="file10" value="http://www.nitrc.org/frs/downloadlink.php/5173" /><label for="file10"> Group 9</label><br />
+<input type="checkbox" name="file11" id="file11" value="http://www.nitrc.org/frs/downloadlink.php/5174" /><label for="file11"> Group 10</label><br />
+<input type="checkbox" name="file12" id="file12" value="http://www.nitrc.org/frs/downloadlink.php/5175" /><label for="file12"> Group 11</label><br />
+<input type="checkbox" name="file13" id="file13" value="http://www.nitrc.org/frs/downloadlink.php/5176" /><label for="file13"> Group 12</label><br />
+<input type="checkbox" name="file14" id="file14" value="http://www.nitrc.org/frs/downloadlink.php/5177" /><label for="file14"> Group 13</label><br />
+<input type="checkbox" name="file15" id="file15" value="http://www.nitrc.org/frs/downloadlink.php/5178" /><label for="file15"> Group 14</label><br />
+<input type="checkbox" name="file16" id="file16" value="http://www.nitrc.org/frs/downloadlink.php/5179" /><label for="file16"> Group 15</label><br />
+<input type="checkbox" name="file17" id="file17" value="http://www.nitrc.org/frs/downloadlink.php/5180" /><label for="file17"> Group 16</label><br />
+<input type="checkbox" name="file18" id="file18" value="http://www.nitrc.org/frs/downloadlink.php/5181" /><label for="file18"> Group 17</label><br />
+<input type="checkbox" name="file19" id="file19" value="http://www.nitrc.org/frs/downloadlink.php/5182" /><label for="file19"> Group 18</label><br />
+<input type="checkbox" name="file20" id="file20" value="http://www.nitrc.org/frs/downloadlink.php/5183" /><label for="file20"> Group 19</label><br />
+<input type="checkbox" name="file21" id="file21" value="http://www.nitrc.org/frs/downloadlink.php/5184" /><label for="file21"> Group 20</label><br />
+<input type="checkbox" name="file22" id="file22" value="http://www.nitrc.org/frs/downloadlink.php/5185" /><label for="file22"> Group 21</label><br />
+<input type="checkbox" name="file23" id="file23" value="http://www.nitrc.org/frs/downloadlink.php/5186" /><label for="file23"> Group 22</label><br />
+<input type="checkbox" name="file24" id="file24" value="http://www.nitrc.org/frs/downloadlink.php/5187" /><label for="file24"> Group 23</label><br />
+<input type="checkbox" name="file25" id="file25" value="http://www.nitrc.org/frs/downloadlink.php/5188" /><label for="file25"> Group 24</label><br />
+<input type="checkbox" name="file26" id="file26" value="http://www.nitrc.org/frs/downloadlink.php/5189" /><label for="file26"> Group 25</label><br />
+<input type="checkbox" name="file27" id="file27" value="http://www.nitrc.org/frs/downloadlink.php/5190" /><label for="file27"> Group 26</label><br />
+<input type="checkbox" name="file28" id="file28" value="http://www.nitrc.org/frs/downloadlink.php/5191" /><label for="file28"> Group 27</label><br />
+<input type="checkbox" name="file29" id="file29" value="http://www.nitrc.org/frs/downloadlink.php/5192" /><label for="file29"> Group 28</label><br />
+<input type="checkbox" name="file30" id="file30" value="http://www.nitrc.org/frs/downloadlink.php/5193" /><label for="file30"> Group 29</label><br />
+<input type="checkbox" name="file31" id="file31" value="http://www.nitrc.org/frs/downloadlink.php/5194" /><label for="file31"> Group 30</label><br />
+<input type="checkbox" name="file32" id="file32" value="http://www.nitrc.org/frs/downloadlink.php/5195" /><label for="file32"> Group 31</label><br />
+<input type="checkbox" name="file33" id="file33" value="http://www.nitrc.org/frs/downloadlink.php/5196" /><label for="file33"> Group 32</label><br />
+<input type="checkbox" name="file34" id="file34" value="http://www.nitrc.org/frs/downloadlink.php/5197" /><label for="file34"> Group 33</label><br />
+<input type="checkbox" name="file35" id="file35" value="http://www.nitrc.org/frs/downloadlink.php/5198" /><label for="file45"> Group 34</label><br />
+<input type="checkbox" name="file36" id="file36" value="http://www.nitrc.org/frs/downloadlink.php/5199" /><label for="file36"> Group 35</label><br /><br/>
+<input type="button" value="Download Selected" onclick="suffix=1;downloadAll(this.form);return false" />
+</form>
+</center>
+
+
+
+
+
+</body>
+</html>

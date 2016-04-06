@@ -1,0 +1,128 @@
+
+<html>
+<head>
+<title>NKI-Rockland Sample Lite NIfTI Download - Release 6</title>
+<script type="text/javascript">
+var suffix=1;
+function downloadAll(oFrm){
+  var oChk = oFrm.elements["file"+(suffix++)];
+  if (oChk){
+    if (oChk.checked){
+      location.href = oChk.value;
+      setTimeout(function(){downloadAll(oFrm)}, 1000);
+    }
+    else{
+      downloadAll(oFrm);
+    }
+  }
+}
+
+function check(){
+  for (var s=1; s<=71; s++) {
+    document.getElementById("file"+(s)).checked=true;
+  }
+}
+
+function uncheck(){
+  for (var s=1; s<=71; s++) {
+    document.getElementById("file"+(s)).checked=false;
+  }
+}
+</script>
+<style type="text/css">
+body {width:900px;margin:0 auto;padding-top:100px;padding-bottom:100px;}
+
+</style>
+</head>
+<body>
+  <center>
+    <font size="6em">Release 6 NIfTI Download</font>
+<p><font size="5em">Consistent with the policies of the 1000 Functional Connectome Project, data usage is unrestricted for non-commercial research purposes. As per INDI protocol, we simply require that users register with the NITRC 1000 Functional Connectomes Project to gain access.</p></font>
+<font size="5em"><a href="http://fcon_1000.projects.nitrc.org/indi/req_access.html">Register</a></font>
+<br>
+<p><font size="4em">Subjects are grouped into archives containing ~4 subjects each. Each archive is approximately 4GB. Use the checkboxes to select which archives you would like to download.<p/></font>
+<br>
+<b><font color="red">
+NOTE: PLEASE BE SURE THAT YOU ARE LOGGED INTO NITRC BEFORE ATTEMPTING TO DOWNLOAD DATA.</b></font>
+<br><br>
+<button onclick="check()">Select All</button>
+<button onclick="uncheck()">Deselect All</button>
+
+<br>
+<form>
+<input type="checkbox" name="file1" id="file1" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00018030.tar.gz" /><label for="file1"> Group 1</label><br />
+<input type="checkbox" name="file2" id="file2" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00027159.tar.gz" /><label for="file2"> Group 2</label><br />
+<input type="checkbox" name="file3" id="file3" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00027167.tar.gz" /><label for="file3"> Group 3</label><br />
+<input type="checkbox" name="file4" id="file4" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00027439.tar.gz" /><label for="file4"> Group 4</label><br />
+<input type="checkbox" name="file5" id="file5" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00028185.tar.gz" /><label for="file5"> Group 5</label><br />
+<input type="checkbox" name="file6" id="file6" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00028352_A00031578.tar.gz" /><label for="file6"> Group 6</label><br />
+<input type="checkbox" name="file7" id="file7" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00031881.tar.gz" /><label for="file7"> Group 7</label><br />
+<input type="checkbox" name="file8" id="file8" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00033714.tar.gz" /><label for="file8"> Group 8</label><br />
+<input type="checkbox" name="file9" id="file9" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00033747.tar.gz" /><label for="file9"> Group 9</label><br />
+<input type="checkbox" name="file10" id="file10" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00034350.tar.gz" /><label for="file10"> Group 10</label><br />
+<input type="checkbox" name="file11" id="file11" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035072.tar.gz" /><label for="file11"> Group 11</label><br />
+<input type="checkbox" name="file12" id="file12" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035291.tar.gz" /><label for="file12"> Group 12</label><br />
+<input type="checkbox" name="file13" id="file13" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035292.tar.gz" /><label for="file13"> Group 13</label><br />
+<input type="checkbox" name="file14" id="file14" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035377.tar.gz" /><label for="file14"> Group 14</label><br />
+<input type="checkbox" name="file15" id="file15" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035561.tar.gz" /><label for="file15"> Group 15</label><br />
+<input type="checkbox" name="file16" id="file16" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035827.tar.gz" /><label for="file16"> Group 16</label><br />
+<input type="checkbox" name="file17" id="file17" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035840.tar.gz" /><label for="file17"> Group 17</label><br />
+<input type="checkbox" name="file18" id="file18" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035940.tar.gz" /><label for="file18"> Group 18</label><br />
+<input type="checkbox" name="file19" id="file19" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00035945.tar.gz" /><label for="file19"> Group 19</label><br />
+<input type="checkbox" name="file20" id="file20" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00037112_A00037125.tar.gz" /><label for="file20"> Group 20</label><br />
+<input type="checkbox" name="file21" id="file21" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00037511.tar.gz" /><label for="file21"> Group 21</label><br />
+<input type="checkbox" name="file22" id="file22" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00037848_A00039391.tar.gz" /><label for="file22"> Group 22</label><br />
+<input type="checkbox" name="file23" id="file23" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00039431_A00039488.tar.gz" /><label for="file23"> Group 23</label><br />
+<input type="checkbox" name="file24" id="file24" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00040193_A00040556.tar.gz" /><label for="file24"> Group 24</label><br />
+<input type="checkbox" name="file25" id="file25" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00040623_A00040798.tar.gz" /><label for="file25"> Group 25</label><br />
+<input type="checkbox" name="file26" id="file26" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00040800.tar.gz" /><label for="file26"> Group 26</label><br />
+<input type="checkbox" name="file27" id="file27" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00040815_A00040944.tar.gz" /><label for="file27"> Group 27</label><br />
+<input type="checkbox" name="file28" id="file28" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00043240_A00043299.tar.gz" /><label for="file28"> Group 28</label><br />
+<input type="checkbox" name="file29" id="file29" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00043494_A00043520.tar.gz" /><label for="file29"> Group 29</label><br />
+<input type="checkbox" name="file30" id="file30" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00043677_A00043721.tar.gz" /><label for="file30"> Group 30</label><br />
+<input type="checkbox" name="file31" id="file31" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00043722_A00043740.tar.gz" /><label for="file31"> Group 31</label><br />
+<input type="checkbox" name="file32" id="file32" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00043788_A00043998.tar.gz" /><label for="file32"> Group 32</label><br />
+<input type="checkbox" name="file33" id="file33" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00045554_A00045590.tar.gz" /><label for="file33"> Group 33</label><br />
+<input type="checkbox" name="file34" id="file34" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00050677_A00050847.tar.gz" /><label for="file34"> Group 34</label><br />
+<input type="checkbox" name="file35" id="file35" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00050848_A00050940.tar.gz" /><label for="file35"> Group 35</label><br />
+<input type="checkbox" name="file36" id="file36" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00050998_A00051064.tar.gz" /><label for="file36"> Group 36</label><br />
+<input type="checkbox" name="file37" id="file37" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051455_A00051457.tar.gz" /><label for="file37"> Group 37</label><br />
+<input type="checkbox" name="file38" id="file38" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051477_A00051514.tar.gz" /><label for="file38"> Group 38</label><br />
+<input type="checkbox" name="file39" id="file39" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051517_A00051529.tar.gz" /><label for="file39"> Group 39</label><br />
+<input type="checkbox" name="file40" id="file40" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051539_A00051604.tar.gz" /><label for="file40"> Group 40</label><br />
+<input type="checkbox" name="file41" id="file41" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051638_A00051676.tar.gz" /><label for="file41"> Group 41</label><br />
+<input type="checkbox" name="file42" id="file42" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051678_A00051690.tar.gz" /><label for="file42"> Group 42</label><br />
+<input type="checkbox" name="file43" id="file43" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051691_A00051726.tar.gz" /><label for="file43"> Group 43</label><br />
+<input type="checkbox" name="file44" id="file44" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051727_A00051758.tar.gz" /><label for="file44"> Group 44</label><br />
+<input type="checkbox" name="file45" id="file45" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051774_A00051835.tar.gz" /><label for="file45"> Group 45</label><br />
+<input type="checkbox" name="file46" id="file46" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00051882_A00051927.tar.gz" /><label for="file46"> Group 46</label><br />
+<input type="checkbox" name="file47" id="file47" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052069_A00052070.tar.gz" /><label for="file47"> Group 47</label><br />
+<input type="checkbox" name="file48" id="file48" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052117_A00052125.tar.gz" /><label for="file48"> Group 48</label><br />
+<input type="checkbox" name="file49" id="file49" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052126_A00052180.tar.gz" /><label for="file49"> Group 49</label><br />
+<input type="checkbox" name="file50" id="file50" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052181_A00052183.tar.gz" /><label for="file50"> Group 50</label><br />
+<input type="checkbox" name="file51" id="file51" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052197_A00052234.tar.gz" /><label for="file51"> Group 51</label><br />
+<input type="checkbox" name="file52" id="file52" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052235_A00052319.tar.gz" /><label for="file52"> Group 52</label><br />
+<input type="checkbox" name="file53" id="file53" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052340_A00052461.tar.gz" /><label for="file53"> Group 53</label><br />
+<input type="checkbox" name="file54" id="file54" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052499_A00052502.tar.gz" /><label for="file54"> Group 54</label><br />
+<input type="checkbox" name="file55" id="file55" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052560_A00052613.tar.gz" /><label for="file55"> Group 55</label><br />
+<input type="checkbox" name="file56" id="file56" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00052614_A00053202.tar.gz" /><label for="file56"> Group 56</label><br />
+<input type="checkbox" name="file57" id="file57" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053203_A00053320.tar.gz" /><label for="file57"> Group 57</label><br />
+<input type="checkbox" name="file58" id="file58" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053369_A00053390.tar.gz" /><label for="file58"> Group 58</label><br />
+<input type="checkbox" name="file59" id="file59" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053455_A00053473.tar.gz" /><label for="file59"> Group 59</label><br />
+<input type="checkbox" name="file60" id="file60" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053474_A00053475.tar.gz" /><label for="file60"> Group 60</label><br />
+<input type="checkbox" name="file61" id="file61" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053490_A00053546.tar.gz" /><label for="file61"> Group 61</label><br />
+<input type="checkbox" name="file62" id="file62" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053576_A00053578.tar.gz" /><label for="file62"> Group 62</label><br />
+<input type="checkbox" name="file63" id="file63" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053625_A00053627.tar.gz" /><label for="file63"> Group 63</label><br />
+<input type="checkbox" name="file64" id="file64" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053744_A00053850.tar.gz" /><label for="file64"> Group 64</label><br />
+<input type="checkbox" name="file65" id="file65" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053851_A00053854.tar.gz" /><label for="file65"> Group 65</label><br />
+<input type="checkbox" name="file66" id="file66" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053873_A00053874.tar.gz" /><label for="file66"> Group 66</label><br />
+<input type="checkbox" name="file67" id="file67" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053901_A00053927.tar.gz" /><label for="file67"> Group 67</label><br />
+<input type="checkbox" name="file68" id="file68" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00053949_A00054038.tar.gz" /><label for="file68"> Group 68</label><br />
+<input type="checkbox" name="file69" id="file69" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00054153_A00054206.tar.gz" /><label for="file69"> Group 69</label><br />
+<input type="checkbox" name="file70" id="file70" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00054358_A00054482.tar.gz" /><label for="file70"> Group 70</label><br />
+<input type="checkbox" name="file71" id="file71" value="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataTars/Release6/rs_A00054533_A00054533.tar.gz" /><label for="file71"> Group 71</label><br />
+<input type="button" value="Download Selected" onclick="suffix=1;downloadAll(this.form);return false" />
+</form>
+</center>
+</body>
+</html>
