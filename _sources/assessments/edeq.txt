@@ -1,0 +1,12 @@
+Eating Disorder Examination Questionnaire (EDEQ)
+------------------------------------------------
+The EDEQ is a 36-item self-report measure that is an adapted version of the Eating Disorder Examination (EDE). The measure is a comprehensive assessment of the specific psychopathology of eating disordered behavior, and asks participants to respond based on the past four weeks (28 days) only. Participants are asked to enter the number of days or times they have exhibited certain eating disordered thoughts or behaviors or asked to rate these on a 7-point scale of frequency in the past month: 0-no days, 1-1 to 5 days, 2-6 to 12 days, 3-13 to 15 days, 4-16 to 22 days, 5-23 to 27 days, 6-every day.
+
+**Domains Assessed:** :doc:`Eating Behavior <eating>`
+
+**Note:** This self-assessment is given to adolescent and adult participants, ages 13-85 years old. 
+
+**References:** 
+
+Mond, J. M., Hay, P. J., Rodgers, B., Owen, C., & Beumont, P. J. (2004). Validity of the eating disorder examination questionnaire (EDE-Q) in screening for eating disorders in community samples. Behaviour Research and Therapy, 42(5), 551-67.                                                                                                                 
+Fairburn C. G., & Cooper, Z. (1993). The Eating Disorder Examination (twelfth edition). In: C. G. Fairburn & G. T. Wilson (eds.). Binge Eating: Nature, Assessment and Treatment. (pp. 317- 360). New York: Guilford Press, 1993.

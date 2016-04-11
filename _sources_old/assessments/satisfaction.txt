@@ -1,0 +1,9 @@
+Satisfaction Survey
+-------------------
+This Satisfaction Survey is a 25-item questionnaire created by study staff in order to obtain feedback from participants on their experience in the study. Questions are asked about the screening process, and about both days of participation. Participants respond to items 1-22 based on a 5-point scale, in which 1=Strongly Disagree, 2=Disagree, 3=Neutral, 4=Agree, 5=Strongly Agree. Items 23-25 allow the participants to enter free text, offering comments and suggestions about the study. 
+
+**Domains Assessed:** N/A
+
+**Note:** This is given to all adult participants, ages 18-85 years old, immediately following completion of all study assessments. 
+
+**References:** N/A

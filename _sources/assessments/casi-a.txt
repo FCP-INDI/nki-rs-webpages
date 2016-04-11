@@ -1,0 +1,9 @@
+The Comprehensive Addiction Severity Index for Adolescents (CASI-A)
+-------------------------------------------------------------------
+The CASI-A is an interview-based structured screening instrument for adolescents (ages 12 -18) comprised of 10 modules including health, family, stressful life events, legal status, sexual behavior, alcohol and other drugs (AOD) use, mental health functioning, peer relationships, education, and use of free time. It is used to guide treatment planning and assessment of outcomes in a variety of settings. 
+
+**Domains Assessed:** :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Substance Use <substance>`
+
+**Note:** The Alcohol and Other Drugs (AOD) section only is given to adolescents and adults ages 13-85 years old.  It is administered as a self-report questionnaire. The CASI – AOD assesses age of first use, age of use on regular basis, peak and typical pattern of use in past year, with whom the drug is used, route of administration, usage frequency in the past month, total years used for alcohol, tobacco, marijuana, stimulants, cocaine, narcotics, hallucinogens, inhalants, tranquilizers, miscellaneous, and other (participant specifies drug which presumably does not fit into above listed categories). 
+
+**References:** Meyers, K., McLellan, A. T., Jaeger, J. L., & Pettinati, H. M. (1995). The development of the comprehensive addiction severity index for adolescents (CASI-A). An interview for assessing multiple problems of adolescents. Journal of Substance Abuse Treatment, 12(3), 181-93.

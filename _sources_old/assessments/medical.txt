@@ -1,0 +1,9 @@
+Medical Conditions
+------------------
+This form was created by study staff, and asks, “Does the participant have any illnesses or health problems at present?” Study staff asks this question directly to the participant or to their parent, and records any condition that is endorsed. 
+
+**Domains Assessed:** :doc:`Background Information <background>`
+
+**Note:** This is asked of all participants, ages 6-85 years old, and is administered during the time that Vitals are being obtained.
+
+**References:** N/A

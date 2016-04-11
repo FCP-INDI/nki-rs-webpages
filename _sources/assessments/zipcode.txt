@@ -1,0 +1,9 @@
+Zip Code
+--------
+This assessment asks the participant to write their zip code, to ensure that it has been recorded correctly. It was created by study staff.  
+
+**Domains Assessed:** :doc:`Background Information <background>`
+
+**Note:** This assessment is given to all guardians of child participants, ages 6-17, and to all adult participants, ages 18-85.
+
+**References:** N/A

@@ -1,0 +1,9 @@
+Multidimensional Anxiety Scale for Children (MASC)
+--------------------------------------------------
+The MASC is a normed 39-item self-report questionnaire that assesses anxiety in children and adolescents.  It uses four basic scales (physical symptoms, harm avoidance, social anxiety, and separation/panic), one scale measuring total anxiety, and two additional indexes, anxiety disorder and inconsistency. Participants are asked to rate their own behavior on a 4-point scale: 0-Never true about me, 1-Rarely true about me, 2-Sometimes true about me, 3-Often true about me.
+
+**Domains Assessed:** :doc:`Anxiety <anxiety>`, :doc:`Somatic Complaints <somatic>`
+
+**Note:** This assessment will be given to children ages 8-18 years old. 
+
+**References:** March, J. S. (1998). Multi-dimensional anxiety scale for children. North Tonawanda, NY: Multi Health Systems.

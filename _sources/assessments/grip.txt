@@ -1,0 +1,9 @@
+Grip Strength
+-------------
+Grip strength is assessed using a JAMAR Plus Digital Hand Dynamometer. The participant is asked to sit in a chair with their shoulder abducted and neutrally rotated, elbow flexed at 90 degrees, and forearm in neutral position. They are asked to hold and squeeze the Digital Hand Dynamometer starting in their left hand then alternating to the right hand and repeating this process twice. The score is recorded in kilograms.
+
+**Domains Assessed:** :doc:`Physical <physical>`
+
+**Note:** This will be administered with all participants, ages 6-85 years old. 
+
+**References:** Sammons Preston Roylan. JAMAR Hydraulic Hand Dynamometer Owner’s Manual. Chicago, IL: Sammons Preston Roylan, 2003.

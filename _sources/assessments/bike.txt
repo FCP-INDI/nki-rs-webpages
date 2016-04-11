@@ -1,0 +1,13 @@
+Bike Test
+---------
+The 6MBK is a simple test that requires a recumbent stationary bicycle. The level of resistance is determined by the age and gender of each participant. The participant is seated on a bike and resting heart rate is obtained. Participant pedals at 70 RPM’s for 6 minutes and heart rate is obtained again. If participant fails to complete the full 6 minutes of pedaling at 70 RPM’s, failure time and heart rate is obtained. This test evaluates the global and integrated responses of all the systems involved during exercise, including the pulmonary and cardiovascular systems, systemic circulation, peripheral circulation, blood, neuromuscular units, and muscle metabolism. 
+
+**Domains Assessed:** :doc:`Physical <physical>`
+
+**Note:** This assessment is administered to all participants ages 6-85 years old unless there are circumstances preventing participant from riding stationary bike (e.g., injured joints, bike is too large for young children). 
+
+**References:** 
+
+Astrand P.O., & Ryhming I. (1954). A nomogram for calculation of aerobic capacity from pulse rate during submaximal work. Journal of Applied Physiology, 7, 218 –22.
+
+Legge BJ, Banister EW.  (1986). The Astrand-Ryhming momogram revisited. Journal of Applied Physiology, 61, 1203–1209.

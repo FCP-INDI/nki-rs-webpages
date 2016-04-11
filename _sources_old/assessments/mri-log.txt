@@ -1,0 +1,9 @@
+MRI Log Sheet
+-------------
+This form was created by study staff to record whether or not the participant was able to successfully complete each scan included in the protocol, in addition to whether or not BioPac data was successfully recorded. Any adjustments in order or complications having to do with the scans are documented in the free-text comment boxes. 
+
+**Domains Assessed:** MRI
+
+**Note:** The MRI is administered with all participants, ages 6-85 years old. 
+
+**References:** N/A

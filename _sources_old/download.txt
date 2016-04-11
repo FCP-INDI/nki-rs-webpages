@@ -1,0 +1,89 @@
+NKI-RS Lite Releases
+--------------------
+NKI-RS Lite releases contain MRI data and only basic phenotypic information (age, sex, handedness). The following scans are included for each subject:
+
+* Anatomical (MPRAGE)
+* Diffustion Tensor Imaging (137 Directions)
+* Resting Functional (TR = 645ms, Multiband)
+* Resting Functional (TR = 1400ms, Multiband)
+* Resting Functional (TR = 2500ms)
+* Visual Checkerboard (TR = 645ms, Multiband)
+* Visual Checkerboard (TR = 1400ms, Multiband)
+* Breath Hold (TR = 1400ms, Multiband)
+
+Anonymized image data is available in either DICOM or NIfTI file formats. Each scan folder also includes a `JSON <http://en.wikipedia.org/wiki/JSON>`_ file containing information on scan parameters and file provenance (any changes made to the image since it came out of the scanner).
+
+In order to access NKI-RS Lite data, users must be logged into `NITRC <http://www.nitrc.org/>`_  at the time of download and registered with the `1000 Functional Connectomes Project <http://www.nitrc.org/projects/fcon_1000/>`_. 
+
+**A permission error message will occur if you are not logged in and properly registered.** New users can `register here <http://fcon_1000.projects.nitrc.org/indi/req_access.html>`_.
+
+* Download DICOM Files 
+
+    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom1.html>`_
+    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom2.html>`_
+    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom3.html>`_
+    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom4.html>`_
+
+* Download NIfTI Files 
+
+    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii1.html>`_
+    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii2.html>`_ (includes physiological data)
+    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii3.html>`_
+    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii4.html>`_
+
+* Physiological Data (cardiac and respiratory recordings)
+
+    * `Release 1 <http://www.nitrc.org/frs/downloadlink.php/5369>`_  (For initial subjects in Release 1, cardiac data has been excluded due to a technical error; respiratory data was unaffected. `Click here <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_r1_missing_cardiac_v1.txt>`_ for a listing of affected subjects.
+    * `Release 2 <http://www.nitrc.org/frs/downloadlink.php/5377>`_
+    * `Release 3 <http://www.nitrc.org/frs/downloadlink.php/5767>`_
+    * `Release 4 <http://www.nitrc.org/frs/downloadlink.php/6143>`_
+
+* Motion Statistics
+
+    * Release 1
+
+        * `DTI <http://www.nitrc.org/frs/downloadlink.php/5200>`_
+        * `Rest (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5201>`_
+        * `Rest (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5202>`_
+        * `Rest (TR=2500) <http://www.nitrc.org/frs/downloadlink.php/5203>`_
+        * `Breath Hold <http://www.nitrc.org/frs/downloadlink.php/5204>`_
+        * `Visual Checkerboard (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5205>`_
+        * `Visual Checkerboard (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5206>`_
+
+    * Release 2
+
+        * `DTI <http://www.nitrc.org/frs/downloadlink.php/5370>`_
+        * `Rest (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5371>`_
+        * `Rest (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5372>`_
+        * `Rest (TR=2500) <http://www.nitrc.org/frs/downloadlink.php/5373>`_
+        * `Breath Hold <http://www.nitrc.org/frs/downloadlink.php/5374>`_
+        * `Visual Checkerboard (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5375>`_
+        * `Visual Checkerboard (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5376>`_
+
+    * Release 3
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+    * Release 4
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+* Download Phenotypic Information (age, sex, handedness)
+
+    * `Release 1 (181 subjects) <http://www.nitrc.org/frs/downloadlink.php/5208>`_
+    * `Release 2 (14 subjects) <http://www.nitrc.org/frs/downloadlink.php/5367>`_
+    * `Release 3 (46 subjects) <http://www.nitrc.org/frs/downloadlink.php/5766>`_
+    * `Release 4 (88 subjects, <http://www.nitrc.org/frs/downloadlink.php/6142>`_
+
+
+

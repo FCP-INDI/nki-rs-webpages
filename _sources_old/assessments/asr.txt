@@ -1,0 +1,11 @@
+Adult Self Report (ASR)
+-----------------------
+The ASR is a 126-item self-report questionnaire for adults (ages 18–59) assessing aspects of adaptive functioning and problems. The questionnaire provides scores for the following syndrome scales: anxious/depressed, withdrawn, somatic complaints, thought problems, attention problems, aggressive behavior, rule-breaking behavior, and intrusive behavior. The questionnaire provides scores for the following DSM-oriented scales: depressive problems, anxiety problems, somatic problems, avoidant personality problems, attention deficit/ hyperactivity problems (inattention and hyperactivity/impulsivity subscales), and antisocial personality problems. Additionally, the questionnaire asks about use of the following substances: tobacco, alcohol, and drugs. Items are rated on a 3-point scale: 0-Not True, 1-Somewhat or Sometimes True, 2-Very True or Often True.
+
+**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Anxiety <anxiety>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Depression and Mood <depression>`, :doc:`Personality Traits <personality>`, :doc:`Psychotic and Atypical Behavior <psychotic>`, :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Somatic Complaints <somatic>`, :doc:`Substance Use <substance>` (item-level)
+
+**Note:** The ASR is given to adult participants ages 18-59 years old. 
+
+**References:** Achenbach, T. M., & Rescorla, L. A. (2003). Manual for the ASEBA adult forms & profiles. Research Center for Children, Youth, & Families, University of Vermont, Burlington, VT, USA.
+
+**Additional Information:** http://www.aseba.org/adults.html#scales

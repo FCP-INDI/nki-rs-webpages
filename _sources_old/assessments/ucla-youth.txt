@@ -1,0 +1,9 @@
+University of California at Los Angeles Posttraumatic Stress Disorder Reaction Index (UCLA-Youth)
+-------------------------------------------------------------------------------------------------
+The UCLA-Youth PTSD index for DSM-IV is a 48-item self report used to screen both for exposure to traumatic events and for all DSM-IV PTSD symptoms in school age children and adolescents (ages 7-12) who report traumatic stress experiences. These instruments are meant to serve as brief screening tools to provide information regarding trauma exposure and PTSD symptoms. The instrument consists of three parts: In Part I, a brief review of the traumatic experience sets the stage for the subsequent questions, helps the participant recall details of the traumatic event (Criterion A1). Items are rated 1-Yes or 0-No. Part II includes questions related to A1 and A2 criteria rating how the participant felt during or right after the experience (either 1-Yes, 0-No, or Don’t Know). Part III asks about the frequency of PTSD symptoms during the past month on a 5-point scale: 0-None, 1-Little (Two times a month), 2-Some (1-2 times a week), 3-Much (2-3 times each week), 4-Most (Almost everyday). These items map directly onto the DSM-IV PTSD criterion B (intrusion), criterion C (avoidance/numbing), and criterion D (arousal).  Twenty of these items assess PTSD symptoms; two additional items assess associated features – fear of recurrence and trauma-related guilt.
+
+**Domains Assessed:** :doc:`Trauma <trauma>`
+
+**Note:** Though indicated for children and adolescents, this assessment is given to all participants, ages 8-85.
+
+**References:** Pynoos, Rodriguez, Steinberg, Stuber, & Frederick,C. (1998). UCLA PTSD Index for DSM-IV. Unpublished Manual.

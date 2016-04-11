@@ -1,0 +1,9 @@
+The 21-Item Peters et al. Delusions Inventory (PDI-21)
+------------------------------------------------------
+The PDI-21 is a self-report designed to measure schizotypal traits and symptoms in the general population, using the Present State Examination as a template. The PDI-21 incorporates the multidimensionality of delusions, including measures of distress, preoccupation, and conviction.
+
+**Domains Assessed:** :doc:`Psychotic and Atypical Behavior <psychotic>`
+
+**Note:** This assessment is given to participants aged 11-85 years old. 
+
+**References:** Peters, E. R., Joseph, S. A., & Garety, P. A. (1999). Measurement of delusional ideation in the normal population: Introducing the PDI (peters et al. Delusions inventory). Schizophrenia Bulletin, 25(3), 553-576.

@@ -1,0 +1,65 @@
+Assessments
+------------
+
+The battery for NKI-RS was constructed based on discussions with
+assessment developers, expert consultants, and a formal presentation to
+the Child Mind Institute’s Scientific Research Council (SRC). We
+prioritized inclusion of empirically validated measures in the public
+domain, as those are most amenable to widespread adoption in other
+studies. Additionally, we prioritized use of measures that could be
+administered and compared across the lifespan. In attempting to serve as
+a resource for future studies, the NKI-RS compares commonly used
+assessments that measure the same construct, behavior, or disorder. We
+also compare proprietary and non-proprietary assessments [e.g., the
+Conners ADHD Scales (Conners et al., 1997; Conners, 1999) versus
+Strengths and Weaknesses of ADHD-Symptoms and Normal-Behavior Scale
+(SWAN; Hay et al., 2007)], and can assess the construct validity of
+different assessments [e.g., the Computerized Neurocognitive Battery
+(Gur et al., 2001) versus the Delis–Kaplan Executive Functioning System
+(Delis et al., 2004)].
+
+Our approach, similar to that of the Brain Genomics Superstruct (Yeo et
+al., 2011), differs from the more common model of centering
+collaborative efforts on a particular disorder or set of disorders,
+which can limit the applicability of a comparison sample. Given the
+current focus on developing a dimensional framework for psychiatric
+illnesses and patterns of comorbidity (Chabernaud et al., 2012), we
+adopted broad phenotypic characterization for NKI-RS. By employing a
+common protocol that covers a wide array of domains of psychiatric,
+cognitive, and behavioral functions, we can make direct comparisons
+between psychiatric illnesses and increase the feasibility of
+determining overlap and distinctions among their neural correlates.
+
+.. figure:: /_images/assessments.jpg
+   :width: 750px
+
+A complete list of assessments can be found :doc:`here </assessments/master_list>`.
+
+Assessments by Category
+^^^^^^^^^^^^^^^^^^^^^^^
+* :doc:`Aggression and Oppositionality </assessments/aggression>`
+* :doc:`Anxiety </assessments/anxiety>`
+* :doc:`Attention Problems and Hyperactivity </assessments/attention>`
+* :doc:`Attentional Bias <assessments/bias>`_
+* :doc:`Autism Spectrum </assessments/autism>`
+* :doc:`Background Information </assessments/background>`
+* :doc:`Cognitive and Executive Functioning </assessments/cognitive>`
+* :doc:`Depression and Mood </assessments/depression>`
+* :doc:`Distress Tolerance <assessments/distress>`_
+* :doc:`Eating Behavior </assessments/eating>`
+* :doc:`Magnetic Resonance Imaging </assessments/mri>`
+* :doc:`Obsessive-Compulsive Disorder </assessments/obsessive>`
+* :doc:`Personality Traits </assessments/personality>`
+* :doc:`Physical </assessments/physical>`
+* :doc:`Psychotic and Atypical Behavior </assessments/psychotic>`
+* :doc:`Risk Taking and Impulsive Behavior </assessments/risk>`
+* :doc:`Sex and Gender <assessments/sexgender>`_
+* :doc:`Short Term Memory <assessments/shortterm>`_
+* :doc:`Sleep </assessments/sleep>`
+* :doc:`Social Interaction </assessments/social>`
+* :doc:`Somatic Complaints </assessments/somatic>`
+* :doc:`Substance Use </assessments/substance>`
+* :doc:`Tics </assessments/tics>`
+* :doc:`Trauma </assessments/trauma>`
+* :doc:`Verbal Learning <assessments/verbal>`_
+* :doc:`Working Memory <assessments/workingmemory>`_

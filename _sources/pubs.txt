@@ -1,0 +1,325 @@
+Publications
+==============
+
+To reference the NKI-RS, please cite the following article:
+
+#. Nooner et al, (2012). `The NKI-Rockland Sample: A model for
+   accelerating the pace of discovery science in
+   psychiatry. <http://www.ncbi.nlm.nih.gov/pubmed/23087608>`_
+   Frontiers in neuroscience 6, 152.
+
+The following publications discuss NKI-RS in the context of large-scale
+data-sharing efforts:
+
+#. Castellanos, F. X., Di Martino, A., Craddock, R. C., Mehta, A., D.,
+   Milham, M. P. (2013).\ `Clinical applications of the functional
+   connectome. <http://www.ncbi.nlm.nih.gov/pubmed/23631991>`_
+   Neuroimage 80: 527-540.
+#. Gorgolewski, K. J., Margulies, D.S., Milham, M. P. (2013).\ `Making
+   data sharing count: A publication-based
+   solution. <http://journal.frontiersin.org/Journal/10.3389/fnins.2013.00009/abstract>`_
+   Frontiers in neuroscience 7, 9.
+#. Keator, D.B., Helmer, K., Steffener, J., Turner, J.A., Van Erp, T.
+   G., Gadde, S., Ashish, N., Burns, G. A., Nichols, B. N. (2013).
+   `Towards structured sharing of raw and derived neuroimaging data
+   across existing
+   resources. <http://www.ncbi.nlm.nih.gov/pubmed/23727024>`_
+   Neuroimage 82: 647-661.
+#. Milham, M. P. (2012). `Open Neuroscience Solutions for the
+   Connectome-wide Association
+   Era. <http://www.ncbi.nlm.nih.gov/pubmed/22284177>`_ Neuron 73, no.
+   2: 214-218.
+#. Mennes, M., Biswal, B. B., Castellanos, F. X., Milham, M. P. (2013).
+   `Making Data Sharing Work: The FCP/INDI
+   Experience. <http://www.ncbi.nlm.nih.gov/pubmed/23123682>`_
+   Neuroimage 82: 683-691.
+#. Poldrack, R. A., Barch, D. M., Mitchell, J. P., Wager, T.D., Wagner,
+   A. D., Devlin, J. T., Cumba, C., Koyejo, O., Milham, M. P. (2013).
+   `Toward Open Sharing of Task-based FMRI Data: The OpenfMRI
+   Project. <http://www.ncbi.nlm.nih.gov/pubmed/23847528>`_ Frontiers
+   in neuroinformatics 7.
+#. Poldrack, R. A., Gorgolewski, K.J. (2013). `Making big data open:
+   data sharing in
+   neuroimaging. <http://www.nature.com/neuro/journal/v17/n11/full/nn.3818.html>`_
+   Nat. Neurosci. 17, 1510–1517.
+
+The following publications from researchers around the world have
+utilized data from the NKI-RS:
+
+#. Amft, M., Bzdok, D., Laird, A. R., Fox, P. T., Schilbach, L., &
+   Eickhoff, S. B. (2014). `Definition and characterization of an
+   extended social-affective default
+   network. <http://www.ncbi.nlm.nih.gov/pubmed/24399179>`_ Brain
+   Structure and Function, Advance online publication. doi:
+   10.1007/s00429-013-0698-0.
+#. Betzel, R. F., Byrge, L., He, Y., Goni, J., Zuo, X. N., & Sporns, O.
+   (2014). `Changes in structural and functional connectivity among
+   resting-state networks across the human
+   lifespan. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Changes+in+structural+and+functional+connectivity+among+resting-state+networks+across+the+human+lifespan>`_
+   Neuroimage, in press..
+#. Bottger, J., Schurade, R., Jakobsen, E., Schaefer, A., & Margulies,
+   D. S. (2014). `Connexel visualization: a software implementation of
+   glyphs and edge-bundling for dense connectivity data using
+   braingl. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Connexel+visualization%3A+a+software+implementation+of+glyphs+and+edge-bundling+for+dense+connectivity+data+using+brainGL>`_
+   Frontiers in neuroscience, 8, 15.
+#. Brown, J. A., Rudie, J. D., Bandrowski, A., Van Horn, J. D., &
+   Bookheimer, S. Y. (2012). `The ucla multimodal connectivity database:
+   a web-based platform for brain connectivity matrix sharing and
+   analysis. <http://www.ncbi.nlm.nih.gov/pubmed/23226127>`_
+   Frontiers in neuroinformatics, 6, 28.
+#. Bzdok, D. et al. (2014).\ `Subspecialization in the human posterior
+   medial
+   cortex. <http://www.sciencedirect.com/science/article/pii/S1053811914009112>`_\ NeuroImage
+#. Bzdok, D., Langner, R., Schilbach, L., Engemann, D. A., Laird, A. R.,
+   Fox, P. T., & Eickhoff, S. B. (2013). `Segregation of the human
+   medial prefrontal cortex in social
+   cognition. <http://www.ncbi.nlm.nih.gov/pubmed/23755001>`_
+   Frontiers in human neuroscience, 7, 232.
+#. Cao, M., Wang, J. H., Dai, Z. J., Cao, X. Y., Jiang, L. L., Fan, F.
+   M., Song, X., Xia, M., Shu, N., Dong, Q., Milham, M.P., Castellanos,
+   F. X., Zuo, X., & He, Y. (2014). `Topological organization of the
+   human brain functional connectome across the
+   lifespan. <http://www.sciencedirect.com/science/article/pii/S1878929313000960>`_
+   Developmental cognitive neuroscience, 7, 76-93.
+#. Clewett, D., Bachman, S., & Mather, M. (2014). `Age-related reduced
+   prefrontal-amygdala structural connectivity is associated with lower
+   trait
+   anxiety. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Age-Related+Reduced+Prefrontal-Amygdala+Structural+Connectivity+Is+Associated+With+Lower+Trait+Anxiety>`_
+   Neuropsychology, 28(4), 631-642.
+#. Clos, M., Amunts, K., Laird, A. R., Fox, P. T., & Eickhoff, S. B.
+   (2013). `Tackling the multifunctional nature of broca's region
+   meta-analytically: co-activation-based parcellation of area
+   44. <http://www.ncbi.nlm.nih.gov/pubmed/23791915>`_ Neuroimage,
+   83, 174-188.
+#. Clos, M., Rottschy, C., Laird, A. R., Fox, P. T., & Eickhoff, S. B.
+   (2014). `Comparison of structural covariance with functional
+   connectivity approaches exemplified by an investigation of the left
+   anterior
+   insula. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Comparison+of+structural+covariance+with+functional+connectivity+approaches+exemplified+by+an+investigation+of+the+left+anterior+insula>`_
+   Neuroimage, 99, 269-280.
+#. Di, X., Gohel, S., Kim, E. H., & Biswal, B. B. (2013). `Task vs.
+   rest, different network configurations between the coactivation and
+   the resting-state brain
+   networks. <http://www.ncbi.nlm.nih.gov/pubmed/24062654>`_
+   Frontiers in human neuroscience, 7, 493.
+#. Fu, Zening, Xin Di, Shing-Chow Chan, Yeung-Sam Hung, Bharat B Biswal,
+   and Zhiguo Zhang. (2013). `Time-varying correlation coefficients
+   estimation and its application to dynamic connectivity analysis of
+   fmri. <http://www.ncbi.nlm.nih.gov/pubmed/24110344>`_ 35th Annual
+   International Conference of the IEEE EMBS, 2944-2947.
+#. Gohel, S. R., & Biswal, B.B. (2014). `Functional integration between
+   brain regions at rest occurs in multiple-frequency
+   bands. <http://www.ncbi.nlm.nih.gov/pubmed/24702246>`_ Brain
+   connectivity, Advance online publication.
+   doi:10.1089/brain.2013.0210.
+#. Gorgolewski, K. J., Lurie, D., Urchs, S., Kipping, J. A., Craddock,
+   R. C., Milham, M. P., Margulies, D. S., & Smallwood, J. (2014). `A
+   correspondence between individual differences in the brain's
+   intrinsic functional architecture and the content and form of
+   self-generated
+   thoughts. <http://www.ncbi.nlm.nih.gov/pubmed/?term=A+correspondence+between+individual+differences+in+the+brain%27s+intrinsic+functional+architecture+and+the+content+and+form+of+self-generated+thoughts>`_
+   PloS one, 9(5), e97176.
+#. Goulden, N., Khusnulina, A., Davis, N. J., Bracewell, R. M., Bokde,
+   A. L., McNulty, J. P., & Mullins, P. G. (2014). `The salience network
+   is responsible for switching between the default mode network and the
+   central executive network: replication from
+   dcm. <http://www.ncbi.nlm.nih.gov/pubmed/?term=The+Salience+Network+is+responsible+for+switching+between+the+Default+Mode+Network+and+the+Central+Executive+Network%3A+Replication+from+DCM>`_
+   Neuroimage, 99, 180-190.
+#. Han, C. E., Peraza, L. R., Taylor, J.-P. & Kaiser, M.
+   (2014).\ `Predicting age of human subjects based on structural
+   connectivity from diffusion tensor
+   imaging. <http://arxiv.org/abs/1405.5260>`_\ ArXiv Prepr.
+   ArXiv14055260
+#. Heuer, K. et al. (2014).\ `Browsing the connectome: 3D functional and
+   structural brainnetworks in the
+   cloud. <http://pubman.mpdl.mpg.de/pubman/item/escidoc:2055723/component/escidoc:2055722/3872_Heuer.pdf>`_\ 20th
+   Annual Meeting of the Organization for Human Brain Mapping (OHBM)
+#. Hoffstaedter, F., Grefkes, C., Roski, C., Caspers, S., Zilles, K., &
+   Eickhoff, S. B. (2014). `Age-related decrease of functional
+   connectivity additional to gray matter atrophy in a network for
+   movement
+   initiation. <http://www.ncbi.nlm.nih.gov/pubmed/24399178>`_ Brain
+   Structure and Function, Advance online publication. doi:
+   10.1007/s00429-013-0696-2.
+#. Jakab, A., Blanc, R., & Berenyi, E. L. (2012). `Mapping changes of in
+   vivo connectivity patterns in the human mediodorsal thalamus:
+   correlations with higher cognitive and executive
+   functions. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Mapping+changes+of+in+vivo+connectivity+patterns+in+the+human+mediodorsal+thalamus%3A+correlations+with+higher+cognitive+and+executive+functions.>`_
+   Brain imaging and behavior, 6(3), 472-483.
+#. Jakab, A., Emri, M., Spisak, T., Szeman-Nagy, A., Beres, M., Kis, S.
+   A., Molnar, P., & Berenyi, E. (2013). `Autistic traits in
+   neurotypical adults: correlates of graph theoretical functional
+   network topology and white matter anisotropy
+   patterns. <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0060982>`_
+   PloS one, 8(4), e60982.
+#. Jiang, L., Xu, T., He, Y., Hou, X. H., Wang, J., Cao, X. Y., Wei, G.
+   X., Yang, Z., Yong, H., & Zuo, X. N. (2014). `Toward neurobiological
+   characterization of functional homogeneity in the human cortex:
+   regional variation, morphological association and functional
+   covariance network
+   organization. <http://www.ncbi.nlm.nih.gov/pubmed/22584775>`_
+   Brain Structure and Function, Advance online publication. doi:
+   10.1007/s00429-014-0795-8.
+#. Kelly, C., Biswal, B. B., Craddock, R. C., Castellanos, F. X. &
+   Milham, M. P. (2012).\ `Characterizing variation in the functional
+   connectome: promise and
+   pitfalls. <http://www.ncbi.nlm.nih.gov/pubmed/22341211>`_\ Trends
+   Cogn. Sci. 16, 181–188
+#. King, M. D. et al. (2014).\ `Automated collection of imaging and
+   phenotypic data to centralized and distributed data
+   repositories. <http://www.ncbi.nlm.nih.gov/pubmed/24926252>`_\ Front.
+   Neuroinformatics 8, 60
+#. Klein, A., & Tourville, J. (2012). `101 labeled brain images and a
+   consistent human cortical labeling
+   protocol. <http://journal.frontiersin.org/Journal/10.3389/fnins.2012.00171/abstract>`_
+   Frontiers in neuroscience, 6, 171.
+#. Krall, S. C., Rottschy, C., Oberwelland, E., Bzdok, D., Fox, P. T.,
+   Eickhoff, S. B., Fink, G.R., & Konrad, K. (2014). `The role of the
+   right temporoparietal junction in attention and social interaction as
+   revealed by ale
+   meta-analysis. <http://www.ncbi.nlm.nih.gov/pubmed/24915964>`_
+   Brain Structure and Function, Advance online publication. doi:
+   0.1007/s00429-014-0803-z.
+#. Laird, A. R., Eickhoff, S. B., Rottschy, C., Bzdok, D., Ray, K. L., &
+   Fox, P. T. (2013). `Networks of task
+   co-activations. <http://www.ncbi.nlm.nih.gov/pubmed/23631994>`_
+   Neuroimage, 80, 505-514.
+#. Li, K., Langley, J., Li, Z.,& Hu, X. (2014). `Connectomic profiles
+   for individualized resting state networks and
+   rois. <http://www.ncbi.nlm.nih.gov/pubmed/25090040>`_ Brain
+   connectivity, Advance online publication. doi:
+   0.1089/brain.2014.0229.
+#. Liao, Xu-Hong, Ming-Rui Xia, Ting Xu, Zheng-Jia Dai, Xiao-Yan Cao,
+   Hai-Jing Niu, Xi-Nian Zuo, Yu-Feng Zang, and Yong He. (2013).
+   `Functional brain hubs and their test-retest reliability: a multiband
+   resting-state functional mri
+   study. <http://www.ncbi.nlm.nih.gov/pubmed/23899725>`_
+   Neuroimage, 83, 969-982.
+#. Lim, S., Han, C. E., Uhlhaas, P. J., & Kaiser, M. (2013).
+   `Preferential detachment during human brain development: age-and
+   sex-specific structural connectivity in diffusion tensor imaging
+   (dti)
+   data. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Preferential+Detachment+During+Human+Brain+Development%3A+Age-and+Sex-Specific+Structural+Connectivity+in+Diffusion+Tensor+Imaging+%28DTI%29+Data>`_
+   Cerebral Cortex, bht333.
+#. Luo, Q., Lu, W., Cheng, W., Valdes-Sosa, P. A., Wen, X., Ding, M., &
+   Feng, J. (2013). `Spatio-temporal granger causality: a new
+   framework. <http://www.ncbi.nlm.nih.gov/pubmed/23643924>`_
+   Neuroimage, 79, 241-263.
+#. Muller, V. I., Cieslik, E. C., Laird, A. R., Fox, P. T., & Eickhoff,
+   S. B. (2013). `Dysregulated left inferior parietal activity in
+   schizophrenia and depression: functional connectivity and
+   characterization. <http://www.ncbi.nlm.nih.gov/pubmed/23781190>`_
+   Frontiers in human neuroscience, 7, 68.
+#. Muller, V. I., Langner, R., Cieslik, E. C., Rottschy, C., & Eickhoff,
+   S. B. (2014). `Interindividual differences in cognitive flexibility:
+   influence of gray matter volume, functional connectivity and trait
+   impulsivity. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Interindividual+differences+in+cognitive+flexibility%3A+influence+of+gray+matter+volume%2C+functional+connectivity+and+trait+impulsivity>`_
+   Brain Structure and Function, Advance online publication. doi:
+   10.1007/s00429-014-0797-6.
+#. Mwangi, B., Hasan, K. M., & Soares, J. C. (2013). `Prediction of
+   individual subject's age across the human lifespan using diffusion
+   tensor imaging: a machine learning
+   approach. <http://www.ncbi.nlm.nih.gov/pubmed/23501046.>`_
+   Neuroimage, 75, 58-67.
+#. Nickl-Jockschat, T., Rottschy, C., Thommes, J., Schneider, F., Laird,
+   A. R., Fox, P. T., & Eickhoff, S. B. (2014). `Neural networks related
+   to dysfunctional face processing in autism spectrum
+   disorder. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Neural+networks+related+to+dysfunctional+face+processing+in+autism+spectrum+disorder>`_
+   Brain Structure and Function, Advance online publication. doi:
+   10.1007/s00429-014-0791-z.
+#. Nooner, K. B., Mennes, M., Brown, S., Castellanos, F. X., Leventhal,
+   B., Milham, M. P., & Colcombe, S. J. (2013). `Relationship of trauma
+   symptoms to amygdala based functional brain changes in
+   adolescents. <http://onlinelibrary.wiley.com/doi/10.1002/jts.21873/abstract>`_
+   Journal of traumatic stress, 26(6), 784-787.
+#. Oler, J. A., Birn, R. M., Patriat, R., Fox, A. S., Shelton, S. E.,
+   Burghy, C. A., Stodola, D.E., Essex, M. J., Davidson, R. J., & Kalin,
+   N. H. (2012). `Evidence for coordinated functional activity within
+   the extended amygdala of non-human and human
+   primates. <http://www.ncbi.nlm.nih.gov/pubmed/22465841>`_
+   Neuroimage, 61(4), 1059-1066.
+#. Ovadia-Caro, S., Nir, Y., Soddu, A., Ramot, M., Hesselmann, G.,
+   Vanhaudenhuyse, A., Dinstein, I., Tshibanda, J. L., Harel, M.,
+   Laureys, S., & Malach, R. (2012). `Reduction in inter-hemispheric
+   connectivity in disorders of
+   consciousness. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Reduction+in+inter-hemispheric+connectivity+in+disorders+of+consciousness>`_
+   PloS one, 7(5), e37238.
+#. Reetz, K., Dogan, I., Rolfs, A., Binkofski, F., Schulz, J. B., Laird,
+   A. R., Fox, P. T., & Eickhoff, S. B. (2012). `Investigating function
+   and connectivity of morphometric findings exemplified on cerebellar
+   atrophy in spinocerebellar ataxia 17
+   (sca17). <http://www.ncbi.nlm.nih.gov/pubmed/22659444>`_
+   Neuroimage, 62(3), 1354-1366.
+#. Santarnecchi, E., Galli, G., Polizzotto, N. R., Rossi, A., & Rossi,
+   S. (2014). `Efficiency of weak brain connections support general
+   cognitive
+   functioning. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Efficiency+of+weak+brain+connections+support+general+cognitive+functioning>`_
+   Human brain mapping, 35, 4566-4582.
+#. Schaefer, A., Margulies, D. S., Lohmann, G., Gorgolewski, K. J.,
+   Smallwood, J., Kiebel, S. J., & Villringer, A. (2014). `Dynamic
+   network participation of functional connectivity hubs assessed by
+   resting-state
+   fmri. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Dynamic+network+participation+of+functional+connectivity+hubs+assessed+by+resting-state+fMRI>`_
+   Frontiers in human neuroscience, 8, 195.
+#. Shehzad, Z., Kelly, C., Reiss, P. T., Cameron Craddock, R., Emerson,
+   J. W., McMahon, K., Copland, D. A., Castellanos, F. X., & Milham, M.
+   P. (2014). `A multivariate distance-based analytic framework for
+   connectome-wide association
+   studies. <http://www.sciencedirect.com/science/article/pii/S1053811914001232>`_
+   Neuroimage, 93, 74-94.
+#. Sochat, V., Supekar, K., Bustillo, J., Calhoun, V., Turner, J. A., &
+   Rubin, D. L. (2014). `A robust classifier to distinguish noise from
+   fmri independent
+   components. <http://www.ncbi.nlm.nih.gov/pubmed/?term=A+Robust+Classifier+to+Distinguish+Noise+from+fMRI+Independent+Components>`_
+   PloS one, 9(4), e95493.
+#. Tarquino, J., Rueda, A., & Romero, E. (2014). `A multiscale/sparse
+   representation for diffusion weighted imaging (dwi)
+   super-resolution. <http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6868037&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6861559%2F6867780%2F06868037.pdf%3Farnumber%3D6868037>`_
+   In Biomedical Imaging (ISBI), 2014 IEEE 11th International Symposium,
+   983-986.
+#. Tustison, N. J., Avants, B. B., Cook, P. A., Kim, J., Whyte, J., Gee,
+   J. C. and Stone, J. R. (2014) `Logical circularity in voxel-based
+   analysis: normalization strategy may induce statistical
+   bias. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Logical+circularity+in+voxel-based+analysis%3A+Normalization+strategy+may+induce+statistical+bias>`_
+   Hum. Brain Mapp., 35: 745Ã¢â‚¬â€œ759. doi: 10.1002/hbm.22211.
+#. Tustison, N. J., Cook, P. A., Klein, A., Song, G., Das, S. R., Duda,
+   J. T., Kandel, B. M., van Strien, N., Stone, J. R., Gee, J. C.,
+   Avants, B. B. (2014). `Large-scale evaluation of ants and freesurfer
+   cortical thickness
+   measurements. <http://www.ncbi.nlm.nih.gov/pubmed/24879923>`_
+   Neuroimage, 99, 166-179.
+#. Uddin, L. Q., Supekar, K. S., Ryali, S., & Menon, V. (2011). `Dynamic
+   reconfiguration of structural and functional connectivity across core
+   neurocognitive brain networks with
+   development. <http://www.ncbi.nlm.nih.gov/pubmed/?term=Dynamic+reconfiguration+of+structural+and+functional+connectivity+across+core+neurocognitive+brain+networks+with+development>`_
+   The Journal of Neuroscience, 31(50), 18578-18589.
+#. Wang, X, Y Jiao, T Tang, H Wang, and Z Lu. (2013). `Investigating
+   univariate temporal patterns for intrinsic connectivity networks
+   based on complexity and low-frequency oscillation: a test-retest
+   reliability
+   study. <http://www.ncbi.nlm.nih.gov/pubmed/24042040>`_
+   Neuroscience, 254, 404-426.
+#. Wang, X., Yang, N., He, Y., Zhang, Z., Zhu, X., Dong, H., Hou, X.,
+   Li, H., Zuo, X. (2014). `The developmental trajectory of hippocampus
+   across the human lifespan based on multimodal
+   neuroimaging. <http://connection.ebscohost.com/c/articles/95416457/developmental-trajectory-hippocampus-across-human-lifespan-based-multimodal-neuroimaging>`_
+   Chinese Journal of Contemporary Neurology and Neurosurgery, 14(4),
+   291-297.
+#. Yang, Z., Chang, C., Xu, T., Jiang, L., Handwerker, D. A.,
+   Castellanos, F. X., Milham, M.P., Bandettini, P.A., & Zuo, X. N.
+   (2014). `Connectivity trajectory across lifespan differentiates the
+   precuneus from the default
+   network. <http://www.ncbi.nlm.nih.gov/pubmed/24560717>`_
+   Neuroimage, 89, 45-56.
+#. Yang, Z., Craddock, R. C., Margulies, D. S., Yan, C. G., & Milham, M.
+   P. (2014). `Common intrinsic connectivity states among posteromedial
+   cortex subdivisions: insights from analysis of temporal
+   dynamics. <http://www.ncbi.nlm.nih.gov/pubmed/24287438>`_
+   Neuroimage, 93, 124-137.
+#. Zuo, Xi-Nian, Ting Xu, Lili Jiang, Zhi Yang, Xiao-Yan Cao, Yong He,
+   Yu-Feng Zang, F Xavier Castellanos, and Michael P Milham. (2013).
+   `Toward reliable characterization of functional homogeneity in the
+   human brain: preprocessing, scan duration, imaging resolution and
+   computational
+   space. <http://www.ncbi.nlm.nih.gov/pubmed/23085497>`_
+   Neuroimage, 65, 374-386.

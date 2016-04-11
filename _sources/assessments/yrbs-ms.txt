@@ -1,0 +1,9 @@
+Youth Risk Behavior Surveillance System – Middle School - YRBS-MS (2011)
+------------------------------------------------------------------------
+The YRBS-MS is a 45-item self-report questionnaire developed by the Center for Disease Control and Prevention (CDC), used to measure risky behavior in teens and young adults. The focus of the YRBS is to determine incidence and prevalence of specific behaviors in six areas that contribute to leading causes of morbidity and mortality in adolescents and adults. These six areas include: unintentional and intentional injuries; tobacco use; alcohol and other drug use; sexual behaviors that contribute to unintended pregnancy and STD; dietary behaviors that result in disease; and physical inactivity. Behaviors are rated on a multiple-choice response format. 
+
+**Domains Assessed:** :doc:`Depression and Mood <depression>`, :doc:`Eating Behavior <eating>`, :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Substance Use <substance>`
+
+**Note:** This assessment is given to child and adolescent participants, ages 12-13.
+
+**References:** Methodology of the Youth Risk Behavior Surveillance System. MMWR 2004;53(RR-12):1–13.

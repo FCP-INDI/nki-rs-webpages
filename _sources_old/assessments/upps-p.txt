@@ -1,0 +1,15 @@
+UPPS-P Impulsive Behavior Scale
+-------------------------------
+The UPPS-P is a 59-item self-report that assesses five subscales (urgency, premeditation, perseverance, sensation seeking, and positive urgency) that are used to measure five distinct dimensions of impulse behavior in adolescents and adults (ages 12 and older). It is designed to measure impulsivity across dimensions of the Four Factor Model of personality: Premeditation (lack of), Urgency, Sensation Seeking, Perseverance (lack of). 
+
+The Scale is not considered a measure of trait impulsivity, rather, the scales reflect distinct personality traits that lead to impulsive-type behavior. Participants are asked to consider acts/incidents during the last 6 months when rating their behavior and attitudes on a 4-point scale, in which 1-Agree strongly, 2-Agree some, 3-Disagree some, 4-Disagree strongly. 
+
+**Domains Assessed:** :doc:`Risk Taking and Impulsive Behavior <risk>`
+
+**Note:** This assessment is given to participants ages 18-85 years old. 
+
+**References:** 
+
+Whiteside, S. P. and D. R. Lynam (2001). The Five Factor Model and impulsivity: using a structural model of personality to understand impulsivity. Personality and Individual Differences, 30(4): 669-689.
+
+Whiteside SP, Lynam DR, Miller JD, Reynolds SK. (2005). Validation of the UPPS impulsive behaviour scale: a four-factor model of impulsivity. European Journal of Personality. 19:559-574.

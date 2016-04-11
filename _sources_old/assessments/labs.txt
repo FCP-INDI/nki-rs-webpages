@@ -1,0 +1,9 @@
+Labs
+----
+Blood and urine samples are sent to the Office of Mental Health (OMH) Clinical Laboratories at the Nathan S. Kline Institute for Psychiatric Research. The OMH Clinical Laboratory is a full service clinical laboratory, performing much of the routine lab work for Office of Mental Health (OMH) facilities. Specimens are collected at each facility, pre-processed and transported via couriers to the OMH Clinical Laboratories. Once testing is complete and results verified, the reports are returned by computer. The OMH Clinical Laboratory is accredited by the New York State Department of Health (DOH), [Permit # PFI//; 2283, Code 4395M010], the Health Care Financing Administration (HCFA), [CLIA ID# 33D0142107], the College of American Pathologists (CAP), [Laboratory # 26380-01] and is certified by both Medicare [Provider # 33L008708] and Medicaid [Provider # D1367642]. For further information and inquiries about the OMH Clinical Laboratory, contact Dr. Hilbert at (845) 398-5566 or by FAX at (845) 398-5568.
+                 
+**Domains Assessed:** :doc:`Physical <physical>`
+
+**Note:** Labs are obtained for all participants ages 6-85 years old who have been able to successfully provide a blood and/or urine sample. 
+
+**References:** N/A

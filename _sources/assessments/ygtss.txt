@@ -1,0 +1,9 @@
+Yale Global Tic Severity Scale (YGTSS) (1989)
+---------------------------------------------
+The YGTSS rating scale is a 10-item semi-structured clinician-rating instrument that provides an evaluation of the number, frequency, intensity, complexity, and interference of motor and phonic symptoms. The items pertaining to the tic ratings are scored on two subscales: motor tics and phonic tics. Behaviors are rated on a 6-point scale. The scale asks individuals to respond based on symptoms experiences only in the past week. 
+
+**Domains Assessed:** :doc:`Tics <tics>`
+
+**Note:** This assessment is administered to all participants, ages 6-85. 
+
+**References:** Leckman J.F., Riddle M.A., Hardin M.T., Ort S.L., Swartz K.L., Stevenson J., et al. The Yale Global Tic Severity Scale: Initial testing of a clinician-rated scale of tic severity. Journal of the American Academy of Child and Adolescent Psychiatry. 1989;28:566–573.

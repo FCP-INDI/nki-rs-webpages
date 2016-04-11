@@ -1,0 +1,9 @@
+Adult Temperament Questionnaire (ATQ)
+-------------------------------------
+The ATQ short form is a 77-item self-report questionnaire for adults (ages 18 and over) assessing constructs of temperament and personality.  The measure includes constructs of effortful control, negative affect, extraversion/surgency, and orienting sensitivity. Participants are asked to rate how well the items describe them on a 7-point scale: 1-extremely untrue, 2-quite untrue, 3-slightly true, 4-neither true or false, 5-slightly true, 6-quite true, 7-extremely true.
+
+**Domains Assessed:** :doc:`Anxiety <anxiety>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Depression and Mood <depression>`, :doc:`Personality Traits <personality>`, :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Social Interaction <social>`
+
+**Note:** This self-assessment is given to participants ages 16-85 years old.
+
+**References:** Evans, D.E., & Rothbart, M.K. (2007). Development of a model for adult temperament. Journal of Research in Personality, 41, 868-888.

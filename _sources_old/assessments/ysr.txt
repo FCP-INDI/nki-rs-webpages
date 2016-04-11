@@ -1,0 +1,9 @@
+Youth Self-Report (YSR)
+-----------------------
+The YSR is a 112-item self-report designed for children and adolescents (ages 11-17), that assesses behavioral competency and behavioral problems and parallels the Child Behavior Checklist (CBCL). Behaviors are rated on a 3-point scale: 0-Not true, 1-Somewhat or sometimes true and 2-Very true or often true, based on the preceding 6-months. The questionnaire provides scores for the following syndrome scales: anxious/depressed, withdrawn/depressed, somatic complains, social problems, thought problems, rule-breaking behavior, and aggressive behavior. The questionnaire provides scores for the following DSM-oriented scales: affective problems, anxiety problems, somatic problems, attention deficit/hyperactivity problems, oppositional defiant problems, and conduct problems. There are 20 social competency items that measure the child’s participation in hobbies, games, sports, jobs, chores, friendship, and activities.
+
+**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Anxiety <anxiety>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Depression and Mood <depression>`, :doc:`Personality Traits <personality>`, :doc:`Psychotic and Atypical Behavior <psychotic>`, :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Social Interaction <social>`, :doc:`Somatic Complaints <somatic>`, :doc:`Substance Use <substance>`
+
+**Note:** This self-assessment is given to all child participants, ages 11-17. The 20 social competency items are not included. 
+
+**References:** Achenbach, T. M. (1991). Manual for the Youth Self-Report and 1991 profile. Burlington, VT: University of Vermont, Department of Psychiatry.

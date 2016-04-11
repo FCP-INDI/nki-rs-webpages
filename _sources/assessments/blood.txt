@@ -1,0 +1,9 @@
+Blood Collection
+--------------------------------------------------------
+A fasting blood draw is collected for the purpose of obtaining a genetic sample and the following panels: chemistry-7, TSH, T4, lead testing, hemogram, capillary blood glucose and lipid panel.
+
+**Domains Assessed:** :doc:`Physical <physical>`
+
+**Note:** Blood samples are obtained from all participants ages 6-85 years old.
+
+**References:** N/A

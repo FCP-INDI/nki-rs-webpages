@@ -1,0 +1,12 @@
+Personality Traits
+------------------
+
+* :doc:`Adult Self Report (ASR) <asr>`
+* :doc:`Adult Temperament Questionnaire (ATQ) <atq>`
+* :doc:`Behavior Assessment System for Children, 2nd Edition –Parent Rating Scale, 12-17 years old, (BASC – 2 (12–17)) <basc-12-17>`
+* :doc:`The Children’s Behavior Questionnaire (Very Short Form) – (CBQ-VSF) <cbq-vsf>`
+* :doc:`Inventory of Callous-Unemotional Traits – Parent Version (ICUP) <icup>`
+* :doc:`Inventory of Callous-Unemotional Traits – Youth Self-Report (ICUY) <icuy>`
+* :doc:`Interpersonal Reactivity Index (IRI) <iri>`
+* :doc:`NEO Five Factor Inventory (NEO-FFI-3) <neo-ffi-3>`
+* :doc:`Youth Self-Report (YSR) <ysr>`

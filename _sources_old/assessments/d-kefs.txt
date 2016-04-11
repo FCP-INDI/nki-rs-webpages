@@ -1,0 +1,13 @@
+Delis-Kaplan Executive Functioning System (D-KEFS)
+--------------------------------------------------
+The D-KEFS is a set of 9 standardized tests that are designed to evaluate higher-level cognitive functions in children and adults. The 9 stand-alone tests comprehensively assess the key components of executive functions believed to be mediated primarily by the frontal lobe. The tests include: Trail Making, Verbal Fluency, Design Fluency, Color-Word Interference, Sorting, Twenty Questions, Word Context, Tower, Proverb Test. The D-KEFS is administered by trained study staff and hand scored. 
+
+**Domains Assessed:** :doc:`Cognitive and Executive Functioning <cognitive>`
+
+**Note:** This assessment is administered to all participants ages 8-85 years old. The Proverb Test is only administered to participants ages 16-85 years old. 
+
+**References:** 
+
+Delis, D. C., Kaplan, E., & Kramer, J. H. (2001b). Delis-Kaplan Executive Function System (D-KEFS) examiner’s manual (pp. 1-218). San Antonio, TX: The Psychological Corporation.
+
+Delis, D. C., & Kramer, J. H. (2004). Reliability and validity of the delis-kaplan executive function system: An update. Journal of the International Neuropsychological Society, 10(2), 301-303.

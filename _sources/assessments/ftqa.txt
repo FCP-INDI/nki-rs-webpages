@@ -1,0 +1,9 @@
+Modified Fagerstrom Tolerance Questionnaire – Adolescents (FTQA)
+----------------------------------------------------------------
+This self-administered questionnaire consists of 7 questions, and is a modified version of the FTND that aims to assess nicotine tolerance in adolescents.  
+
+**Domains Assessed:** :doc:`Substance Use <substance>`
+
+**Note:** This assessment is given to participants ages 13-17 years old. 
+
+**References:** Prokhorov, A.V., Pallonen, U.E., Fava, J.L., Ding, L., Niaura, R. (1996). Measuring nicotine dependence among high-risk adolescent smokers. Addict Behav, 21 (1), 117-127.

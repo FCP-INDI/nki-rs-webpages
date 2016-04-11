@@ -1,0 +1,13 @@
+Interpersonal Reactivity Index (IRI)
+------------------------------------
+The IRI is a 28-item self- report, and is a well-validated multidimensional measure of empathic ability. Each item includes a statement about thoughts and feelings in a variety of situations, and participants are asked to indicate how well each statement describes them on a 5-point scale: 0-Does not describe me well to 4-Describes me very well. 
+
+**Domains Assessed:** :doc:`Personality Traits <personality>`
+
+**Note:** This assessment is given to participants ages 13-85 years old. 
+
+**References:** 
+
+Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multidimensional approach. Journal of Personality and Social Psychology, 44, 113-126.
+
+Mark H. Davis, 1980. A multidimensional approach to individual difference in empathy. JSAS Catalog of Selected Documents in Psychology, 10, 85.

@@ -1,0 +1,7 @@
+Trauma
+------
+* :doc:`Diagnostic Summary <diagnostic>`
+* :doc:`Trauma Symptom Checklist for Adults (TSC-40) <tsc-40>`
+* :doc:`Trauma Symptom Checklist for Children (TSC-C) <tsc-c>`
+* :doc:`University of California at Los Angeles Posttraumatic Stress Disorder Reaction Index (UCLA-Youth) <ucla-youth>`
+* :doc:`University of California at Los Angeles Posttraumatic Stress Disorder Reaction Index (UCLA-Parent) <ucla-parent>`

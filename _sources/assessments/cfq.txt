@@ -1,0 +1,13 @@
+The Cognitive Failures Questionnaire (CFQ)
+------------------------------------------
+The CFQ is a 25-item self-report questionnaire assessing failures in perception, memory, and motor function in the completion of everyday tasks in the past 6 months. Individuals are asked to rate the frequency experiences and behaviors on a 5-point scale: 0-Never, 1-Very rarely, 2-Ocassionally, 3-Quite often, 4-Very often.
+
+**Domains Assessed:** :doc:`Cognitive and Executive Functioning <cognitive>`
+
+**Note:** This self-assessment is given to adolescents and adults participants ages 16–85 years old. 
+
+**References:** 
+
+Broadbent, D. E., Cooper, P. F., FitzGerald, P., & Parkes, K. R. (1982). The cognitive failures questionnaire (CFQ) and its correlates. British Journal of Clinical Psychology, 21(1), 1-16.
+
+Rast, P., Zimprich, D., Van Boxtel, M., & Jolles, J. (2009). Factor structure and measurement invariance of the cognitive failures questionnaire across the adult life span. Assessment, 16(2), 145-58.

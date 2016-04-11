@@ -1,0 +1,17 @@
+The Early Adolescent Temperament Questionnaire (Revised) Parent Report (EATQ-R)
+-------------------------------------------------------------------------------
+The EATQ-R (Parent Report) is a 62-item assessment of temperament and behavior in children and adolescents (ages 9 to 15 years old). The following scales are included: activation control, affiliation, attention, fear, frustration, high-intensity pleasure, inhibitory control, shyness, and aggression and depressive mood. Parents are asked to rate how true the characteristics and behaviors are of their child on a 5-point scale: 1-Almost always untrue, 2-Usually untrue, 3-Sometimes true, sometimes untrue, 4-Usually true, 5-Almost always true. 
+
+**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Anxiety <anxiety>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Depression and Mood <depression>`, :doc:`Social Interaction <social>`
+
+**Note:** This self-assessment is administered to the guardian of child participants ages 9-15 years old. 
+
+**References:** 
+
+Ellis, L. K., & Rothbart, M. K. (2001, April). Revision of the Early Adolescent Temperament Questionnaire. Poster presented at the biennial meeting of the Society for Research in Child Development, Minneapolis, MN.
+
+Capaldi, D. M., & Rothbart, M. K. (1992). Development and validation of an early adolescent temperament measure. Journal of Early Adolescence, 12(2), 153-173.
+
+Ellis, L. K. (2002). Individual differences and adolescent psychological development. Unpublished doctoral dissertation, University of Oregon.
+
+Ellis, L. K., & Rothbart, M. K. (2001). Revision of the Early Adolescent Temperament Questionnaire. Poster presented at the 2001 Biennial Meeting of the Society for Research in Child Development, Minneapolis, Minnesota.

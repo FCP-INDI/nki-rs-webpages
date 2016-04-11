@@ -1,0 +1,9 @@
+Conners Adult ADHD Rating Scale – Self Report, Short Version (CAARS-S:S)
+------------------------------------------------------------------------
+The CAARS-S:S is a 26-item self-report questionnaire assessing ADHD symptoms in adults (ages 18 and up). Individuals are asked to rate themselves on a range of symptoms and behaviors associated with ADHD in adults, using a 4-point scale: 0-Not at all, never, 1-Just a little, once in a while, 2-Pretty much, often, 3-Very much, very frequently.
+
+**Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>`
+
+**Note:** This self-assessment is given to participants ages 18-85 years old. 
+
+**References:** Conners, C. K., Erhardt, D., & Sparrow, E. (1999). Conners' adult ADHD rating scales (CAARS). Multi-Health Systems, Inc. 

@@ -1,0 +1,9 @@
+The Children’s Eating Behavior Questionnaire (CEBQ)
+---------------------------------------------------
+The CEBQ is a 35-item informant-report questionnaire assessing eating style in children. Eating style is assessed on 8 scales (food responsiveness, enjoyment of food, emotional overeating, desire to drink, satiety responsiveness, slowness in eating, emotional undereating, and fussiness). Informants rate the frequency of their child’s behaviors and experiences on a 5-point scale: 1-never, 2-rarely, 3-sometimes, 4-often, 5-always. 
+
+**Domains Assessed:** :doc:`Eating Behavior <eating>`
+
+**Note:** This self-assessment is given to guardians of child participants ages 6-11 years old.  
+
+**References:** Wardle, J., Guthrie, C. A., Sanderson, S., & Rapoport, L. (2001). Development of the children's eating behaviour questionnaire. Journal of Child Psychology and Psychiatry, 42(07), 963-970.

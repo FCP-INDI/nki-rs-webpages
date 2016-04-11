@@ -1,0 +1,94 @@
+Participant Schedule
+---------------------
+
+During review of the finalized phenotyping protocol, a key concern that
+emerged was that the comprehensiveness of the phenotyping protocol
+increased the burden to participants and experimenters – potentially
+endangering its effectiveness due to factors such as fatigue and
+increased data management needs. To address these concerns, the NKI-RS
+protocol was decompressed from a 1- to a 2-day format.
+
+Adult Schedule
+^^^^^^^^^^^^^^^
+
+.. figure:: /_images/adult_schedule.png
+
+This figure illustrates the 2-day assessment schedule for adult
+participants (ages 18–85 years) in the Nathan Kline Institute-Rockland
+Sample (NKI-RS) protocol. Abbreviations for the assessments: ANT,
+Attention Network Task; ASR, Adult Self Report; ATQ, Adult Temperament
+Questionnaire; BDI, Beck Depression Inventory-II; CAARS, Conners’ Adult
+ADHD Rating Scales; CASI-AOD, Comprehensive Adolescent Severity
+Inventory – Alcohol and Other Drugs; CHRLS, Cambridge-Hopkins Restless
+Leg Syndrome Questionnaire; CFQ, Cognitive Failures Questionnaire;
+DOSPERT, DOSPERT Risk Taking Scale; GDS-LF, Geriatric Depression
+Scale-Long Form; OASR, Older Adult Self Report; EDEQ, Eating Disorder
+Examination Questionnaire; EHI, Edinburgh Handedness Inventory; FTND,
+Fagerstrom Test for Nicotine Dependence; ICU-Y, Inventory of
+Callous-Unemotional Traits Youth Version; IPAQ, International Physical
+Activity Questionnaire; IRI, Interpersonal Reactivity Index; NEO-FFI,
+NEO Five Factor Inventory; PDI-21, 21-Item Peters et al. Delusions
+Inventory; PSQI, Pittsburgh Sleep Quality Index; STAI, State Trait
+Anxiety Inventory; TFEQ, Three Factor Eating Questionnaire; TSC-40,
+Trauma Symptom Checklist; UCLA-RI, UCLA PTSD Reaction Index for Children
+and Adolescents; UPPS-P, UPPS Impulsive Behavior Scale; Vineland-II,
+Vineland Adaptive Behavior Scales Parent Rating Form, Second Edition;
+WASI-II, Wechsler Abbreviated Scale of Intelligence-II; WIAT-II-A,
+Wechsler Individual Achievement Test-II-Abbreviated; Y-BOCS, Yale-Brown
+Obsessive Compulsive Scale; YGTSS, Yale Global Tic Severity Scale;
+YRBSS, Youth Risk Behavior Surveillance System.
+
+Child Schedule
+^^^^^^^^^^^^^^^
+
+.. figure:: /_images/child_schedule.png
+
+This figure illustrates the 2-day assessment schedule for child and
+parent participants (children ages 6–17 years) in the Nathan Kline
+Institute-Rockland Sample (NKI-RS) protocol. Abbreviations for the
+assessments: ANT, Attention Network Task; ASSQ, Autism Spectrum
+Screening Questionnaire; ATQ, Adult Temperament Questionnaire; BASC-2,
+Behavioral Assessment System for Children; CASI-AOD, Comprehensive
+Adolescent Severity Inventory-Alcohol and Other Drugs; CASS-S,
+Conner-Wells’ Adolescent Self-Report Scale-Short; CBCL, Child Behavioral
+Checklist; CBQ, Children’s Behavior Questionnaire; CFQ, Cognitive
+Failures Questionnaire; CDI-II, Children’s Depression Inventory-II;
+CEBQ, Child Eating Behavior Questionnaire; CPRS-R-S, Conners’ Parent
+Rating Scale-Revised-Short; CY-BOCS, Children’s Yale-Brown Obsessive
+Compulsive Scale; EATQ, Early Adolescent Temperament Questionnaire
+Parent Report; EDEQ, Eating Disorder Examination Questionnaire; EHI,
+Edinburgh Handedness Inventory; FTAQ, Fagerstrom Tolerance Questionnaire
+for Adolescents; ICU-P, Inventory of Callous-Unemotional Traits Parent
+Report; ICU-Y, Inventory of Callous-Unemotional Traits Youth Version;
+IPAQ, International Physical Activity Questionnaire; IRI, Interpersonal
+Reactivity Index; K-SADS-PL, Kiddie Schedule for Affective Disorders and
+Schizophrenia; MASC, Multidimensional Anxiety Scale for Children; MRI-Q,
+Magnetic Resonance Imaging Questionnaire; NEO-FFI, NEO Five Factor
+Inventory; PSQI, Pittsburgh Sleep Quality Index; RBSR, Repetitive
+Behavior Scale-Revised; SES, Hollingshead Four Factor Index of
+Socioeconomic Status; SRS, Social Responsiveness Scale-Parent Report;
+SWAN, Strengths and Weaknesses of Attention-Deficit/Hyperactivity
+Disorder Symptoms and Normal-Behavior Scale-Parent Version; TANN, Tanner
+Staging; TFEQ, Three Factor Eating Questionnaire; TSC-C, Trauma Symptom
+Checklist for Children; UCLA-RI, UCLA PTSD Reaction Index for Children
+and Adolescents; UCLA-RI-P, UCLA PTSD Reaction Index–Parent version;
+Vineland-II, Vineland Adaptive Behavior Scales Parent Rating Form,
+Second Edition; WASI-II, Wechsler Abbreviated Scale of Intelligence-II;
+WIAT-II-A, Wechsler Individual Achievement Test-II-Abbreviated; YGTSS,
+Yale Global Tic Severity Scale; YRBSS, Youth Risk Behavior Surveillance
+System; YSR, Achenbach Youth Self Report.
+
+Neurofeedback Schedule
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_images/NFB_Schedule.png
+
+This figure illustrates the 3-day assessment schedule for adult
+participants (ages 21–45 years) in the Neurofeedback protocol.
+Abbreviations for the assessments: MSIT = Multi-Source Interference
+Task; RVIP = Rapid Visual Information Processing; AIM = Affect Intensity
+Measure; ERQ = Emotion Regulation Questionnaire; PANAS-S = Positive and
+Negative Affect Schedule – State; QME = Questionnaire on Meditation
+Experience; RRS = Ruminative Responses Scale; PSWQ = Penn State Worry
+Questionnaire; PTQ = Perseverative Thought Questionnaire; SIPI = Short
+Imaginal Processes Inventory

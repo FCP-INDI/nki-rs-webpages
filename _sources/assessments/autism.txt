@@ -1,0 +1,9 @@
+Autism Spectrum
+---------------
+
+* :doc:`The High-Functioning Autism Spectrum Screening Questionnaire (ASSQ) <assq>`
+* :doc:`Diagnostic Summary <diagnostic>`
+* :doc:`Medical History Questionnaire-Adult <mhq-a>`
+* :doc:`Medical History Questionnaire-Child <mhq-c>`
+* :doc:`Repetitive Behaviors Scale – Revised (RBS-R) <rbs-r>`
+* :doc:`Social Responsiveness Scale (SRS) - Parent Report <srs>`

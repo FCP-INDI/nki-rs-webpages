@@ -1,0 +1,9 @@
+The Child Behavior Checklist – Parent Report Form (CBCL)
+--------------------------------------------------------
+The CBCL is a 113-item informant-report questionnaire assessing behavioral competency and behavioral problems in children (ages 6 – 18) within the past six months. The following syndrome scales are assessed: anxious/depressed, withdrawn/depressed, somatic complains, social problems, thought problems, rule-breaking behavior, and aggressive behavior. The following DSM-oriented scales are assessed: affective problems, anxiety problems, somatic problems, attention deficit/hyperactivity problems, oppositional defiant problems, and conduct problems. Additionally, there are 20 social competency items used to obtain parents’ reports of the amount and quality of their child’s participation in sports, hobbies, games, activities, organizations, jobs and chores, friendships, how well the child gets along with others and plays and works by him/herself, and school functioning. Behaviors are rated on a 3-point scale: 0-Not true (as far as you know), 1-Somewhat or sometimes true, 2-Very true or often true.
+
+**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Anxiety <anxiety>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Depression and Mood <depression>`, :doc:`Psychotic and Atypical Behavior <psychotic>`, :doc:`Risk Taking and Impulsive Behavior <risk>`, :doc:`Social Interaction <social>`, :doc:`Somatic Complaints <somatic>`, :doc:`Substance Use <substance>` (item-level)
+
+**Note:** This self-assessment is given to guardians of children and adolescents ages 6-17 years old. The 20 social competency items are not included. 
+
+**References:** Achenbach, T. M. (1991). Integrative guide for the 1991 CBCL/4-18, YSR, and TRF profiles. Dept. of Psychiatry, University of Vermont.

@@ -1,0 +1,159 @@
+Magnetic Resonance Imaging Protocol
+------------------------------------
+
+Multi-Band Imaging
+^^^^^^^^^^^^^^^^^^^
+
+Recently developed multiband echo planar Imaging (`Moeller et al.,
+2010 <http://www.ncbi.nlm.nih.gov/pubmed?term=auerbach%20multiband>`_)
+and `multiplexed echo planar
+imaging <http://www.cmrr.umn.edu/research/neuro-3.shtml>`_ (`Feinberg
+et al.,
+2010 <http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710>`_)
+approaches enable the acquisition of functional MRI and diffusion
+imaging data with unprecedented sampling rates for full-brain coverage
+through the acquisition of multiple slices simultaneously in the same
+time it takes to obtain a single slice image using standard EPI
+(`Feinberg et al. (in
+press) <http://www.sciencedirect.com/science/article/pii/S1053811912000663>`_,
+see `Smith et al.
+(2012) <http://www.pnas.org/content/early/2012/02/07/1121329109.abstract>`_
+for initial application of Multiband EPI with recent improvements (Xu et
+al. 2012). The `Center for Magnetic Resonance Research
+(CMRR) <http://www.cmrr.umn.edu/>`_, University of Minnesota, where
+these sequences are developed for the Washington University-University
+of Minnesota (WU-Minn) consortium of the `Human Connectome
+Project <http://humanconnectome.org/>`_, has provided the NKI-RS effort
+with the latest version of the Multiband EPI sequence (Xu et al. 2012)
+and associated image reconstruction algorithms, enabling the acquisition
+of state-of-the-art imaging datasets for this large-scale imaging
+effort. Specific parameter selections were based on initial pilot data
+to optimize image quality on our scanner. As specified in detail below,
+three R-fMRI sequences are included in the protocol - one with a TR =
+645msec (3mm isotropic voxels, 10 minutes) to provide optimal temporal
+resolution and another with TR = 1400msec (2mm isotropic voxels, 10
+minutes) to provide optimal spatial resolution. A standard EPI sequence
+(TR = 2500msec, 3mm isotropic voxels, 5 minutes) is included also for
+reference. We are very grateful to WU-Minn HCP members at CMRR for
+guidance and assistance in the design, implementation and
+troubleshooting of these sequences and their reconstruction. These
+sequences and the associated image reconstruction algorithms for the
+Siemens platforms are `available for distribution from
+CMRR <http://www.cmrr.umn.edu/multiband/>`_.
+
+Important Analytic Considerations for Multiband Imaging
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Innovations associated with multiband imaging (e.g., simultaneous
+acquisition of multiple slices) can introduce novel challenges for
+functional MRI imaging preprocessing and analyses. When using this data
+please keep in mind the following caveats provided by Christian Beckmann
+and Steve Smith from the HCP:
+
+* The increased number of time points obtained when using short TR will
+   change the temporal degrees of freedom. This can be used to drive
+   investigations into the temporal characteristics of resting-state
+   patterns (see `Smith et al.
+   (2012) <http://www.pnas.org/content/early/2012/02/07/1121329109.abstract>`_).
+   However, the effective temporal autocorrelation will change. This
+   needs to be corrected for, e.g. when converting regression
+   coefficients or correlation coefficients to T, Z or P statistics (for
+   more discussion see `Feinberg et al.,
+   2010 <http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710>`_)
+* The spatial smoothness of the data may be affected. In particular,
+   smoothness can be non-stationary, so Gaussian-Random Field
+   Theory-based inference (e.g. cluster-correction in in SPM or FSL)
+   might not be suitable.
+* Because multiple slices are excited simultaneously, simple slice time
+   correction will not work and each slice will need to be corrected
+   using custom timing information. Given the short effective TR it is
+   probably less important, though.
+
+Scans Acquired-Cross Sectional Lifespan Connectomics and Longitudinal Developmental Connectomics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `MPRAGE (TR = 1900; voxel size = 1mm
+   isotropic) <http://fcon_1000.projects.nitrc.org/indi/enhanced/NKI_MPRAGE.pdf>`_
+
+* `R-mfMRI (TR = 645msec; voxel size = 3mm isotropic; duration = 10
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_645.pdf>`_
+
+* `R-mfMRI (TR = 1400msec; voxel size = 2mm isotropic; duration = 10
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_1400.pdf>`_
+
+* `R-fMRI (TR = 2500msec; voxel size = 3mm isotropic; duration = 5
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_CAP.pdf>`_
+
+* `Diffusion Tensor Imaging (137 direction; voxel size = 2mm
+   isotropic) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/DIff_137.pdf>`_
+
+* `Visual Checkboard Stimulation (TR = 645msec; voxel size = 3mm
+   isotropic; duration = 2.5
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_645.pdf>`_
+
+* `Visual Checkboard Stimulation (TR = 1400msec; voxel size = 2mm
+   isotropic; duration = 2.5
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_1400.pdf>`_
+
+       * `Visual Checkerboard Stimulation Design
+          File <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/CheckboardParadigm.txt>`_
+       * `Visual Checkerboard Stimulation Stimuls Execution
+          Script <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker.zip>`_
+          (for use with `VisionEgg <http://www.visionegg.org/>`_)
+
+* `Breath Holding (TR = 1400msec; voxel size = 2mm isotropic; duration
+   = 10
+   minutes) <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Breath_1400.pdf>`_
+
+       * `Breath Holding Stimulus Design
+          File <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BreathHoldParadigm.txt>`_
+       * `Breath Holding Stimulus Executino
+          Script <http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BH_serial_nostop.py>`_
+          (for use with `VisionEgg <http://www.visionegg.org/>`_)
+
+Scans Acquired-Real-Time Neurofeedback
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `MPRAGE (TR = 2600; voxel size = 1mm
+   isotropic) <http://fcon_1000.projects.nitrc.org/indi/enhanced/MPRAGE.pdf>`_
+
+* `Field Map (GRE, TE1 = 2.72 ms / TE2 =5.18 ms, TR = 500; voxel size =
+   3.4 x 3.4 x 3.6 mm, gap = 0.36 mm; dur = 1
+   min;) <http://fcon_1000.projects.nitrc.org/indi/enhanced/FieldMap.pdf>`_
+
+* `Mask (EPI, TE = 30 ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6
+   mm; gap = 0.36 mm; dur = 10
+   sec) <http://fcon_1000.projects.nitrc.org/indi/enhanced/Mask.pdf>`_
+
+* `R-fMRI (EPI, TE = 30ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6
+   mm; gap = 0.36 mm; dur = 6
+   min) <http://fcon_1000.projects.nitrc.org/indi/enhanced/r-fMRI.pdf>`_
+
+* `RTfMRI (EPI, TE = 30 ms, TR =2000 ms, voxel size = 3.4 x 3.4 x 3.6
+   mm; gap = 0.36 mm, dur = 14
+   min) <http://fcon_1000.projects.nitrc.org/indi/enhanced/RTfMRI.pdf>`_
+
+       * `RTfMRI Neurofeedback Task
+          Materials <http://fcon_1000.projects.nitrc.org/indi/enhanced/NFB.zip>`_
+
+* `Multi Source Interference Task (EPI, TE = 30 ms, TR = 2000 ms, voxel
+   size = 3.4 x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 7
+   min) <http://fcon_1000.projects.nitrc.org/indi/enhanced/MSIT.pdf>`_
+
+       * `MSIT Neurofeedback Task
+          Materials <http://fcon_1000.projects.nitrc.org/indi/enhanced/msit-master.zip>`_
+
+* `Moral Dilemma Task (EPI, TE = 30 ms ,TR = 2000 ms, voxel size = 3.4
+   x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 5
+   min) <http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.pdf>`_
+
+       * `Moral Dilemma Task
+          Materials <http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.zip>`_
+
+References
+-----------
+
+Xu, J., S. Moeller, J. Strupp, E. Auerbach, L. Chen, D. Feinberg, K.
+Ugurbil and E. Yacoub (2012). “Highly accelerated whole Brain Imaging
+Using Aligned-Blipped-Controlled Aliasing Multiband EPI.” Proc. Int.
+Soc. Mag Reson Med.

@@ -1,0 +1,9 @@
+Trauma Symptom Checklist for Children (TSC-C)
+---------------------------------------------
+The TSC-C is a 54-item self-report inventory assessing posttraumatic stress in children (ages 8 -17) who have experienced traumatic events such as physical or sexual abuse, major loss, natural disaster, or violence. The following clinical scales are assessed: Anxiety, Depression, Anger, Posttraumatic Stress, Dissociation, and Sexual Concerns. Child participants are asked to rate the frequency of certain thoughts and behaviors on a 4-point scale: 0-Never 1-Sometimes, 2-Lots of the time, 3-Almost all the time. 
+
+**Domains Assessed:** :doc:`Trauma <trauma>`
+
+**Note:** This assessment is given to child participants, ages 8-17 years old.
+
+**References:** Briere, J. (1996). Trauma Symptom Checklist for Children (TSCC) Professional Manual. Odessa, FL: Psychological Assessment Resources.

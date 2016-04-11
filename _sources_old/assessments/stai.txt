@@ -1,0 +1,9 @@
+State Trait Anxiety Inventory (STAI)
+------------------------------------
+The STAI is a 40-Item self-report questionnaire designed to evaluate anxiety in adults (18 years and older).  A version exists for children as well. It is analysis of reported anxiety symptoms and is divided into two sections, each with twenty questions.  The first subscale measures state anxiety, the second measures trait anxiety. Both use ratings on a 4-point scale: 1-Almost never, 2-Sometimes, 3-Often, 4-Almost always. Higher score reflects greater symptomatology of anxiety. 
+
+**Domains Assessed:** :doc:`Anxiety <anxiety>`
+
+**Note:** This assessment is administered to participants ages 18-85 years old.
+
+**References:** Spielberger, C.D.; Gorsuch, R.L & Lushene, R.E. (1970). Manual for the State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.

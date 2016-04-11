@@ -1,0 +1,9 @@
+Medical History Questionnaire-Child
+-----------------------------------
+This questionnaire is designed to get a detailed and comprehensive history of the participant’s medical and psychiatric history. Parents are asked to respond Yes or No to a list of possible medical issues about their child, and for some are asked to specify type.
+
+**Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>` (item-level), :doc:`Autism Spectrum <autism>` (item-level), :doc:`Background Information <background>`, :doc:`Depression and Mood <depression>` (item-level), :doc:`Eating Behavior <eating>` (item-level), Psychotic and Atypical and Behavior (item-level), :doc:`Somatic Complaints <somatic>` (item-level), :doc:`Tics <tics>` (item-level)
+
+**Note:** This assessment is completed by guardians of child participants, ages 6-17 years old.
+
+**References:** Merikangas, K., project in development. 

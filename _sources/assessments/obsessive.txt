@@ -1,0 +1,7 @@
+Obsessive-Compulsive Disorder
+-----------------------------
+
+* :doc:`CY-BOCS & Y-BOCS Severity Ratings <bocs>`
+* :doc:`Diagnostic Summary <diagnostic>`
+* :doc:`Medical History Questionnaire-Adult <mhq-a>`
+* :doc:`Medical History Questionnaire-Child <mhq-c>`

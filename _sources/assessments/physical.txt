@@ -1,0 +1,13 @@
+Physical
+--------
+
+* :doc:`Actigraphy <actigraphy>`
+* :doc:`Bike Test <bike>`
+* :doc:`Blood Collection <blood>`
+* :doc:`Edinburgh Handedness Questionnaire (EHQ) – modified by Mark Cohen in 2008 <ehq>`
+* :doc:`Grip Strength <grip>`
+* :doc:`Height/Weight/Vitals <vitals>`
+* :doc:`International Physical Activity Questionnaire (IPAQ) <ipaq>`
+* :doc:`Ishihara’s Test for Color Deficiency <ishihara>`
+* :doc:`Labs <labs>`
+* :doc:`Tanner <tanner>`

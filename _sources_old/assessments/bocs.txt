@@ -1,0 +1,9 @@
+CY-BOCS & Y-BOCS Severity Ratings
+---------------------------------
+The CY-BOCS and Y-BOCS rating scales is 10-item semi-structured clinician –rating instruments that assess the severity and type of symptoms in children and adolescents (ages 6-14) and adolescents and adults (ages 14 and up) with Obsessive Compulsive Disorder. Severity of compulsions and obsessions are rated on a 5-point scale. The scale asks individuals to respond based on symptoms experiences only in the past week. Ratings are primarily based on the participant’s report, however the final ratings are based on the clinical judgment of the interviewer. 
+
+**Domains Assessed:** :doc:`Obsessive-Compulsive Disorder <obsessive>`
+
+**Note:** The CY-BOCS assessment is administered to child participants ages 6-17 years old, and the Y-BOCS assessment is administered to adult participants ages 18-85.
+
+**References:** Goodman, W.K., et al. (1989). The Yale-Brown Obsessive-Compulsive Scale. I. Developmental use and reliability. Archives of General Psychiatry, 46(11), 1006-11.
