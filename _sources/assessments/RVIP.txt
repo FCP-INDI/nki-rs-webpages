@@ -1,0 +1,30 @@
+RVIP Assessment
+----------------
+
+The rapid visual information processing task measures sustained
+attention ability as well as working memory. The task is administered
+using custom software that conforms to literature describing its
+original implementation in the Cambridge Neuropsychological Test
+Automated Battery (CANTAB; see Sahakian & Owen, 1992). As a behavioral
+task, the RVIP provides a number of possible outcome measures. In the
+release, the following variables will be provided: Total targets, Hits,
+Misses, false alarms, mean rate, hit rate, false alarm rate, A’ (A’ is
+an alternative to the more common d’ in signal detection theory, both of
+which reflect a ratio of hits to false alarms; for more details see
+e.g., Stanislaw & Todorov, 1999).
+
+**Domains Assessed:** :doc:`Attention Problems and Hyperactivity* <attention>`, :doc:`Cognitive and Executive Functioning <cognitive>`
+
+**References:**
+
+Sahakian, B.J. & Owen, A.M. (1992). Computerized assessment in
+neuropsychiatry using CANTAB: discussion paper. Journal of the Royal
+Society of Medicine, 85, 399-402.
+
+Stanislaw, H. & Todorov, N. (1999). Calculation of signal detection
+theory measures. Behavior Research Methods: Instruments & Computers, 31:
+137-149.
+
+Wesnes K, Warburton DM (1984). Effects of scopolamine and nicotine on
+human rapid information processing performance. Psychopharmacology 82:
+147–150.

@@ -1,0 +1,44 @@
+Moral Dilemma Task
+-------------------
+
+The Moral Dilemma (MD) task consists of 24 moral dilemma and 24 control
+vignettes or scenarios in which brief background info is provided and
+the participant is instructed to make a decision about what he or she
+would do in that scenario (for the moral dilemma) or what the result of
+the scenario would be (control) (see Harrison et al. 2008). Prior to
+performing the task in the MRI scanner, participants are shown pictures
+relating to each vignette and are played an audio recording describing
+the event. During the MRI scan, participants are shown an image
+corresponding to a vignette and hear a question that either relates to a
+moral dilemma posed by the vignette or is related to an event that
+occurred in the vignette (for moral dilemma and control scenarios,
+respectively). For both conditions, participants were instructed to
+indicate yes or no using a button response box. The MD task is a block
+design task, meaning that control vignettes and moral dilemma vignettes
+are each presented separately for short blocks of time that alternate.
+Prior work with the MD task has shown strong activation of Default Mode
+Network (DMN) regions during moral dilemma relative to control scenarios
+(Harrison et al. 2008). As the NFB protocol was designed to examine
+relationships between DMN regulation and activity, the MD task provides
+a basis to directly examine task-induced activation of the DMN.
+
+**Domains Assessed:**
+
+**Note:** Blocks are 30 seconds in length.
+
+**For Subjects run PRIOR TO 2/12/2014, use the following stimulus onset
+times:**
+
+Control blocks: 0, 60, 120, and 180 seconds. Moral Dilemma blocks: 30,
+90, 150, and 210 seconds.
+
+**For Subjects run AFTER 2/12/2014, use the following stimulus onset
+times:**
+
+Control Blocks: 20, 80, 140, and 200 seconds. Moral Dilemma blocks: 50,
+110, 170, and 230 seconds.
+
+**References:** Harrison, B.J., Pujol, J., Lopez-Sola, M.,
+Hernadez-Ribas, R., Deus, J., Ortiz, H., Soriano-Mas, C., Yucel, M.,
+Pantelis, C., & Cardoner, N. (2008). Consistency and functional
+specialization in the default mode brain network. PNAS, 105, 9781-9786.

@@ -1,0 +1,6 @@
+Sex and Gender
+---------------
+
+*  :doc:`PhenX Sexual History <PhenX>`
+*  :doc:`Sex Role Identity Scale* <SRIS>`
+*  :doc:`Sexual Orientation Scale* <orientation>`

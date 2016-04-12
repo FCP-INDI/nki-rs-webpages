@@ -1,0 +1,14 @@
+Sex Role Identity Scale
+------------------------
+
+The Sex Role Identity Scale assesses an individual’s gender role
+characterization.
+
+**Domains Assessed:** :doc:`Sex and Gender <sexgender>`
+
+**Note:** The Sex role Identity Scale is administered to adolescents
+and adults ages 13-85.
+
+**References:** Suggested by Dr. Theo Sandfort. Adapted from: Sex Role
+Identity Scale. Journal of Personality and Social Psychology. 1979, Vol.
+37, No. 10, 1779-1789.

@@ -1,0 +1,11 @@
+Sexual Orientation Scale
+-------------------------
+
+The Sexual Orientation Scale assesses self-reported sexual preference.
+
+**Domains Assessed:** :doc:`Sex and Gender <sexgender>`
+
+**Note:** The Sexual Orientation Scale is administered to adolescents
+and adults ages 13-85.
+
+**References:** Suggested by Dr. Theo Sandfort

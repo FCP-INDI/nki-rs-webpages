@@ -1,0 +1,5 @@
+Distress Tolerance
+-------------------
+
+*  :doc:`The Behavioral Indicator of Resiliency to Distress
+   (BIRD) <BIRD>`
