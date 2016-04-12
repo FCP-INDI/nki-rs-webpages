@@ -1,9 +1,0 @@
-Medical History Questionnaire-Adult
------------------------------------
-This questionnaire is designed to get a detailed and comprehensive history of the participant’s medical and psychiatric history. Participants respond Yes or No to a list of possible medical issues, and for some are asked to specify type.
-
-**Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Autism Spectrum <autism>`, :doc:`Background Information <background>`, :doc:`Depression and Mood <depression>`, :doc:`Eating Behavior <eating>`, :doc:`Psychotic and Atypical Behavior <psychotic>`, :doc:`Somatic Complaints <somatic>`, :doc:`Tics <tics>`
-
-**Note:** This assessment is given to all adult participants, ages 18-85 years old. 
-
-**References:** Merikangas, K., project in development.

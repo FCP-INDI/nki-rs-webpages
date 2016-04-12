@@ -1,9 +1,0 @@
-Older Adult Self Report (OASR)
-------------------------------
-The OASR is a 127-item self-administered instrument designed for older adults (ages 60-90) that examines diverse aspects of adaptive functioning and problems. Participants are asked to review a list of items that describe people, and select the best answer to describe themselves over the past two months on a 3-point scale: 0-Not true, 1-Somewhat or Sometimes True, 2-Very True or Often True. The questionnaire provides scores for the following syndrome scales: anxious/depressed, worries, somatic complaints, functional impairment, memory/cognition problems, thought problems, and irritable/disinhibited. The questionnaire provides scores for the following DSM-oriented scales: depressive problems, anxiety problems, somatic problems, dementia problems, psychotic problems, and antisocial personality problems. Additionally, the questionnaire asks about their use of tobacco, alcohol, and drugs. 
-
-**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Anxiety <anxiety>`, :doc:`Cognitive and Executive Functioning <cognitive>`, :doc:`Depression and Mood <depression>`, :doc:`Psychotic and Atypical Behavior <psychotic>`, :doc:`Somatic Complaints <somatic>`
-
-**Note:** This assessment is given to participants ages 60-85 years old. The adaptive functioning scales are not included. 
-
-**References:** Achenbach, T. M., Newhouse, P.A., & Rescorla, L. A. (2004). Manual for the ASEBA Older Adult Forms & Profiles. Burlington, VT: University of Vermont, Research Center for Children, Youth, & Families.

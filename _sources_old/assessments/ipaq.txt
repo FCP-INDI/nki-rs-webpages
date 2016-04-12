@@ -1,9 +1,0 @@
-International Physical Activity Questionnaire (IPAQ)
-----------------------------------------------------
-The purpose of the International Physical Activity Questionnaires (IPAQ) is to provide a set of well-developed instruments that can be used internationally to obtain comparable estimates of physical activity. This questionnaire asks the participant about time spent being physically active in the last 7 days, and includes activities that are done at work, as part of house and yard work, getting from place to place, and in spare time for recreation, exercise, and sport. The participant is asked about time spent in vigorous physical activities (referring to activities that take hard physical effort and make you breathe much harder than normal) and moderate activities (referring to activities that take moderate physical effort and make you breathe somewhat harder than normal). The participant is asked to indicate how many days in the last week were spent in either vigorous or moderate activities as part of each aspect of their lives, and further asked to indicate how much time is spend on those activities each day (in hours and minutes). 
-
-**Domains Assessed:** :doc:`Physical <physical>`
-
-**Note:** This self-assessment is given to participants ages 15-85 years old. 
-
-**References:**  Craig, C.L., et al. (2003). International Physical activity questionnaire: 12-country reliability and validity. Medicine and Science in Sports & Exercise, 35(8), 1381-1395.

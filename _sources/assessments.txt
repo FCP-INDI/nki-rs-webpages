@@ -40,12 +40,12 @@ Assessments by Category
 * :doc:`Aggression and Oppositionality </assessments/aggression>`
 * :doc:`Anxiety </assessments/anxiety>`
 * :doc:`Attention Problems and Hyperactivity </assessments/attention>`
-* :doc:`Attentional Bias <assessments/bias>`_
+* :doc:`Attentional Bias <assessments/bias>`
 * :doc:`Autism Spectrum </assessments/autism>`
 * :doc:`Background Information </assessments/background>`
 * :doc:`Cognitive and Executive Functioning </assessments/cognitive>`
 * :doc:`Depression and Mood </assessments/depression>`
-* :doc:`Distress Tolerance <assessments/distress>`_
+* :doc:`Distress Tolerance <assessments/distress>`
 * :doc:`Eating Behavior </assessments/eating>`
 * :doc:`Magnetic Resonance Imaging </assessments/mri>`
 * :doc:`Obsessive-Compulsive Disorder </assessments/obsessive>`
@@ -53,13 +53,13 @@ Assessments by Category
 * :doc:`Physical </assessments/physical>`
 * :doc:`Psychotic and Atypical Behavior </assessments/psychotic>`
 * :doc:`Risk Taking and Impulsive Behavior </assessments/risk>`
-* :doc:`Sex and Gender <assessments/sexgender>`_
-* :doc:`Short Term Memory <assessments/shortterm>`_
+* :doc:`Sex and Gender <assessments/sexgender>`
+* :doc:`Short Term Memory <assessments/shortterm>`
 * :doc:`Sleep </assessments/sleep>`
 * :doc:`Social Interaction </assessments/social>`
 * :doc:`Somatic Complaints </assessments/somatic>`
 * :doc:`Substance Use </assessments/substance>`
 * :doc:`Tics </assessments/tics>`
 * :doc:`Trauma </assessments/trauma>`
-* :doc:`Verbal Learning <assessments/verbal>`_
-* :doc:`Working Memory <assessments/workingmemory>`_
+* :doc:`Verbal Learning <assessments/verbal>`
+* :doc:`Working Memory <assessments/workingmemory>`

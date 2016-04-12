@@ -1,9 +1,0 @@
-Incidental Finding
-------------------
-This form was created by study staff to record whether or not there was an incidental finding from the MRI scan, as well as whether or not the MRI scan was approved for data sharing, The radiologist’s impression is recorded in an open-text box, in addition to selecting 1 of 7 coded impressions (Normal MRI – No Findings, Other - See Radiologist Impression, Age Related Changes, Sinus Opacification, Scattered Microvascular Ischemic Disease, Scalp Sebaceous Cyst, Nonspecific T2 Hyperintensity). 
-
-**Domains Assessed:** N/A
-
-**Note:** This form is completed by designated study staff following completion of the study protocol, for all participants, ages 6-85 years old. 
-
-**References:** N/A

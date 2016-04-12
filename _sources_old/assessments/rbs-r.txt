@@ -1,9 +1,0 @@
-Repetitive Behaviors Scale – Revised (RBS-R)
---------------------------------------------
-The RBS-R is a 44-item self-report questionnaire that is used to measure the breadth of repetitive behavior in children, adolescents, and adults with Autism Spectrum disorders. The RBS-R provides a quantitative, continuous measure of the full spectrum of repetitive behaviors. The RBS-R consists of six subscales including: Stereotyped Behavior, Self-injurious Behavior, Compulsive Behavior, Routine Behavior, Sameness Behavior, and Restricted Behavior, that have no overlap of item content. This permits differential identification and scoring of discrete varieties of repetitive behaviors. Participants are asked to read a list of behaviors and choose a score that best describes how much of a problem the behavior has been over the last month. Behaviors are rated on a 4-point scale: 0-Behavior does not occur, 1-Behavior occurs and is a mild problem, 2-Behavior occurs and is a moderate problem, 3-Behavior occurs and is a severe problem. On the last question, participants are asked to “lump together” all of the behaviors described in the questionnaire, and provide a rating for how much of a problem these repetitive behaviors are overall, on a scale from 1-100: 1-Not a problem at all, to 100-As bad as you can imagine.
-
-**Domains Assessed:** :doc:`autism`
-
-**Note:** This assessment is given to guardians of children ages 6-17 years old, and is also give to adults ages 18-85 as a self-report. 
-
-**References:** Lam, K. S. L. and M. G. Aman (2007). The Repetitive Behavior Scale-Revised: independent validation in individuals with autism spectrum disorders. Journal of Autism and Developmental Disorders, 37(5): 855-866.

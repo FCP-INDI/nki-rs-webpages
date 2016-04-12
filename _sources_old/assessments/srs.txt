@@ -1,9 +1,0 @@
-Social Responsiveness Scale (SRS) - Parent Report
--------------------------------------------------
-The SRS is a 65-item parent-report for children and adolescents (ages 4-18) that measure the severity of Autism Spectrum symptoms as they occur in natural social settings. The SRS provides a clear picture of a child's social impairments, assessing social awareness, social information processing, capacity for reciprocal social communication, social anxiety/avoidance, and autistic preoccupations and traits. Each item on the scale inquires about an observed aspect of reciprocity behavior. Behaviors are rated on a 4-point scale: 0-Not true, 1-Sometimes true, 2-Often true, 3-Almost always true. Higher scores on the SRS indicate higher degrees of social impairment. 
-
-**Domains Assessed:** :doc:`Autism Spectrum <autism>`, :doc:`Social Interaction <social>`
-
-**Note:** This assessment is given to guardians of child participants, 6-17 years old.
-
-**References:** Constantino J.N. et. al, (2003). Validation of a brief quantitative measure of autistic traits: comparison of the social responsiveness scale with the autism diagnostic interview-revised. Journal of Autism and Developmental Disorders, 33: 427-433. 

@@ -5,16 +5,17 @@ Enhanced Nathan Kline Institute - Rockland Sample
     :align: center
 
 .. toctree::
-   :hidden:
+    :hidden:
 
-   Recruitment <recruit>
-   Participant Schedule <sched>
-   MRI Protocol <mri_protocol>
-   Assessments <assessments>
-   Sample Characteristics <demo>
-   Data Sharing <sharing>
-   NKI-RS Lite Releases <download>
-   Publications <pubs>
+    Recruitment <recruit>
+    Participant Schedule <sched>
+    MRI Protocol <mri_protocol>
+    Assessments <assessments>
+    Sample Characteristics <demo>
+    Data Sharing <sharing>
+    NKI-RS Lite Releases <download>
+    Publications <pubs>
+
 
 Introduction
 ^^^^^^^^^^^^^
@@ -24,8 +25,7 @@ ongoing, institutionally centered endeavor aimed at creating a
 large-scale (N > 1000) community sample of participants across the
 lifespan. Measures include a wide array of physiological and
 psychological assessments, genetic information, and advanced
-neuroimaging. Anonymized data will be publicly shared openly and
-prospectively (i.e., on a quarterly basis).
+neuroimaging. Anonymized data will be publicly shared openly and prospectively (i.e., on a quarterly basis).
 
 The National Institute of Mental Health strategic plan for advancing
 psychiatric neuroscience calls for increased discovery science

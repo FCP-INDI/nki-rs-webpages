@@ -201,7 +201,7 @@ Linux. Instructions for using Cyberduck are as follows:
 
 The end result should appear as follows:
 
-.. figure:: /_static/rs_cyberduck.png
+.. figure:: /_images/rs_cyberduck.png
 
 Participant Privacy
 ^^^^^^^^^^^^^^^^^^^^

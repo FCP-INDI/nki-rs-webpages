@@ -1,9 +1,0 @@
-Ishihara’s Test for Color Deficiency
-------------------------------------
-The Ishihara’s Test for Color Deficiency is a clinician-administered assessment of color vision deficiency of congenital origin. The short test consists of 24 plates designed to identify individuals with red-green color vision deficiencies. It distinguishes among people with normal color vision, partial or complete protan type deficiency and partial or complete deutan type deficiency. 
-
-**Domains Assessed:** :doc:`Physical <physical>`
-
-**Note:** The first 17 plates of this assessment are administered to all participants ages 6–85 years old. 
-
-**References:** Ishihara, S. The Series of Plates Designed as a Test for Colour-Deficiency. Tokyo, Japan: Kanehara Trading Inc. (1936).

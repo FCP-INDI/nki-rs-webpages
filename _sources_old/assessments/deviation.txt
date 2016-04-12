@@ -1,9 +1,0 @@
-Deviation Form
---------------
-Study staff, following completion of the study protocol, completes the deviation form. All deviations, the reason for the deviations, and the dates of occurrence are recorded in narrative form. Deviations are then categorized as missing data, MRI, out of range [more than 28 days passed between visit 1 and 2], order of procedures, and other. 
-
-**Domains Assessed:** N/A
-
-**Note:** This form is completed for all participants ages 6-85 years old.
-
-**References:** N/A.

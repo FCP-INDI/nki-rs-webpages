@@ -1,9 +1,0 @@
-Strengths and Weaknesses of Attention-Deficit/Hyperactivity Disorder Symptoms and Normal Behavior Scale (SWAN)
---------------------------------------------------------------------------------------------------------------
-The SWAN is an 18-item parent questionnaire for children and adolescents (18 years and younger). This rating scale includes positive “weaknesses” and negative “strengths” scoring, assessing symptoms of Attention-Deficit/Hyperactivity Disorder. Parents are asked to compare their child’s behavior in a variety of settings over the past month to other children on a 7-point: 3-Far below, 2-Below, 1-Slightly below, 0-Average, -1-Slightly average, -2-Above, -3-Far above. Higher scores indicate greater symptomology.
-
-**Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>`
-
-**Note:** This assessment is given to guardians of child participants, ages 6-17 years old.
-
-**References:** Swanson, J., Schuck, S., Mann, M., Carlson, C., Hartman, K., Sergeant, J., . . . McCleary, R. (2001). The SWAN rating scale. Available from http://www.adhd.net.

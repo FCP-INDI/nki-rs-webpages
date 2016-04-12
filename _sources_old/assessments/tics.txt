@@ -1,7 +1,0 @@
-Tics
-----
-
-* :doc:`Diagnostic Summary <diagnostic>`
-* :doc:`Medical History Questionnaire-Adult <mhq-a>`
-* :doc:`Medical History Questionnaire-Child <mhq-c>`
-* :doc:`Yale Global Tic Severity Scale (YGTSS) (1989) <ygtss>`

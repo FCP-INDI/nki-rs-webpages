@@ -32,7 +32,7 @@ Complete List of Assessments
 * :doc:`The Early Adolescent Temperament Questionnaire (Revised) Parent Report (EATQ-R) <eatq-r>`
 * :doc:`Eating Disorder Examination Questionnaire (EDEQ) <edeq>`
 * :doc:`Edinburgh Handedness Questionnaire (EHQ) – modified by Mark Cohen in 2008 <ehq>`
-* :doc:`Emotional Regulation Questionnaire (ERQ)
+* :doc:`Emotional Regulation Questionnaire (ERQ) <ERQ>`
 * :doc:`Fagerstrom Test for Nicotine Dependence (FTND) <ftnd>`
 * :doc:`Modified Fagerstrom Tolerance Questionnaire – Adolescents (FTQA) <ftqa>`
 * :doc:`Geriatric Depression Scale (GDS) <gds>`

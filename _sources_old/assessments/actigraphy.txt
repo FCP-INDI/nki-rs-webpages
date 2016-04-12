@@ -1,9 +1,0 @@
-Actigraphy
-----------
-Actigraphy data is acquired using a Philips Respironics Actiwatch 2 which is the size of a standard wristwatch. The unit is given to the participant on the morning of the first visit; they are asked to ware it on their non-dominant wrist and asked to wear it until they return for their second visit. Actigraphy data is obtained for a minimum of 24 hours and up to 1 week, depending on how far apart a participant’s first and second visits are. Participants were asked to wear the actigraphy unit continuously (unit is waterproof) and asked to press the event marker button right before they are about to go to sleep. Movement is recorded through an accelerometer and is analyzed with standard actigraphy software to obtain activity counts over time.
-
-**Domains Assessed:** :doc:`Physical <physical>`
-
-**Note:** Actigraphy data is acquired from all participants ages 6-85 years old.
-
-**References:** Gironda, R. J., Lloyd, J., Clark, M. E., & Walker, R. L. (2007). Preliminary evaluation of reliability and criterion validity of actiwatch-score. J Rehabil Res Dev, 44(2), 223-30.

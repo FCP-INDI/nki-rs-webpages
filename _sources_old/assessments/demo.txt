@@ -1,9 +1,0 @@
-Demographics
-------------
-The demographics questionnaire is a self-report measure collecting age, sex (Male or Female), ethnicity (Hispanic or non-Hispanic), race (American Indian or native Alaskan, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, White, Other Race) and native language (English, Spanish, Asian dialect, African dialect, Indian dialect, Other). 
-
-**Domains Assessed:** :doc:`Background Information <background>`
-
-**Note:** This assessment is given to participants ages 12-85 and the guardians of participants ages 6-11 years old.
-
-**References:** N/A. 

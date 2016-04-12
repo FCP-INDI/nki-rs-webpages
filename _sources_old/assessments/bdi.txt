@@ -1,9 +1,0 @@
-Beck Depression Inventory (BDI – II)
-------------------------------------
-The BDI-II is a 21-item self-report questionnaire assessing the current severity of depression symptoms in adolescents and adults (ages 13 and up). It is not designed to serve as an instrument of diagnosis, but rather to identify the presence and severity of symptoms consistent with the criteria of the DSM-IV. Questions assess the typical symptoms of depression such as mood, pessimism, sense of failure, self-dissatisfaction, guilt, punishment, self-dislike, self-accusation, suicidal ideas, crying, irritability, social withdrawal, insomnia, fatigue, appetite, and loss of libido. Participants are asked to pick a statement on a 4-point scale that best describes they way they have been feeling during the past two weeks.
-
-**Domains Assessed:** :doc:`Depression and Mood <depression>`
-
-**Note:** This self-assessment is given to participants ages 18-85 years old. 
-
-**References:** Beck, A., Steer, R., Brown, G. (1996). Manual for Beck Depression Inventory II (BDI-II). San Antonio, TX, Psychology Corporation.

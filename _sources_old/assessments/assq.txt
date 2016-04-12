@@ -1,9 +1,0 @@
-The High-Functioning Autism Spectrum Screening Questionnaire (ASSQ)
--------------------------------------------------------------------
-The ASSQ is a 27-item informant-report questionnaire assessing symptoms characteristic of Asperger’s syndrome and other high-functioning Autism Spectrum disorders in children and adolescents with normal intelligence or mild mental retardation. Eleven items cover social interaction, 6 items cover communication problems, and 5 refer to restricted and repetitive behavior. The remaining items cover motor clumsiness and other associated symptoms (including motor and vocal tics). Informants are asked if the child subject stands out from other children of his/her age in various ways, and respond on a 3-point scale: 0-No, 2-Somewhat and 3-Yes.
-
-**Domains Assessed:** :doc:`Autism Spectrum <autism>`
-
-**Note:** Guardians of children, ages 6-17 years old, complete the ASSQ
-
-**References:** Ehlers, S., & C. Gillberg, et al. (1999). A screening questionnaire for Asperger syndrome and other high-functioning Autism Spectrum disorders in school age children. Journal of Autism and Developmental Disorders, 29(2), 129-141.

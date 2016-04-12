@@ -1,9 +1,0 @@
-Fagerstrom Test for Nicotine Dependence (FTND)
-----------------------------------------------
-This self-administered questionnaire consists of 6 questions, and examines nicotine consumption and intake habits in those that smoke cigarettes. It is used as a screening instrument that assesses nicotine dependence in adults who are currently smokers or have been in the past two years.  Level of nicotine dependence is scored on a scale from 0-10, with 0-2: very low dependence and 8-10: very high dependence. 
-
-**Domains Assessed:** :doc:`Substance Use <substance>`
-
-**Note:** This assessment is given to adult participants ages 18-85 years old. 
-
-**References:** Heatherton TF, Kozlowski LT, Frecker RC, Fagerstrom KO (1991). The Fagerstrom Test for Nicotine Dependence: A revision of the Fagerstrom Tolerance Questionnaire. British Journal of Addictions, 86:1119-27.

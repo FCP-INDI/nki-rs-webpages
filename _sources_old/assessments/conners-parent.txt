@@ -1,9 +1,0 @@
-The Conners ADHD Rating Scale 3 - Parent Short Form
----------------------------------------------------
-The Conners ADHD Rating Scale 3 Parent Short Form is a 43-item parent report designed to assess attention deficit/hyperactivity disorder (ADHD) and evaluate problem behavior in children and adolescents (ages 6 to 18). The measure evaluates inattention, hyperactivity/impulsivity, learning problems/executive functioning, aggression, and peer relations. Parents are asked to rate statements about their child in the past month on a 4-point scale: 0-Not true at all (Never, Seldom), 1-Just a little true (Occasionally), 2-Pretty much true (Often, Quite a bit), 3-Very much true (Very often, very frequently).
-
-**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Cognitive and Executive Functioning <cognitive>`, :doc:`Social Interaction <social>`
-
-**Note:** This self-assessment is given to guardians of child participants ages 6-17 years old. 
-
-**References:** Conners, K. C. (2008). Conners 3rd edition. Toronto, Ontario, Canada: Multi-Health Systems.

@@ -1,9 +1,0 @@
-Wechsler Abbreviated Scale of Intelligence (WASI-II)
-----------------------------------------------------
-The WASI is a general intelligence, or IQ test designed to assess specific and overall cognitive capabilities and is individually administered to children, adolescents and adults (ages 6-89). It is a battery of four subtests: Vocabulary (31-item), Block Design (13-item), Similarities (24-item) and Matrix Reasoning (30-item). In addition to assessing general, or Full Scale, intelligence, the WASI is also designed to provide estimates of Verbal and Performance intelligence consistent with other Wechsler tests. Specifically, the four subtests comprise the full scale and yield the Full Scale IQ (FSIQ-4). The Vocabulary and Similarities subtests are combined to form the Verbal Scale and yield a Verbal IQ (VIQ) score, and the Block Design and Matrix Reasoning subtests form the Performance Scale and yield a Performance IQ (PIQ) score.
-
-**Domains Assessed:** :doc:`Cognitive and Executive Functioning <cognitive>`
-
-**Note:** This test is administered to participants ages 6-85 years old. 
-
-**References:** Wechsler, D. (1999). Wechsler Abbreviated Scale of Intelligence. San Antonio, TX: The Psychological Corporation.

@@ -151,7 +151,7 @@ Scans Acquired-Real-Time Neurofeedback
           Materials <http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.zip>`_
 
 References
------------
+^^^^^^^^^^^
 
 Xu, J., S. Moeller, J. Strupp, E. Auerbach, L. Chen, D. Feinberg, K.
 Ugurbil and E. Yacoub (2012). “Highly accelerated whole Brain Imaging

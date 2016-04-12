@@ -1,9 +1,0 @@
-Pittsburgh Sleep Quality Index (PSQI)
--------------------------------------
-The PSQI is a 10-item self-report questionnaire that is designed to measure sleep quality in clinical populations, and assess usual sleep habits during the past one-month. This scale generates seven “component” scores: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, and daytime dysfunction. Items 1-4 inquire about the amount of sleep and responses are recorded in free-text boxes. Items 5-10 inquire about specific sleep behaviors and quality, which are rated on 4-point scale.
-
-**Domains Assessed:** :doc:`Sleep <sleep>`
-
-**Note:** This assessment is given to adolescent and adult participants ages 13-85 years old. 
-
-**References:** Buysse,D.J., Reynolds,C.F., Monk,T.H., Berman,S.R., & Kupfer,D.J. (1989). The Pittsburgh Sleep Quality Index (PSQI): A new instrument for psychiatric research and practice. Psychiatry Research, 28(2), 193-213.

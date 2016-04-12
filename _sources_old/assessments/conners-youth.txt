@@ -1,9 +1,0 @@
-The Conners ADHD Rating Scale 3 – Youth Short Form
---------------------------------------------------
-The Conners ADHD Rating Scale 3 Youth Short Form is a 39-item self-report for children and adolescents (ages 8 to 18) assessing attention deficit/hyperactivity disorder (ADHD) and problem behaviors. Evaluates inattention, hyperactivity/impulsivity, learning problems, aggression, and family relations. Children are asked to rate statements about themselves in the past month on a 4-point scale: 0-Not true at all (Never, Seldom), 1-Just a little true (Occasionally), 2-Pretty much true (Often, Quite a bit), 3-Very much true (Very often, very frequently).
-
-**Domains Assessed:** :doc:`Aggression and Oppositionality <aggression>`, :doc:`Attention Problems and Hyperactivity <attention>`, :doc:`Cognitive and Executive Functioning <cognitive>`, :doc:`Social Interaction <social>`
-
-**Note:** This self-assessment is given to child and adolescent participants ages 8-18 years old. 
-
-**References:** Conners, K. C. (2008). Conners 3rd edition. Toronto, Ontario, Canada: Multi-Health Systems.

@@ -1,9 +1,0 @@
-Height/Weight/Vitals
---------------------
-All vitals are obtained and recorded by study staff. Height, waist measurement, and hip measurement are all recorded in centimeters. Weight is recorded in kilograms. Body Mass Index (BMI) is automatically calculated. The systolic and diastolic blood pressures are both taken with a mercury blood pressure gauge, cuff, and stethoscope. Pulse is taken by counting the number of beats felt on the radial artery for 30 seconds, multiplied by 2. 
-
-**Domains Assessed:** :doc:`Physical <physical>`
-
-**Note:** These measurements are obtained from all participants, ages 6-85 years old. 
-
-**References:** N/A. 

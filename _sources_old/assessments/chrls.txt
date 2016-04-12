@@ -1,9 +1,0 @@
-The Cambridge-Hopkins Restless Legs Syndrome (Version 2) (CHRLS)
-----------------------------------------------------------------
-The CHRLS questionnaire is a diagnostic self-report assessing symptoms of restless leg syndrome. The questionnaire consists of 13 questions of varying types. 
-
-**Domains Assessed:** :doc:`Somatic Complaints <somatic>`
-
-**Note:** This assessment is given to adolescents and adult participants ages 13 to 85 years old. 
-
-**References:** Allen, R. P., Burchell, B. J., MacDonald, B., Hening, W. A., & Earley, C. J. (2009). Validation of the self-completed cambridge-hopkins questionnaire (ch-rlsq) for ascertainment of restless legs syndrome (RLS) in a population survey. Sleep Medicine, 10(10), 1097-1100.

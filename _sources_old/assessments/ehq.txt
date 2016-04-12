@@ -1,9 +1,0 @@
-Edinburgh Handedness Questionnaire (EHQ) – modified by Mark Cohen in 2008
--------------------------------------------------------------------------
-The Edinburgh Handedness Questionnaire is a measurement scale used to assess the dominance of a person's right or left hand in everyday activities. The inventory can be used by an observer assessing the person, or by a person self-reporting hand use. The EHQ includes a list of activities, and asks the participant to indicate “which hand you prefer for that activity?” and “do you ever use the other hand for that activity?” This questionnaire was updated by Mark Cohen in 2008, and is adapted from Oldfield, 1971 – see Publication. 
-
-**Domains Assessed:** :doc:`Physical <physical>`
-
-**Note:** This modified version of the original EHQ is a 15-item assessment that is given to all participants, ages 6-85 years old. 
-
-**References:** See http://www.brainmapping.org/shared/Edinburgh.php for modified version which was adapted from Oldfield, R.C. (1971). The assessment and analysis of handedness: The Edinburgh inventory. Neuropsychologia, 9(1), 97-113.

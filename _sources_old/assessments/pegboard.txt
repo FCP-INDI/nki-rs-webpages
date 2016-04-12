@@ -1,9 +1,0 @@
-The Grooved Pegboard
---------------------
-The Grooved Pegboard is a dexterity test consisting of 25 holes with randomly positioned slots. Pegs with a key on one side must be rotated to match the hole before they can be inserted. Participants are instructed to place all pegs into the 25 holes, picking up one at a time, and using just one hand. They complete the test first using their dominant hand, and then their non-dominant hand. Time of completion for the first line, total completion time, number of drops, and number of pegs placed, are recorded for both hands. This test is used extensively to evaluate lateralized brain damage in children and adults, or whenever manual dexterity is an issue.  
-
-**Domains Assessed:** :doc:`Cognitive and Executive Functioning <cognitive>`
-
-**Note:** This is administered to all participants, aged 6-85 years old.  
-
-**References:** Lafayette Instruments (2002). Grooved pegboard test user instructions.

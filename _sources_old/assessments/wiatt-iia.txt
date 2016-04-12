@@ -1,9 +1,0 @@
-Wechsler Individual Achievement Test – Second Edition Abbreviated (WIAT-IIA)
-----------------------------------------------------------------------------
-The WIAT is a brief achievement test, which is individually administered to children, adolescents and adults (ages 4-85).  It is composed of three subtests: Word Reading (131-items) ranging from phonological skills and letter recognition to word recognition, Numerical Operations (54-items) ranging from counting and number recognition to complex calculations involving equations, fractions, decimals, etc., and Spelling (53-items) ranging from single and blended sound dictation to word dictation. Items on all three subtests receive a score of 0- incorrect responses or 1-correct responses. 
-
-**Domains Assessed:** :doc:`Cognitive and Executive Functioning <cognitive>`
-
-**Note:** This test is administered to participants ages 6-85 years old. 
-
-**References:** Wechsler, D. (2005). Wechsler Individual Achievement Test 2nd Edition (WIAT II). London: The Psychological  Corporation.

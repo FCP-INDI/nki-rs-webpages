@@ -1,9 +1,0 @@
-Three-Factor Eating (TFEQ)
---------------------------
-The TFEQ is a 51-item self-report questionnaire designed for adolescents and adults (ages 12 and up). This assessment is designed to measure 3 dimensions of human eating behavior: cognitive restraint of eating (Factor I - 20 items), disinhibition (Factor II – 16 items), and hunger (Factor III - 15 items). The minimum score for factors I-II-III is therefore 0-0-0, and maximum possible score is 20-16-15. Part I includes items 1-36 and are rated either 1-True or 0-False. Part II includes items 37-51 and is rated on a 4-point scale with the exception of item 50, which is rated on a 6-point scale.  
-
-**Domains Assessed:** :doc:`Eating Behavior <eating>`
-
-**Note:** This assessment is given to participants ages 12-85 years old. 
-
-**References:** Stunkard, A. J. & Messick, S. (1985). The three-factor eating questionnaire to measure dietary restraint, disinhibition, and hunger. Journal of Psychosomatic Research, 29: 71–83.
