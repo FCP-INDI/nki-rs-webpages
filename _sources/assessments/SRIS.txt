@@ -1,8 +1,7 @@
 Sex Role Identity Scale
 ------------------------
 
-The Sex Role Identity Scale assesses an individual’s gender role
-characterization.
+The Sex Role Identity Scale assesses an individual’s gender role characterization. 
 
 **Domains Assessed:** :doc:`Sex and Gender <sexgender>`
 

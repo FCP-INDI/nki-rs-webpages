@@ -1,14 +1,7 @@
 Positive and Negative Affect Schedule – short form (PANAS-S)
 -------------------------------------------------------------
 
-The PANAS-S is a self-administered, 20-item Likert scale assessment that
-measures degree of positive or negative affect. Users are asked to rate
-10 adjectives that measure positive feelings such as joy or pleasure,
-and 10 adjectives that measure negative feelings, such as anxiety or
-sadness, on a scale of how closely the adjective describes them in the
-present moment or over the past week. Items are rated on a five-point
-scale: 1-Very slightly, 2-A little, 3-Moderately, 4-Quite a bit,
-5-Extremely.
+The PANAS-S is a self-administered, 20-item Likert scale assessment that measures degree of positive or negative affect. Users are asked to rate 10 adjectives that measure positive feelings such as joy or pleasure, and 10 adjectives that measure negative feelings, such as anxiety or sadness, on a scale of how closely the adjective describes them in the present moment or over the past week. Items are rated on a five-point scale: 1-Very slightly, 2-A little, 3-Moderately, 4-Quite a bit, 5-Extremely. 
 
 **Domains Assessed:** :doc:`Depression and Mood <depression>`
 

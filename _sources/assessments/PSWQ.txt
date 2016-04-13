@@ -1,15 +1,7 @@
 Penn State Worry Questionnaire (PSWQ)
 --------------------------------------
 
-The PSWQ is a self-administered, 16-item, Likert-type scale designed to
-measure worry. It is considered by many to be the “gold-standard” for
-assessing worry. The items on the scale assess the occurrence,
-intrusiveness, pervasiveness, and other characterizing features of an
-individual’s experience with worry. The scale has been shown to identify
-worry, over and above anxiety and depression. Items are rated on a
-five-point scale: 1-Not at all typical of me to 5-Very typical of me.
-Possible range of scores is 16-80 with the algorithm of Total scores:
-16-39Low Worry, 40-59 Moderate Worry, and 60-80 High Worry.
+The PSWQ is a self-administered, 16-item, Likert-type scale designed to measure worry. It is considered by many to be the “gold-standard” for assessing worry. The items on the scale assess the occurrence, intrusiveness, pervasiveness, and other characterizing features of an individual’s experience with worry. The scale has been shown to identify worry, over and above anxiety and depression. Items are rated on a five-point scale: 1-Not at all typical of me to 5-Very typical of me. Possible range of scores is 16-80 with the algorithm of Total scores: 16-39Low Worry, 40-59 Moderate Worry, and 60-80 High Worry. 
 
 **Domains Assessed:** :doc:`Anxiety* <anxiety>`, :doc:`Depression and Mood <depression>`
 

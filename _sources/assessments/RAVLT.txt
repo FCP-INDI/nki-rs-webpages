@@ -1,20 +1,7 @@
 Rey Auditory Verbal Learning Test (RAVLT)
 ------------------------------------------
 
-The RAVLT evaluates verbal learning and memory. The examiner reads aloud
-a list of 15 words at the rate of one per second. The participant is
-then asked to repeat all words from the list that he/she can remember.
-This procedure is carried out a total of five times. The examiner then
-presents a second list of 15 words, allowing the participant only one
-attempt at recall of this new list. Immediately following this, the
-participant is asked to remember as many words as possible from the
-first list. After a 20-minute delay, the participant is again asked to
-recall as many words as possible from the first list. The participant is
-then read a list of words and asked to indicate whether each word was
-from the first list. The RAVLT has proven useful in evaluating verbal
-learning and memory, including proactive inhibition, retroactive
-inhibition, retention, encoding versus retrieval, and subjective
-organization.
+The RAVLT evaluates verbal learning and memory. The examiner reads aloud a list of 15 words at the rate of one per second. The participant is then asked to repeat all words from the list that he/she can remember. This procedure is carried out a total of five times. The examiner then presents a second list of 15 words, allowing the participant only one attempt at recall of this new list. Immediately following this, the participant is asked to remember as many words as possible from the first list. After a 20-minute delay, the participant is again asked to recall as many words as possible from the first list. The participant is then read a list of words and asked to indicate whether each word was from the first list. The RAVLT has proven useful in evaluating verbal learning and memory, including proactive inhibition, retroactive inhibition, retention, encoding versus retrieval, and subjective organization. 
 
 **Domains Assessed:** :doc:`Memory <workingmemory>`, :doc:`Verbal Learning* <verbal>`
 

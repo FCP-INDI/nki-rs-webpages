@@ -1,8 +1,7 @@
 PhenX Sexual History
 ---------------------
 
-The PhenX provides an objective assessment of self-reported sexual
-behaviors.
+The PhenX provides an objective assessment of self-reported sexual behaviors. 
 
 **Domains Assessed:** :doc:`Sex and Gender* <sexgender>`
 

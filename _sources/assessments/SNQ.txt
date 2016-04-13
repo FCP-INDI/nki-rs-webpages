@@ -1,8 +1,7 @@
 Social Networking Questionnaire
 ---------------------------------
 
-The Social Networking Questionnaire assesses social interactions and
-supports.
+The Social Networking Questionnaire assesses social interactions and supports. 
 
 **Domains Assessed:** :doc:`Social Interaction <social>`
 
