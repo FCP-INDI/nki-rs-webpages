@@ -54,262 +54,88 @@
 <h1>Magnetic Resonance Imaging Protocol<a class="headerlink" href="#magnetic-resonance-imaging-protocol" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="multi-band-imaging">
 <h2>Multi-Band Imaging<a class="headerlink" href="#multi-band-imaging" title="Permalink to this headline">¶</a></h2>
-<p>Recently developed multiband echo planar Imaging (<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed?term=auerbach%20multiband">Moeller et al.,
-2010</a>)
-and <a class="reference external" href="http://www.cmrr.umn.edu/research/neuro-3.shtml">multiplexed echo planar
-imaging</a> (<a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg
-et al.,
-2010</a>)
-approaches enable the acquisition of functional MRI and diffusion
-imaging data with unprecedented sampling rates for full-brain coverage
-through the acquisition of multiple slices simultaneously in the same
-time it takes to obtain a single slice image using standard EPI
-(<a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S1053811912000663">Feinberg et al. (in
-press)</a>,
-see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al.
-(2012)</a>
-for initial application of Multiband EPI with recent improvements (Xu et
-al. 2012). The <a class="reference external" href="http://www.cmrr.umn.edu/">Center for Magnetic Resonance Research
-(CMRR)</a>, University of Minnesota, where
-these sequences are developed for the Washington University-University
-of Minnesota (WU-Minn) consortium of the <a class="reference external" href="http://humanconnectome.org/">Human Connectome
-Project</a>, has provided the NKI-RS effort
-with the latest version of the Multiband EPI sequence (Xu et al. 2012)
-and associated image reconstruction algorithms, enabling the acquisition
-of state-of-the-art imaging datasets for this large-scale imaging
-effort. Specific parameter selections were based on initial pilot data
-to optimize image quality on our scanner. As specified in detail below,
-three R-fMRI sequences are included in the protocol - one with a TR =
-645msec (3mm isotropic voxels, 10 minutes) to provide optimal temporal
-resolution and another with TR = 1400msec (2mm isotropic voxels, 10
-minutes) to provide optimal spatial resolution. A standard EPI sequence
-(TR = 2500msec, 3mm isotropic voxels, 5 minutes) is included also for
-reference. We are very grateful to WU-Minn HCP members at CMRR for
-guidance and assistance in the design, implementation and
-troubleshooting of these sequences and their reconstruction. These
-sequences and the associated image reconstruction algorithms for the
-Siemens platforms are <a class="reference external" href="http://www.cmrr.umn.edu/multiband/">available for distribution from
-CMRR</a>.</p>
+<p>Recently developed multiband echo planar Imaging (<a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed?term=auerbach%20multiband">Moeller et al., 2010</a>) and <a class="reference external" href="http://www.cmrr.umn.edu/research/neuro-3.shtml">multiplexed echo planar imaging</a> (<a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg et al., 2010</a>) approaches enable the acquisition of functional MRI and diffusion imaging data with unprecedented sampling rates for full-brain coverage through the acquisition of multiple slices simultaneously in the same time it takes to obtain a single slice image using standard EPI (<a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S1053811912000663">Feinberg et al. (in press)</a>, see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al. (2012)</a> for initial application of Multiband EPI with recent improvements (Xu et al. 2012). The <a class="reference external" href="http://www.cmrr.umn.edu/">Center for Magnetic Resonance Research (CMRR)</a>, University of Minnesota, where these sequences are developed for the Washington University-University of Minnesota (WU-Minn) consortium of the <a class="reference external" href="http://humanconnectome.org/">Human Connectome Project</a>, has provided the NKI-RS effort with the latest version of the Multiband EPI sequence (Xu et al. 2012) and associated image reconstruction algorithms, enabling the acquisition of state-of-the-art imaging datasets for this large-scale imaging effort. Specific parameter selections were based on initial pilot data to optimize image quality on our scanner. As specified in detail below, three R-fMRI sequences are included in the protocol - one with a TR = 645msec (3mm isotropic voxels, 10 minutes) to provide optimal temporal resolution and another with TR = 1400msec (2mm isotropic voxels, 10 minutes) to provide optimal spatial resolution. A standard EPI sequence (TR = 2500msec, 3mm isotropic voxels, 5 minutes) is included also for reference. We are very grateful to WU-Minn HCP members at CMRR for guidance and assistance in the design, implementation and troubleshooting of these sequences and their reconstruction. These sequences and the associated image reconstruction algorithms for the Siemens platforms are <a class="reference external" href="http://www.cmrr.umn.edu/multiband/">available for distribution from CMRR</a>.</p>
 </div>
 <div class="section" id="important-analytic-considerations-for-multiband-imaging">
 <h2>Important Analytic Considerations for Multiband Imaging<a class="headerlink" href="#important-analytic-considerations-for-multiband-imaging" title="Permalink to this headline">¶</a></h2>
-<p>Innovations associated with multiband imaging (e.g., simultaneous
-acquisition of multiple slices) can introduce novel challenges for
-functional MRI imaging preprocessing and analyses. When using this data
-please keep in mind the following caveats provided by Christian Beckmann
-and Steve Smith from the HCP:</p>
-<ul>
-<li><dl class="first docutils">
-<dt>The increased number of time points obtained when using short TR will</dt>
-<dd><p class="first last">change the temporal degrees of freedom. This can be used to drive
-investigations into the temporal characteristics of resting-state
-patterns (see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al.
-(2012)</a>).
-However, the effective temporal autocorrelation will change. This
-needs to be corrected for, e.g. when converting regression
-coefficients or correlation coefficients to T, Z or P statistics (for
-more discussion see <a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg et al.,
-2010</a>)</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt>The spatial smoothness of the data may be affected. In particular,</dt>
-<dd><p class="first last">smoothness can be non-stationary, so Gaussian-Random Field
-Theory-based inference (e.g. cluster-correction in in SPM or FSL)
-might not be suitable.</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt>Because multiple slices are excited simultaneously, simple slice time</dt>
-<dd><p class="first last">correction will not work and each slice will need to be corrected
-using custom timing information. Given the short effective TR it is
-probably less important, though.</p>
-</dd>
-</dl>
-</li>
+<p>Innovations associated with multiband imaging (e.g., simultaneous acquisition of multiple slices) can introduce novel challenges for functional MRI imaging preprocessing and analyses. When using this data please keep in mind the following caveats provided by Christian Beckmann and Steve Smith from the HCP:</p>
+<ul class="simple">
+<li>The increased number of time points obtained when using short TR will change the temporal degrees of freedom. This can be used to drive investigations into the temporal characteristics of resting-state patterns (see <a class="reference external" href="http://www.pnas.org/content/early/2012/02/07/1121329109.abstract">Smith et al. (2012)</a>). However, the effective temporal autocorrelation will change. This needs to be corrected for, e.g. when converting regression coefficients or correlation coefficients to T, Z or P statistics (for more discussion see <a class="reference external" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0015710">Feinberg et al., 2010</a>)</li>
+<li>The spatial smoothness of the data may be affected. In particular, smoothness can be non-stationary, so Gaussian-Random Field Theory-based inference (e.g. cluster-correction in in SPM or FSL) might not be suitable.</li>
+<li>Because multiple slices are excited simultaneously, simple slice time correction will not work and each slice will need to be corrected using custom timing information. Given the short effective TR it is probably less important, though.</li>
 </ul>
 </div>
 <div class="section" id="scans-acquired-cross-sectional-lifespan-connectomics-and-longitudinal-developmental-connectomics">
 <h2>Scans Acquired-Cross Sectional Lifespan Connectomics and Longitudinal Developmental Connectomics<a class="headerlink" href="#scans-acquired-cross-sectional-lifespan-connectomics-and-longitudinal-developmental-connectomics" title="Permalink to this headline">¶</a></h2>
 <ul>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/NKI_MPRAGE.pdf">MPRAGE (TR = 1900; voxel size = 1mm isotropic)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_645.pdf">R-mfMRI (TR = 645msec; voxel size = 3mm isotropic; duration = 10 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_1400.pdf">R-mfMRI (TR = 1400msec; voxel size = 2mm isotropic; duration = 10 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_CAP.pdf">R-fMRI (TR = 2500msec; voxel size = 3mm isotropic; duration = 5 minutes)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/DIff_137.pdf">Diffusion Tensor Imaging (137 direction; voxel size = 2mm isotropic)</a></p>
+</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_645.pdf">Visual Checkboard Stimulation (TR = 645msec; voxel size = 3mm isotropic; duration = 2.5 minutes)</a></p>
+</li>
 <li><dl class="first docutils">
-<dt><a href="#id3"><span class="problematic" id="id4">`</span></a>MPRAGE (TR = 1900; voxel size = 1mm</dt>
-<dd><p class="first last">isotropic) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/NKI_MPRAGE.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/NKI_MPRAGE.pdf</a>&gt;`_</p>
+<dt><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_1400.pdf">Visual Checkboard Stimulation (TR = 1400msec; voxel size = 2mm isotropic; duration = 2.5 minutes)</a></dt>
+<dd><ul class="first last simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/CheckboardParadigm.txt">Visual Checkerboard Stimulation Design File</a></li>
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker.zip">Visual Checkerboard Stimulation Stimuls Execution Script</a> (for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</li>
+</ul>
 </dd>
 </dl>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id5"><span class="problematic" id="id6">`</span></a>R-mfMRI (TR = 645msec; voxel size = 3mm isotropic; duration = 10</dt>
-<dd><p class="first last">minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_645.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_645.pdf</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id7"><span class="problematic" id="id8">`</span></a>R-mfMRI (TR = 1400msec; voxel size = 2mm isotropic; duration = 10</dt>
-<dd><p class="first last">minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_1400.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_1400.pdf</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id9"><span class="problematic" id="id10">`</span></a>R-fMRI (TR = 2500msec; voxel size = 3mm isotropic; duration = 5</dt>
-<dd><p class="first last">minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_CAP.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Rest_CAP.pdf</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id11"><span class="problematic" id="id12">`</span></a>Diffusion Tensor Imaging (137 direction; voxel size = 2mm</dt>
-<dd><p class="first last">isotropic) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/DIff_137.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/DIff_137.pdf</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id13"><span class="problematic" id="id14">`</span></a>Visual Checkboard Stimulation (TR = 645msec; voxel size = 3mm</dt>
-<dd><p class="first last">isotropic; duration = 2.5
-minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_645.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_645.pdf</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id15"><span class="problematic" id="id16">`</span></a>Visual Checkboard Stimulation (TR = 1400msec; voxel size = 2mm</dt>
-<dd><p class="first">isotropic; duration = 2.5
-minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_1400.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker_1400.pdf</a>&gt;`_</p>
-<blockquote class="last">
-<div><ul>
-<li><dl class="first docutils">
-<dt><a href="#id17"><span class="problematic" id="id18">`</span></a>Visual Checkerboard Stimulation Design</dt>
-<dd><p class="first last">File &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/CheckboardParadigm.txt">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/CheckboardParadigm.txt</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id19"><span class="problematic" id="id20">`</span></a>Visual Checkerboard Stimulation Stimuls Execution</dt>
-<dd><p class="first last">Script &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker.zip">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Checker.zip</a>&gt;`_
-(for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</p>
-</dd>
-</dl>
-</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Breath_1400.pdf">Breath Holding (TR = 1400msec; voxel size = 2mm isotropic; duration = 10 minutes)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BreathHoldParadigm.txt">Breath Holding Stimulus Design File</a></li>
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BH_serial_nostop.py">Breath Holding Stimulus Execution Script</a> (for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</li>
 </ul>
 </div></blockquote>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id21"><span class="problematic" id="id22">`</span></a>Breath Holding (TR = 1400msec; voxel size = 2mm isotropic; duration</dt>
-<dd><p class="first">= 10
-minutes) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Breath_1400.pdf">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/Breath_1400.pdf</a>&gt;`_</p>
-<blockquote class="last">
-<div><ul>
-<li><dl class="first docutils">
-<dt><a href="#id23"><span class="problematic" id="id24">`</span></a>Breath Holding Stimulus Design</dt>
-<dd><p class="first last">File &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BreathHoldParadigm.txt">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BreathHoldParadigm.txt</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
-<li><dl class="first docutils">
-<dt><a href="#id25"><span class="problematic" id="id26">`</span></a>Breath Holding Stimulus Executino</dt>
-<dd><p class="first last">Script &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BH_serial_nostop.py">http://fcon_1000.projects.nitrc.org/indi/pro/eNKI_RS_TRT/BH_serial_nostop.py</a>&gt;`_
-(for use with <a class="reference external" href="http://www.visionegg.org/">VisionEgg</a>)</p>
-</dd>
-</dl>
-</li>
-</ul>
-</div></blockquote>
-</dd>
-</dl>
 </li>
 </ul>
 </div>
 <div class="section" id="scans-acquired-real-time-neurofeedback">
 <h2>Scans Acquired-Real-Time Neurofeedback<a class="headerlink" href="#scans-acquired-real-time-neurofeedback" title="Permalink to this headline">¶</a></h2>
 <ul>
-<li><dl class="first docutils">
-<dt><a href="#id28"><span class="problematic" id="id29">`</span></a>MPRAGE (TR = 2600; voxel size = 1mm</dt>
-<dd><p class="first last">isotropic) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MPRAGE.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/MPRAGE.pdf</a>&gt;`_</p>
-</dd>
-</dl>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MPRAGE.pdf">MPRAGE (TR = 2600; voxel size = 1mm isotropic)</a></p>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id30"><span class="problematic" id="id31">`</span></a>Field Map (GRE, TE1 = 2.72 ms / TE2 =5.18 ms, TR = 500; voxel size =</dt>
-<dd><p class="first last">3.4 x 3.4 x 3.6 mm, gap = 0.36 mm; dur = 1
-min;) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/FieldMap.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/FieldMap.pdf</a>&gt;`_</p>
-</dd>
-</dl>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/FieldMap.pdf">Field Map (GRE, TE1 = 2.72 ms / TE2 =5.18 ms, TR = 500; voxel size = 3.4 x 3.4 x 3.6 mm, gap = 0.36 mm; dur = 1 min;)</a></p>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id32"><span class="problematic" id="id33">`</span></a>Mask (EPI, TE = 30 ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6</dt>
-<dd><p class="first last">mm; gap = 0.36 mm; dur = 10
-sec) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/Mask.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/Mask.pdf</a>&gt;`_</p>
-</dd>
-</dl>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/Mask.pdf">Mask (EPI, TE = 30 ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6 mm; gap = 0.36 mm; dur = 10 sec)</a></p>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id34"><span class="problematic" id="id35">`</span></a>R-fMRI (EPI, TE = 30ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6</dt>
-<dd><p class="first last">mm; gap = 0.36 mm; dur = 6
-min) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/r-fMRI.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/r-fMRI.pdf</a>&gt;`_</p>
-</dd>
-</dl>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/r-fMRI.pdf">R-fMRI (EPI, TE = 30ms, TR = 2000 ms; voxel size = 3.4 x 3.4 x 3.6 mm; gap = 0.36 mm; dur = 6 min)</a></p>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id36"><span class="problematic" id="id37">`</span></a>RTfMRI (EPI, TE = 30 ms, TR =2000 ms, voxel size = 3.4 x 3.4 x 3.6</dt>
-<dd><p class="first">mm; gap = 0.36 mm, dur = 14
-min) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/RTfMRI.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/RTfMRI.pdf</a>&gt;`_</p>
-<blockquote class="last">
-<div><ul>
-<li><dl class="first docutils">
-<dt><a href="#id38"><span class="problematic" id="id39">`</span></a>RTfMRI Neurofeedback Task</dt>
-<dd><p class="first last">Materials &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/NFB.zip">http://fcon_1000.projects.nitrc.org/indi/enhanced/NFB.zip</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/RTfMRI.pdf">RTfMRI (EPI, TE = 30 ms, TR =2000 ms, voxel size = 3.4 x 3.4 x 3.6 mm; gap = 0.36 mm, dur = 14 min)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/NFB.zip">RTfMRI Neurofeedback Task Materials</a></li>
 </ul>
 </div></blockquote>
-</dd>
-</dl>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id40"><span class="problematic" id="id41">`</span></a>Multi Source Interference Task (EPI, TE = 30 ms, TR = 2000 ms, voxel</dt>
-<dd><p class="first">size = 3.4 x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 7
-min) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MSIT.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/MSIT.pdf</a>&gt;`_</p>
-<blockquote class="last">
-<div><ul>
-<li><dl class="first docutils">
-<dt><a href="#id42"><span class="problematic" id="id43">`</span></a>MSIT Neurofeedback Task</dt>
-<dd><p class="first last">Materials &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/msit-master.zip">http://fcon_1000.projects.nitrc.org/indi/enhanced/msit-master.zip</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MSIT.pdf">Multi Source Interference Task (EPI, TE = 30 ms, TR = 2000 ms, voxel size = 3.4 x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 7 min)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/msit-master.zip">MSIT Neurofeedback Task Materials</a></li>
 </ul>
 </div></blockquote>
-</dd>
-</dl>
 </li>
-<li><dl class="first docutils">
-<dt><a href="#id44"><span class="problematic" id="id45">`</span></a>Moral Dilemma Task (EPI, TE = 30 ms ,TR = 2000 ms, voxel size = 3.4</dt>
-<dd><p class="first">x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 5
-min) &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.pdf">http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.pdf</a>&gt;`_</p>
-<blockquote class="last">
-<div><ul>
-<li><dl class="first docutils">
-<dt><a href="#id46"><span class="problematic" id="id47">`</span></a>Moral Dilemma Task</dt>
-<dd><p class="first last">Materials &lt;<a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.zip">http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.zip</a>&gt;`_</p>
-</dd>
-</dl>
-</li>
+<li><p class="first"><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.pdf">Moral Dilemma Task (EPI, TE = 30 ms ,TR = 2000 ms, voxel size = 3.4 x 3.4 x 3.6 mm, gap = 0.36 mm, dur = 5 min)</a></p>
+<blockquote>
+<div><ul class="simple">
+<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/MoralDilemma.zip">Moral Dilemma Task Materials</a></li>
 </ul>
 </div></blockquote>
-</dd>
-</dl>
 </li>
 </ul>
 </div>
 <div class="section" id="references">
 <h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
-<p>Xu, J., S. Moeller, J. Strupp, E. Auerbach, L. Chen, D. Feinberg, K.
-Ugurbil and E. Yacoub (2012). “Highly accelerated whole Brain Imaging
-Using Aligned-Blipped-Controlled Aliasing Multiband EPI.” Proc. Int.
-Soc. Mag Reson Med.</p>
+<p>Xu, J., S. Moeller, J. Strupp, E. Auerbach, L. Chen, D. Feinberg, K. Ugurbil and E. Yacoub (2012). “Highly accelerated whole Brain Imaging Using Aligned-Blipped-Controlled Aliasing Multiband EPI.” Proc. Int. Soc. Mag Reson Med.</p>
 </div>
 </div>
 
@@ -324,6 +150,7 @@ Soc. Mag Reson Med.</p>
             </a></p>
 <h3><a href="index.html">Table Of Contents</a></h3>
 <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="studies.html">Studies</a></li>
 <li class="toctree-l1"><a class="reference internal" href="recruit.html">Recruitment</a></li>
 <li class="toctree-l1"><a class="reference internal" href="sched.html">Participant Schedule</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">MRI Protocol</a><ul>
@@ -339,6 +166,7 @@ Soc. Mag Reson Med.</p>
 <li class="toctree-l1"><a class="reference internal" href="sharing.html">Data Sharing</a></li>
 <li class="toctree-l1"><a class="reference internal" href="download.html">NKI-RS Lite Releases</a></li>
 <li class="toctree-l1"><a class="reference internal" href="pubs.html">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="leadership.html">NKI-RS Team</a></li>
 </ul>
 
 <div id="searchbox" style="display: none">

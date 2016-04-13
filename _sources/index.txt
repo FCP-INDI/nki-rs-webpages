@@ -7,6 +7,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
 .. toctree::
     :hidden:
 
+    Studies <studies>
     Recruitment <recruit>
     Participant Schedule <sched>
     MRI Protocol <mri_protocol>
@@ -15,123 +16,51 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Data Sharing <sharing>
     NKI-RS Lite Releases <download>
     Publications <pubs>
+    NKI-RS Team <leadership>
 
 
 Introduction
 ^^^^^^^^^^^^^
 
-The enhanced Nathan Kline Institute-Rockland Sample (NKI-RS) is an
-ongoing, institutionally centered endeavor aimed at creating a
-large-scale (N > 1000) community sample of participants across the
-lifespan. Measures include a wide array of physiological and
-psychological assessments, genetic information, and advanced
-neuroimaging. Anonymized data will be publicly shared openly and prospectively (i.e., on a quarterly basis).
+The enhanced Nathan Kline Institute-Rockland Sample (NKI-RS) is an ongoing, institutionally centered endeavor aimed at creating a large-scale (N > 1000) community sample of participants across the lifespan. Measures include a wide array of physiological and psychological assessments, genetic information, and advanced neuroimaging. Anonymized data will be publicly shared openly and prospectively (i.e., on a quarterly basis). 
 
-The National Institute of Mental Health strategic plan for advancing
-psychiatric neuroscience calls for increased discovery science
-initiatives in an effort to deliniate developmental trajectories for
-risk and resilience across the lifespan. Such initiatives require large,
-openly accessible datasets that contain sufficient detail to enable the
-generation and testing of multiple hypotheses. The NKI-RS is intended to
-help meet this need.
+The National Institute of Mental Health strategic plan for advancing psychiatric neuroscience calls for increased discovery science initiatives in an effort to deliniate developmental trajectories for risk and resilience across the lifespan. Such initiatives require large, openly accessible datasets that contain sufficient detail to enable the generation and testing of multiple hypotheses. The NKI-RS is intended to help meet this need. 
 
 The NKI-RS Team
 ^^^^^^^^^^^^^^^^
+| **Leadership**
+| Michael Milham, MD, PhD, (co-founder of NKI-Rockland Sample Initiative, Principal Investigator for Cross-sectional Lifespan Connectomics and Longitudinal Developmental Connectomics studies; Director of the Center for Biomedical Imaging and Neuromodulation [C-BIN]), Cameron Craddock, PhD, (Principal Investigator for the Real-time Neurofeedback study; Director of the Computational Neuroimaging Laboratory, C-BIN), Russ Tobe, MD, (Director of NKI Outpatient Research Program), Anna MacKay-Brandt, PhD, (Clinical Neuropsychologist), Stan Colcombe, PhD, (Director of Design, Acquisition and Stimulation Laboratiory, C-BIN), Bennett Leventhal, MD, (co-founder of NKI-Rockland Sample Initiative, UCSF), F. Xavier Castellanos, MD, (co-founder of NKI-Rockland Sample Initiative, Director of Child and Adolescent Psychiatry, NKI) 
 
-**Leadership**
+| **Clinical Evaluation and Phenotyping**
+| Melissa Breland, MA, Steven Carter, Melissa Kramer, Alexis Lieval, LMSW, Amalia McDonald, Laura Panek, RN, Hayley Reed, Lauren Walden, Abigail Waters, Erica Ho, Michelle Kaplan, Enitan Marcelle, Ayesha Anwar (alumnus), Shaquanna Brown (alumnus), Caitlin Hinz (alumnus), Stephanie Kamiel (alumnus), Kate Nooner (alumnus), Anna Rachlin (alumnus), Christine Santiago (alumnus), Steve Zavitz (alumnus) 
 
-Michael Milham, MD, PhD, (co-founder of NKI-Rockland Sample Initiative,
-Principal Investigator for Cross-sectional Lifespan Connectomics and
-Longitudinal Developmental Connectomics studies; Director of the Center
-for Biomedical Imaging and Neuromodulation [C-BIN]), Cameron Craddock,
-PhD, (Principal Investigator for the Real-time Neurofeedback study;
-Director of the Computational Neuroimaging Laboratory, C-BIN), Russ
-Tobe, MD, (Director of NKI Outpatient Research Program), Anna
-MacKay-Brandt, PhD, (Clinical Neuropsychologist), Stan Colcombe, PhD,
-(Director of Design, Acquisition and Stimulation Laboratiory, C-BIN),
-Bennett Leventhal, MD, (co-founder of NKI-Rockland Sample Initiative,
-UCSF), F. Xavier Castellanos, MD, (co-founder of NKI-Rockland Sample
-Initiative, Director of Child and Adolescent Psychiatry, NKI)
+| **Imaging**
+| Cathy Hu, Raj Sangoi, Stan Colcombe, Cameron Craddock
 
-**Clinical Evaluation and Phenotyping**
+| **Programming, Technical and Analytic Support**
+| David O’Conner, Daniel Clark, David Lewis, Sharad Sikka (alumnus), Daniel Lurie (alumnus), Ranjit Khanuja (alumnus), Qingyang Li (alumnus), Brian Cheung (alumnus) 
 
-Melissa Breland, MA, Steven Carter, Melissa Kramer, Alexis Lieval, LMSW,
-Amalia McDonald, Laura Panek, RN, Hayley Reed, Lauren Walden, Abigail
-Waters, Erica Ho, Michelle Kaplan, Enitan Marcelle, Ayesha Anwar
-(alumnus), Shaquanna Brown (alumnus), Caitlin Hinz (alumnus), Stephanie
-Kamiel (alumnus), Kate Nooner (alumnus), Anna Rachlin (alumnus),
-Christine Santiago (alumnus), Steve Zavitz (alumnus)
+| **Neuroinformatics** (`Mind Research Network <http://www.mrn.org/>`_)
+| Vince Calhoun, Will Courtney, Margaret King, Susan Lane, Adam Scott, Runtang Wang, and Dylan Wood 
 
-**Imaging**
+| **Communications**
+| Stacey Ascher, Bruce Grover, Dawn Thomsen (alumnus), Nancy Duan (alumnus) 
 
-Cathy Hu, Raj Sangoi, Stan Colcombe, Cameron Craddock
+| **Miscellaneous Support and Guidance**
+| Bharat Biswal, Chrissie Cox, Adriana Di Martino, David Guilfoyle, Matt Hoptman, Brett Lullo, Clare Kelly, Daniel Margulies, Nunzio Pomara, John Sidtis, Xi-Nian Zuo 
 
-**Programming, Technical and Analytic Support**
-
-David O’Conner, Daniel Clark, David Lewis, Sharad Sikka (alumnus),
-Daniel Lurie (alumnus), Ranjit Khanuja (alumnus), Qingyang Li (alumnus),
-Brian Cheung (alumnus)
-
-**Neuroinformatics** (`Mind Research Network <http://www.mrn.org/>`_)
-
-Vince Calhoun, Will Courtney, Margaret King, Susan Lane, Adam Scott,
-Runtang Wang, and Dylan Wood
-
-**Communications**
-
-Stacey Ascher, Bruce Grover, Dawn Thomsen (alumnus), Nancy Duan
-(alumnus)
-
-**Miscellaneous Support and Guidance**
-
-Bharat Biswal, Chrissie Cox, Adriana Di Martino, David Guilfoyle, Matt
-Hoptman, Brett Lullo, Clare Kelly, Daniel Margulies, Nunzio Pomara, John
-Sidtis, Xi-Nian Zuo
-
-*Special thanks to Cameron Craddock for his assistance in designing the
-test-retest dataset and helping to troubleshoot its various phases, as
-well as providing the task paradigms; to Kamil Urgurbil, Eddie Auerbach,
-Junquian Gordon Xu and Steen Moeller from the HCP for assistance with
-the implementation of the multiband sequences and reconstruction
-algorithms; to Satrajit Ghosh for his guidance in the development of our
-DICOM anonymization protocol; and as always - to Maarten Mennes for his
-efforts overseeing the INDI team.*
+*Special thanks to Cameron Craddock for his assistance in designing the test-retest dataset and helping to troubleshoot its various phases, as well as providing the task paradigms; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol; and as always - to Maarten Mennes for his efforts overseeing the INDI team.* 
 
 Funding
 ^^^^^^^^
 
-Principal support for the enhanced NKI-RS project is provided by the
-`NIMH BRAINS
-R01MH094639-01 <http://grants.nih.gov/grants/guide/rfa-files/RFA-MH-11-050.html>`_
-(PI Milham). Funding for key personnel also provided in part by the New
-York State Office of Mental Health and Research Foundation for Mental
-Hygiene. Funding for the decompression and augmentation of
-administrative and phenotypic protocols provided by a grant from the
-`Child Mind Institute <http://childmind.org>`_ (1FDN2012-1). Additional
-personnel support provided by the Center for the Developing Brain at the
-Child Mind Institute, as well as NIMH R01MH081218, R01MH083246, and
-R21MH084126. Project support also provided by the `NKI Center for
-Advanced Brain Imaging (CABI) <http://claymore.rfmh.org/>`_, the `Brain
-Research Foundation <http://thebrf.org>`_, and the `Stavros Niarchos
-Foundation <http://www.snf.org/>`_.
+Principal support for the enhanced NKI-RS project is provided by the `NIMH BRAINS R01MH094639-01 <http://grants.nih.gov/grants/guide/rfa-files/RFA-MH-11-050.html>`_ (PI Milham). Funding for key personnel also provided in part by the New York State Office of Mental Health and Research Foundation for Mental Hygiene. Funding for the decompression and augmentation of administrative and phenotypic protocols provided by a grant from the `Child Mind Institute <http://childmind.org>`_ (1FDN2012-1). Additional personnel support provided by the Center for the Developing Brain at the Child Mind Institute, as well as NIMH R01MH081218, R01MH083246, and R21MH084126. Project support also provided by the `NKI Center for Advanced Brain Imaging (CABI) <http://claymore.rfmh.org/>`_, the `Brain Research Foundation <http://thebrf.org>`_, and the `Stavros Niarchos Foundation <http://www.snf.org/>`_.  Funding: Real-Time Neurofeedback
 
-Funding: Real-Time Neurofeedback
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Principal support for the Real-Time Neurofeedback project is provided by
-the NIMH BRAINS R01-MH101555 (PI Craddock).
+Principal support for the Real-Time Neurofeedback project is provided by the NIMH BRAINS R01-MH101555 (PI Craddock). 
 
 Acknowledgements
 ^^^^^^^^^^^^^^^^^
 
-We would like to thank Lawrence Maayan for his key role in the design
-and execution of the pilot NKI-RS, David Guilfoyle for his assistance
-with human imaging, and Raj Sangoi and Caixia Hu for the many hours
-contributed to scanning and providing invaluable feedback. Also, special
-thanks to Randy Buckner for providing us the specifications for the
-Brain Genomics Superstruct’s Common Acquisition Protocol, which formed
-the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil,
-Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for
-assistance with the implementation of the multiband sequences and
-reconstruction algorithms; and to Satrajit Ghosh for his guidance in the
-development of our DICOM anonymization protocol.
+We would like to thank Lawrence Maayan for his key role in the design and execution of the pilot NKI-RS, David Guilfoyle for his assistance with human imaging, and Raj Sangoi and Caixia Hu for the many hours contributed to scanning and providing invaluable feedback. Also, special thanks to Randy Buckner for providing us the specifications for the Brain Genomics Superstruct’s Common Acquisition Protocol, which formed the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; and to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol. 
