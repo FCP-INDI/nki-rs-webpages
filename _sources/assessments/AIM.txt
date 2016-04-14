@@ -1,13 +1,7 @@
-Abffect Intensity Measure (AIM)
+Affect Intensity Measure (AIM)
 -------------------------------
 
-The AIM is a self-administered, 40-item, Likert scale questionnaire
-designed to measure the strength or weakness with which one experiences
-both positive and negative emotions. The questionnaire provides scores
-for the following scales: Negative Intensity, Positive Intensity,
-Negative Affectivity, and Positive Affectivity. Items are rated on a
-six-point scale: 1-Never, 2-Almost Never, 3-Occasionally, 4-Usually,
-5-Almost Always, 6-Always.
+The AIM is a self-administered, 40-item, Likert scale questionnaire designed to measure the strength or weakness with which one experiences both positive and negative emotions. The questionnaire provides scores for the following scales: Negative Intensity, Positive Intensity, Negative Affectivity, and Positive Affectivity. Items are rated on a six-point scale: 1-Never, 2-Almost Never, 3-Occasionally, 4-Usually, 5-Almost Always, 6-Always. 
 
 **Domains Assessed:** :doc:`Depression and Mood <depression>`
 

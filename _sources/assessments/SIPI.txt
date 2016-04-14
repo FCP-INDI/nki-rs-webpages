@@ -1,16 +1,8 @@
 Short Imaginal Process Inventory (SIPI)
 ----------------------------------------
 
-The SIPI is a 45-item, self-administered, Likert scale questionnaire
-designed to measure aspects of daydreaming style and content, mental
-style, and general inner experience. Items are rated on a five-point
-scale: 1-Very true or strongly characteristic of me, 2-Moderately true
-or characteristic of me, 3-Neither particularly characteristic nor
-uncharacteristic of me, 4-Moderately untrue or uncharacteristic of me,
-5-Definitely untrue or strongly uncharacteristic of me.
+The SIPI is a 45-item, self-administered, Likert scale questionnaire designed to measure aspects of daydreaming style and content, mental style, and general inner experience. Items are rated on a five-point scale: 1-Very true or strongly characteristic of me, 2-Moderately true or characteristic of me, 3-Neither particularly characteristic nor uncharacteristic of me, 4-Moderately untrue or uncharacteristic of me, 5-Definitely untrue or strongly uncharacteristic of me. 
 
 **Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>`
 
-**References:** Huba G. J., Aneshensel C. S., Singer J. L. (1981).
-Development of scales for three second-order factors of inner
-experience. Multivariate Behav. Res. 16 181–206
+**References:** Huba G. J., Aneshensel C. S., Singer J. L. (1981). Development of scales for three second-order factors of inner experience. Multivariate Behav. Res. 16 181–206 

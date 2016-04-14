@@ -1,25 +1,10 @@
 Ruminative Responses Scale (RRS)
 ---------------------------------
 
-The RRS is a revision of the original, longer Response Styles
-Questionnaire. The RRS was developed to more directly and reliably
-assess rumination that is related to, but not confounded by depression.
-The 22 items of the RRS measure two aspects of rumination, brooding and
-reflective pondering. Items are rated on a four-point scale: 1-Almost
-Never, 2-Sometimes, 3-Often, 4-Almost always. The questionnaire provides
-scores for the following scales: Brooding, Reflection, and Depression.
+The RRS is a revision of the original, longer Response Styles Questionnaire. The RRS was developed to more directly and reliably assess rumination that is related to, but not confounded by depression. The 22 items of the RRS measure two aspects of rumination, brooding and reflective pondering. Items are rated on a four-point scale: 1-Almost Never, 2-Sometimes, 3-Often, 4-Almost always. The questionnaire provides scores for the following scales: Brooding, Reflection, and Depression. 
 
 **Domains Assessed:** :doc:`Depression and Mood <depression>`
 
-**Note:** The first 29 subjects in the NFB protocol were administered a
-slightly longer version of the RRS, based on the RSQ. This version
-contained 21 of the 22 items of the RRS. The single item that was
-omitted was from the Depression subscale and thus impacts that subscale,
-as well as the RRS total score. Examination of approximately 20 subjects
-who completed the full RRS revealed correlations > r = .95 between the
-11-item and 12-item Depression subscale and the 21 and 22-item total
-scale score.
+**Note:** The first 29 subjects in the NFB protocol were administered a slightly longer version of the RRS, based on the RSQ. This version contained 21 of the 22 items of the RRS. The single item that was omitted was from the Depression subscale and thus impacts that subscale, as well as the RRS total score. Examination of approximately 20 subjects who completed the full RRS revealed correlations > r = .95 between the 11-item and 12-item Depression subscale and the 21 and 22-item total scale score. 
 
-**References:** Treynor, W.; Gonzalez, R.; Nolen-Hoeksema, S. (2003).
-Rumination Reconsidered: A Psychometric Analysis. Cognitive Therapy and
-Research, 27(3), 247-259
+**References:** Treynor, W.; Gonzalez, R.; Nolen-Hoeksema, S. (2003). Rumination Reconsidered: A Psychometric Analysis. Cognitive Therapy and Research, 27(3), 247-259 

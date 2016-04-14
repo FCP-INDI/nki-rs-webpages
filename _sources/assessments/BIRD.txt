@@ -1,13 +1,7 @@
 The Behavioral Indicator of Resiliency to Distress (BIRD)
 ----------------------------------------------------------
 
-The participant is presented with a screen that shows a bird inside of a
-birdcage and ten numbered boxes in a row. A green dot randomly moves
-above the boxes. The participant’s goal is to click on the numbered box
-below the green dot, before the dot moves. Subjects hear a pleasant
-sound and are awarded points each time they succeed in doing this.
-However, an unpleasant sound is played whenever the subjects do not
-click the box in time. Subjects can press a button to abort the game.
+The participant is presented with a screen that shows a bird inside of a birdcage and ten numbered boxes in a row. A green dot randomly moves above the boxes. The participant’s goal is to click on the numbered box below the green dot, before the dot moves. Subjects hear a pleasant sound and are awarded points each time they succeed in doing this. However, an unpleasant sound is played whenever the subjects do not click the box in time. Subjects can press a button to abort the game. 
 
 **Domains Assessed:** :doc:`Distress Tolerance <distress>`
 

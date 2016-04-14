@@ -1,21 +1,8 @@
 GUR/ Penn CNP
 --------------
 
-The GUR Neurocognitive Battery is a computerized battery that takes an
-average of one hour to complete and provides measures of accuracy and
-speed in nine neurocognitive domains: abstraction/flexibility,
-attention, working memory, episodic memory, language, spatial,
-sensorimotor, motor speed, and emotion identification.
+The GUR Neurocognitive Battery is a computerized battery that takes an average of one hour to complete and provides measures of accuracy and speed in nine neurocognitive domains: abstraction/flexibility, attention, working memory, episodic memory, language, spatial, sensorimotor, motor speed, and emotion identification. 
 
-**Domains Assessed:** :doc:`Cognitive Function <cognitive>`,
-:doc:`Attention <attention>`, Abstraction/Flexibility, Working
-Memory, Episodic Memory, Language, Spatial, Sensorimotor, Motor Speed,
-and Emotion Identification.
+**Domains Assessed:** :doc:`Cognitive Function <cognitive>`, :doc:`Attention <attention>`, Abstraction/Flexibility, Working Memory, Episodic Memory, Language, Spatial, Sensorimotor, Motor Speed, and Emotion Identification.  **Note:** The GUR/Penn CNP is administered to children and adults ages 6-85 years old.
 
-**Note:** The GUR/Penn CNP is administered to children and adults ages
-6-85 years old.
-
-**References:** Gur, R.C., et al. (2009). A cognitive
-neuroscience-based computerized battery for efficient measurement of
-individual differences: Standardization and initial construct
-validation. Journal of Neuroscience Methods, 187(2010), 254-262.
+**References:** Gur, R.C., et al. (2009). A cognitive neuroscience-based computerized battery for efficient measurement of individual differences: Standardization and initial construct validation. Journal of Neuroscience Methods, 187(2010), 254-262. 
