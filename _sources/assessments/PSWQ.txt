@@ -5,6 +5,4 @@ The PSWQ is a self-administered, 16-item, Likert-type scale designed to measure 
 
 **Domains Assessed:** :doc:`Anxiety* <anxiety>`, :doc:`Depression and Mood <depression>`
 
-**References:** Meyer TJ, Miller ML, Metzger RL, Borkovec TD (1990).
-Development and validation of the Penn State Worry Questionnaire. Beh
-Research and Therapy, 28, 487-495.
+**References:** Meyer TJ, Miller ML, Metzger RL, Borkovec TD (1990). Development and validation of the Penn State Worry Questionnaire. Beh Research and Therapy, 28, 487-495. 

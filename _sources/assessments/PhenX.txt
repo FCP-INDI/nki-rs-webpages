@@ -5,7 +5,6 @@ The PhenX provides an objective assessment of self-reported sexual behaviors.
 
 **Domains Assessed:** :doc:`Sex and Gender* <sexgender>`
 
-**Note:** The PhenX is administered to adolescents and adults ages
-13-85.
+**Note:** The PhenX is administered to adolescents and adults ages 13-85.
 
 **More Information:** `*PhenX Tool Kit* <https://www.phenxtoolkit.org/index.php?pageLink=browse.protocoldetails&id=101401>`_

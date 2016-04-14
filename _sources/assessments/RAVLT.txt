@@ -7,5 +7,4 @@ The RAVLT evaluates verbal learning and memory. The examiner reads aloud a list 
 
 **Note:** The RAVLT is administered to children and adults ages 8-85.
 
-**References:** Schmidt, M. (1996) Rey Auditory and Verbal Learning
-Test. A handbook. Los Angeles: Western Psychological Association
+**References:** Schmidt, M. (1996) Rey Auditory and Verbal Learning Test. A handbook. Los Angeles: Western Psychological Association 

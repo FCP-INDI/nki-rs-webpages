@@ -5,8 +5,4 @@ The PTQ is a self-administered, 15-item, Likert-type scale designed to measure t
 
 **Domains Assessed:** :doc:`Anxiety <anxiety>`, :doc:`Depression and Mood* <depression>`
 
-**References:** Ehring, T., Zetsche, U., Weidacker, K., Wahl, K.,
-Schönfeld, S., & Ehlers, A. (2011). The Perseverative Thinking
-Questionnaire (PTQ): Validation of a content-independent measure of
-repetitive negative thinking. Journal of Behavior Therapy and
-Experimental Psychiatry, 42, 225-232.
+**References:** Ehring, T., Zetsche, U., Weidacker, K., Wahl, K., Schönfeld, S., & Ehlers, A. (2011). The Perseverative Thinking Questionnaire (PTQ): Validation of a content-independent measure of repetitive negative thinking. Journal of Behavior Therapy and Experimental Psychiatry, 42, 225-232. 

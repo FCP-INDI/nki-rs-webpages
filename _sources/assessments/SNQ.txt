@@ -8,6 +8,4 @@ The Social Networking Questionnaire assesses social interactions and supports.
 **Note:** The Social Networking Questionnaire is administered to adults
 ages 22-85.
 
-**References:** Adapted from: Holtzman, et al., (2004). Social Network
-Characteristics and Cognition in Middle-Aged and Older Adults, JOG,
-Psych Sci. 59(6), 278-284
+**References:** Adapted from: Holtzman, et al., (2004). Social Network Characteristics and Cognition in Middle-Aged and Older Adults, JOG, Psych Sci. 59(6), 278-284 

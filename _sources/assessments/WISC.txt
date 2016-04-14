@@ -5,8 +5,7 @@ For Digit Span Forward, the participant is read a sequence of numbers and recall
 
 **Domains Assessed:** :doc:`Attention* <attention>`, :doc:`Short Term Memory <shortterm>`, :doc:`Working Memory <workingmemory>`
 
-**Note:** The Digit Span is administered to children and adults ages
-6-85 years old.
+**Note:** The Digit Span is administered to children and adults ages 6-85 years old. 
 
 **References:**
 

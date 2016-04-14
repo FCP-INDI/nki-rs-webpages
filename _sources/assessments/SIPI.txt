@@ -5,6 +5,4 @@ The SIPI is a 45-item, self-administered, Likert scale questionnaire designed to
 
 **Domains Assessed:** :doc:`Attention Problems and Hyperactivity <attention>`
 
-**References:** Huba G. J., Aneshensel C. S., Singer J. L. (1981).
-Development of scales for three second-order factors of inner
-experience. Multivariate Behav. Res. 16 181–206
+**References:** Huba G. J., Aneshensel C. S., Singer J. L. (1981). Development of scales for three second-order factors of inner experience. Multivariate Behav. Res. 16 181–206 

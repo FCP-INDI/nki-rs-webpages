@@ -5,7 +5,4 @@ The PANAS-S is a self-administered, 20-item Likert scale assessment that measure
 
 **Domains Assessed:** :doc:`Depression and Mood <depression>`
 
-**References:** Watson, D., Clark, L. A., & Tellegen, A. (1988).
-Development and validation of brief measures of positive and negative
-affect: The PANAS Scales. Journal of Personality and Social Psychology,
-47, 1063–1070.
+**References:** Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS Scales. Journal of Personality and Social Psychology, 47, 1063–1070. 
