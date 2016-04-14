@@ -4,6 +4,6 @@ The RBS-R is a 44-item self-report questionnaire that is used to measure the bre
 
 **Domains Assessed:** :doc:`autism`
 
-**Note:** This assessment is given to guardians of children ages 6-17 years old, and is also give to adults ages 18-85 as a self-report. 
+**Note:** This assessment is given to guardians of children ages 6-17 years old.
 
 **References:** Lam, K. S. L. and M. G. Aman (2007). The Repetitive Behavior Scale-Revised: independent validation in individuals with autism spectrum disorders. Journal of Autism and Developmental Disorders, 37(5): 855-866.
