@@ -1,7 +1,11 @@
 NIDA
 -----
 
-This measure from the National Institute on Drug Abuse is a brief self-report questionnaire comprised of 8 items assessing use of cannabis, cocaine, amphetamine-type stimulants, inhalants, sedatives, hallucinogens, opioids and other miscellaneous drugs, alcohol, and tobacco. 
+This measure from the National Institute on Drug Abuse is a brief
+self-report questionnaire comprised of 8 items assessing use of
+cannabis, cocaine, amphetamine-type stimulants, inhalants, sedatives,
+hallucinogens, opioids and other miscellaneous drugs, alcohol, and
+tobacco.
 
 **Domains Assessed:** :doc:`Substance Use <substance>`
 

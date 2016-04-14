@@ -1,7 +1,6 @@
 Depression and Mood
 -------------------
 
-* :doc:`Affect Intensity Measure (AIM) <AIM>`
 * :doc:`Adult Self Report (ASR) <asr>`
 * :doc:`Adult Temperament Questionnaire (ATQ) <atq>`
 * :doc:`Behavior Assessment System for Children, 2nd Edition – Parent Rating Scale, 6-11 years old (BASC -2 (6-11)) <basc-6-11>`
@@ -12,15 +11,10 @@ Depression and Mood
 * :doc:`The Children’s Depression Inventory 2 (CDI-2) <cdi-2>`
 * :doc:`Diagnostic Summary <diagnostic>`
 * :doc:`The Early Adolescent Temperament Questionnaire (Revised) Parent Report (EATQ-R) <eatq-r>`
-* :doc:`Emotional Regulation Questionnaire (ERQ) <ERQ>`
 * :doc:`Geriatric Depression Scale (GDS) <gds>`
 * :doc:`Medical History Questionnaire-Adult <mhq-a>`
 * :doc:`Medical History Questionnaire-Child <mhq-c>`
 * :doc:`Older Adult Self Report (OASR) <oasr>`
-* :doc:`Positive and Negative Affect Schedule – short form (PANAS-S) <PANAS>`
-* :doc:`Penn State Worry Questionnaire (PSWQ) <PSWQ>`
-* :doc:`Perseverative Thinking Questionnaire (PTQ) <PTQ>`
-* :doc:`Ruminative Response Scale (RRS) <RRS>`
 * :doc:`Trauma Symptom Checklist for Adults (TSC-40) <tsc-40>`
 * :doc:`Trauma Symptom Checklist for Children (TSC-C) <tsc-c>`
 * :doc:`Youth Risk Behavior Surveillance System – High School - YRBS-HS (2011) <yrbs-hs>`

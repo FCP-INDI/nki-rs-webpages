@@ -14,8 +14,6 @@ Anxiety
 * :doc:`Medical History Questionnaire-Child <mhq-c>`
 * :doc:`NEO Five Factor Inventory (NEO-FFI-3) <neo-ffi-3>`
 * :doc:`Older Adult Self Report (OASR) <oasr>`
-* :doc:`Penn State Worry Questionnaire (PSWQ) <PSWQ>`
-* :doc:`Perseverative Thinking Questionnaire (PTQ) <PTQ>`
 * :doc:`State Trait Anxiety Inventory (STAI) <stai>`
 * :doc:`Trauma Symptom Checklist for Adults (TSC-40) <tsc-40>`
 * :doc:`Trauma Symptom Checklist for Children (TSC-C) <tsc-c>`

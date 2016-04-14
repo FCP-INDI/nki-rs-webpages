@@ -12,13 +12,8 @@ Attention Problems and Hyperactivity
 * :doc:`The Conners ADHD Rating Scale 3 - Parent Short Form <conners-parent>`
 * :doc:`The Conners ADHD Rating Scale 3 – Youth Short Form <conners-youth>`
 * :doc:`Diagnostic Summary <diagnostic>`
-* :doc:`Digit Span <WISC>`
-* :doc:`Dot Probe <DotProbe>`
 * :doc:`The Early Adolescent Temperament Questionnaire (Revised) Parent Report (EATQ-R) <eatq-r>`
-* :doc:`GUR/Penn CNP <GUR>`
 * :doc:`Medical History Questionnaire-Adult <mhq-a>`
 * :doc:`Medical History Questionnaire-Child <mhq-c>`
-* :doc:`RVIP Assessment <RVIP>`
-* :doc:`Short Imaginal Process Inventory (SIPI) <SIPI>`
 * :doc:`Strengths and Weaknesses of Attention-Deficit/Hyperactivity Disorder Symptoms and Normal Behavior Scale (SWAN) <swan>`
 * :doc:`Youth Self-Report (YSR) <ysr>`

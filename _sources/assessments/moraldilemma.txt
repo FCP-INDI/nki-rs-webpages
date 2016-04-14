@@ -1,7 +1,26 @@
 Moral Dilemma Task
 -------------------
 
-The Moral Dilemma (MD) task consists of 24 moral dilemma and 24 control vignettes or scenarios in which brief background info is provided and the participant is instructed to make a decision about what he or she would do in that scenario (for the moral dilemma) or what the result of the scenario would be (control) (see Harrison et al. 2008). Prior to performing the task in the MRI scanner, participants are shown pictures relating to each vignette and are played an audio recording describing the event. During the MRI scan, participants are shown an image corresponding to a vignette and hear a question that either relates to a moral dilemma posed by the vignette or is related to an event that occurred in the vignette (for moral dilemma and control scenarios, respectively). For both conditions, participants were instructed to indicate yes or no using a button response box. The MD task is a block design task, meaning that control vignettes and moral dilemma vignettes are each presented separately for short blocks of time that alternate. Prior work with the MD task has shown strong activation of Default Mode Network (DMN) regions during moral dilemma relative to control scenarios (Harrison et al. 2008). As the NFB protocol was designed to examine relationships between DMN regulation and activity, the MD task provides a basis to directly examine task-induced activation of the DMN. 
+The Moral Dilemma (MD) task consists of 24 moral dilemma and 24 control
+vignettes or scenarios in which brief background info is provided and
+the participant is instructed to make a decision about what he or she
+would do in that scenario (for the moral dilemma) or what the result of
+the scenario would be (control) (see Harrison et al. 2008). Prior to
+performing the task in the MRI scanner, participants are shown pictures
+relating to each vignette and are played an audio recording describing
+the event. During the MRI scan, participants are shown an image
+corresponding to a vignette and hear a question that either relates to a
+moral dilemma posed by the vignette or is related to an event that
+occurred in the vignette (for moral dilemma and control scenarios,
+respectively). For both conditions, participants were instructed to
+indicate yes or no using a button response box. The MD task is a block
+design task, meaning that control vignettes and moral dilemma vignettes
+are each presented separately for short blocks of time that alternate.
+Prior work with the MD task has shown strong activation of Default Mode
+Network (DMN) regions during moral dilemma relative to control scenarios
+(Harrison et al. 2008). As the NFB protocol was designed to examine
+relationships between DMN regulation and activity, the MD task provides
+a basis to directly examine task-induced activation of the DMN.
 
 **Domains Assessed:**
 
