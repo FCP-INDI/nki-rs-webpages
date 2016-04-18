@@ -16,8 +16,6 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Data Sharing <sharing>
     NKI-RS Lite Releases <download>
     Publications <pubs>
-    NKI-RS Team <leadership>
-
 
 Introduction
 ^^^^^^^^^^^^^
