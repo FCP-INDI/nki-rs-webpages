@@ -1,0 +1,36 @@
+Details for Accessing the Full Phenotypic NKI-RS Dataset
+---------------------------------------------------------
+COINS Database
+^^^^^^^^^^^^^^^
+The Collaborative Informatics and Neuroimaging Suite (`COINS; Scott et al., 2011 <http://www.ncbi.nlm.nih.gov/pubmed/22275896>`_) was selected to provide the primary infrastructure for data capture for the NKI-RS, removing traditional paper and pencil approaches and integrating phenotypic and imaging data. COINS, developed by the `Mind Research Network <http://www.mrn.org/>`_, was created to facilitate communication and cultivate a data-sharing community by providing researchers with an open source information system that includes web-based tools to manage studies, subjects, imaging, and phenotypic data. This suite of tools has an intuitive ease of use and offers versatile data upload/import/entry options, rapid and secure sharing of data among investigators, querying of data types and assessments, real-time reporting, and study-management tools. Among its many features, the web-based assessments, automated data scoring, and integrated management of phenotypic and imaging data are potentially the most attractive. Web-based assessment entry completed by participants and research staff increases efficiency and accuracy by eliminating the need for intermediate data entry (i.e., paper to computer). Equally important, individual item-level responses are coded in the database, providing researchers with a far richer phenotypic dataset for exploration. In addition, protected health information can be unlinked within COINS to facilitate data sharing while maximally protecting participant anonymity. Of note, COINS is in compliance with Health Insurance Portability and Accountability Act (HIPAA) standards and implementation rules. 
+
+
+Data Usage Agreement
+^^^^^^^^^^^^^^^^^^^^^
+Given these considerations, the Enhanced NKI-RS Sample is requiring a data usage agreement for access to the data – a requirement similar to efforts such as the `Alzheimer’s Disease Neuroimaging Initiative (ADNI) <http://www.adni-info.org/>`_ and the `National Database for Autism Research (NDAR) <http://ndar.nih.gov/>`_. The adoption of a data usage agreement is not intended to limit the specific analyses a researcher can perform; users will only need to specify the broad range of analyses they may pursue with the data (e.g., association studies between DTI, R-fMRI, and behavior), not a specific analysis or set of analyses. The intent of the agreement is to ensure that data users agree to protect participant confidentiality when handling data that contains potentially identifying information and that they will agree to take the necessary measures to prevent breaches of privacy. The specific agreement to be employed for the Enhanced NKI-RS are those previously defined by the New York State Office of Mental Health, and can be found in the `Data Usage Agreement (DUA) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_. 
+
+Unlike the NDAR agreement, institutional review board (IRB) approval is not required for transfer of the data; it will be up to the individual data user to satisfy any additional requirements specified by their local IRB or ethics committee, prior to using the NKI-RS. Given that local IRB approval is not required as part of an individuals application for access to the NKI-RS, there is no need for an individual’s IRB to have a federal-wise assurance number – which can limit recipients of the NDAR datasets. 
+
+#. Complete the `Data Usage Agreement (DUA) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_.
+    * For your convenience, the DUA is already completed in its entirety with NKI-approved text for data handling.
+    * Investigators simply need to:
+
+        #. `Download the DUA form <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_.
+        #. Review all contents.
+        #. Provide appropriate information regarding their name(s) and institution.
+        #. Have the document signed and notarized by the appropriate institutional representative.
+        #. Scan and `send us the document <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_.
+
+#. When your application has been received and approved, you will
+   receive an email providing you access to all phenotypic (single-item
+   and summary) and imaging data in the COINS Database.
+
+Consistent with `FCP/INDI <http://fcon_1000.projects.nitrc.org/>`_ tradition, we will make .csv files containing the entire phenotypic dataset available to users via `NITRC <www.nitrc.org>`_. However, realizing the complexities of the 2000+ variables and many accessory files included in the protocol, we are now enabling download of the data from the COINS system (see below for more information about COINS, or `click here for a demo <_static/access_instructions.html>`_). 
+
+**Note:** If your institution requests any clarifications regarding DUA, just `contact us <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and will be developing a Frequently Asked Questions page as they emerge. 
+
+Participant Privacy
+^^^^^^^^^^^^^^^^^^^^
+Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces. 
+
+NKI-RS differs from the other samples in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns support the need for implementation of a data usage agreement. 

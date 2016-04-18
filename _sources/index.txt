@@ -13,9 +13,9 @@ Enhanced Nathan Kline Institute - Rockland Sample
     MRI Protocol <mri_protocol>
     Assessments <assessments>
     Sample Characteristics <demo>
-    Data Sharing <sharing>
-    NKI-RS Lite Releases <download>
+    Accessing Data <sharing>
     Publications <pubs>
+    FAQ <faq>
 
 Introduction
 ^^^^^^^^^^^^^
