@@ -4,6 +4,6 @@ The DOSPERT is a 90-item self-report that assesses risk taking in five content d
 
 **Domains Assessed:** :doc:`Risk Taking and Impulsive Behavior <risk>`
 
-**Note:** This self-assessment is given to child and adolescents participants ages 8–17 years old. 
+**Note:** This self-assessment is given to adult participants aged 18 years and above.
 
 **References:** Blais, A.R., & Weber, E.U. (2006) A Domain-Specific Risk-Taking (DOSPERT) scale for adult populations. Judgment and Decision Making, 1, 33-47.

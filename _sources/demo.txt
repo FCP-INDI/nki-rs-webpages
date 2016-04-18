@@ -1,11 +1,7 @@
 Current Sample Characteristics (As of July 2015)
 -------------------------------------------------
 
-The NKI-RS is designed to be a representitive, heterogeneous community
-sample. Exclusion criteria are minimal, and subjects vary widely in many
-respects. The following figures provide basic demographic information
-for the NKI-RS as of the 689th subject. Of these 689 participants, 657
-have imaging data available.
+The NKI-RS is designed to be a representitive, heterogeneous community sample. Exclusion criteria are minimal, and subjects vary widely in many respects. The following figures provide basic demographic information for the NKI-RS as of the 689th subject. Of these 689 participants, 657 have imaging data available. 
 
 Age
 ^^^^

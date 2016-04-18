@@ -4,40 +4,16 @@ Recruitment
 Rockland County
 ^^^^^^^^^^^^^^^^
 
-Rockland County is a suburban/rural county 20 miles northwest of New
-York City, with a population of 311,687 per the 2010 Census.
-Fortuitously, ethnic and economic demographics of Rockland County
-resemble those of the United States (U.S. Census Bureau, 2009),
-increasing the generalizability of the NKI-RS to the broader U.S.
-population. The table below compares census data from Rockland County
-and the United States as a whole.
+Rockland County is a suburban/rural county 20 miles northwest of New York City, with a population of 311,687 per the 2010 Census. Fortuitously, ethnic and economic demographics of Rockland County resemble those of the United States (U.S. Census Bureau, 2009), increasing the generalizability of the NKI-RS to the broader U.S. population. The table below compares census data from Rockland County and the United States as a whole. 
 
 .. figure:: /_images/rock_demo.jpg
 
 Sampling Strategy
 ^^^^^^^^^^^^^^^^^^
 
-Following the model of efforts such as the NIH Normal Brain Development
-Study, zip code based recruitment (e.g., advertisement flyer mailings,
-posting of materials in local shops and meeting places) and enrollment
-efforts are being used to avoid over-representation of any portion of
-the community, and to ensure faithful representation of Rockland County.
-We monitor and adjust enrollment as necessary to ensure that the
-relative proportions of age, sex, and ethnicity accrued remain stable
-throughout the 4-years of this project, thereby minimizing potential
-cohort biasing effects (e.g., enrolling from one sub-population
-primarily in year one, and from another in year four).
+Following the model of efforts such as the NIH Normal Brain Development Study, zip code based recruitment (e.g., advertisement flyer mailings, posting of materials in local shops and meeting places) and enrollment efforts are being used to avoid over-representation of any portion of the community, and to ensure faithful representation of Rockland County. We monitor and adjust enrollment as necessary to ensure that the relative proportions of age, sex, and ethnicity accrued remain stable throughout the 4-years of this project, thereby minimizing potential cohort biasing effects (e.g., enrolling from one sub-population primarily in year one, and from another in year four). 
 
-Practical and logistical limitations dictated some constraints on the
-age range of our sample. Although children as young as 4 years of age
-were imaged successfully in the initial NKI-RS, we selected 6 years of
-age as the lower age limit to balance data losses with scientific yield.
-Similarly, we opted to truncate the upper limit at age 85 because of the
-dramatically increased rate of chronic illness above age 85.
-Additionally, the second phase of this project has intentional
-oversampling of the extremes of the lifespan (youngest and oldest) to
-increase statistical power for ages characterized by greatest changes.
-The table below depicts the enrollment strategy for NKI-RS.
+Practical and logistical limitations dictated some constraints on the age range of our sample. Although children as young as 4 years of age were imaged successfully in the initial NKI-RS, we selected 6 years of age as the lower age limit to balance data losses with scientific yield. Similarly, we opted to truncate the upper limit at age 85 because of the dramatically increased rate of chronic illness above age 85. Additionally, the second phase of this project has intentional oversampling of the extremes of the lifespan (youngest and oldest) to increase statistical power for ages characterized by greatest changes. The table below depicts the enrollment strategy for NKI-RS. 
 
 .. figure:: /_images/enroll.png
 
@@ -46,8 +22,7 @@ The table below depicts the enrollment strategy for NKI-RS.
 Recruitment Materials
 ^^^^^^^^^^^^^^^^^^^^^^
 
-An example of a recruiting flyer posted at schools, shopping malls,
-community centers, and other locations within Rockland County.
+An example of a recruiting flyer posted at schools, shopping malls, community centers, and other locations within Rockland County. 
 
 .. figure:: /_images/flyer.jpg
    :width: 750px
@@ -55,18 +30,13 @@ community centers, and other locations within Rockland County.
 Sampling Strategy: Real-Time Neurofeedback
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Recruitment for the Real-Time Neurofeedback protocol is limited to
-individuals aged 25 – 40, based on the existing scientific literature,
-which suggests that this age period constitutes as close to a
-stable-period as is possible in terms of developmental and aging related
-brain changes. In total, we aim to recruit 180 individuals that are
-evenly distributed across the eligible age range (6 males and 6 females
-per year).
+Recruitment for the Real-Time Neurofeedback protocol is limited to individuals aged 25 – 40, based on the existing scientific literature, which suggests that this age period constitutes as close to a stable-period as is possible in terms of developmental and aging related brain changes. In total, we aim to recruit 180 individuals that are evenly distributed across the eligible age range (6 males and 6 females per year).   
 
 Recruitment Materials
 ^^^^^^^^^^^^^^^^^^^^^^
 
-An example of a recruiting flyer posted at schools, shopping malls,
-community centers, and other locations within Rockland County.
+An example of a recruiting flyer posted at schools, shopping malls, community centers, and other locations within Rockland County. 
 
 .. figure:: /_images/Craddock_NFB_flyer.png
+   :width: 750px
+

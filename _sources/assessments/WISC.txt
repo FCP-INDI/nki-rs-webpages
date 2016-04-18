@@ -1,22 +1,14 @@
 Digit Span (WISC-R for children, WMS-R for adults)
 ---------------------------------------------------
 
-For Digit Span Forward, the participant is read a sequence of numbers
-and recalls the numbers aloud in the same order. For Digit Span
-Backward, the examinee is read a sequence of numbers and recalls the
-numbers aloud in reverse order. The test measures simple attention,
-short term memory, and working memory.
+For Digit Span Forward, the participant is read a sequence of numbers and recalls the numbers aloud in the same order. For Digit Span Backward, the examinee is read a sequence of numbers and recalls the numbers aloud in reverse order. The test measures simple attention, short term memory, and working memory. 
 
 **Domains Assessed:** :doc:`Attention* <attention>`, :doc:`Short Term Memory <shortterm>`, :doc:`Working Memory <workingmemory>`
 
-**Note:** The Digit Span is administered to children and adults ages
-6-85 years old.
+**Note:** The Digit Span is administered to children and adults ages 6-85 years old. 
 
 **References:**
 
-Ivnik, et al (1992) Mayo’s older Americas normative studies: WAIS-R
-norms for ages 56 to 97. The Clinical Neuropsychologist, 6, 1-30.
+Ivnik, et al (1992) Mayo’s older Americas normative studies: WAIS-R norms for ages 56 to 97. The Clinical Neuropsychologist, 6, 1-30. 
 
-Kaufman, A. (1975) Factor analysis of the WISC-R at 11 age levels
-between 6 ½ and 16 ½. Journal of Consulting and Clinical Psychology, 43,
-2, 135-147.
+Kaufman, A. (1975) Factor analysis of the WISC-R at 11 age levels between 6 ½ and 16 ½. Journal of Consulting and Clinical Psychology, 43, 2, 135-147. 

@@ -1,12 +1,7 @@
 Emotional Regulation Questionnaire (ERQ)
 -----------------------------------------
 
-The ERQ is a 10-item, self-administered, Likert scale questionnaire for
-adults that is designed to assess individual differences in the habitual
-use of two emotion regulation strategies: cognitive reappraisal and
-expressive suppression. Items are rated on a seven point scale:
-1-Strongly Disagree, 4-Neutral, 7-Strongly Agree. The questionnaire
-provides scores for reappraisal and suppression.
+The ERQ is a 10-item, self-administered, Likert scale questionnaire for adults that is designed to assess individual differences in the habitual use of two emotion regulation strategies: cognitive reappraisal and expressive suppression. Items are rated on a seven point scale: 1-Strongly Disagree, 4-Neutral, 7-Strongly Agree. The questionnaire provides scores for reappraisal and suppression. 
 
 **Domains Assessed:** :doc:`*Depression and Mood* <depression>`
 
