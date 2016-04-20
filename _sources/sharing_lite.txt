@@ -21,11 +21,6 @@ The Real-Time Neurofeedback study includes these scans:
 * PEER1
 * PEER2
 
-COINS Database
-^^^^^^^^^^^^^^^
-
-The Collaborative Informatics and Neuroimaging Suite (`COINS; Scott et al., 2011 <http://www.ncbi.nlm.nih.gov/pubmed/22275896>`_) was selected to provide the primary infrastructure for data capture for the NKI-RS, removing traditional paper and pencil approaches and integrating phenotypic and imaging data. COINS, developed by the `Mind Research Network <http://www.mrn.org/>`_, was created to facilitate communication and cultivate a data-sharing community by providing researchers with an open source information system that includes web-based tools to manage studies, subjects, imaging, and phenotypic data. This suite of tools has an intuitive ease of use and offers versatile data upload/import/entry options, rapid and secure sharing of data among investigators, querying of data types and assessments, real-time reporting, and study-management tools. Among its many features, the web-based assessments, automated data scoring, and integrated management of phenotypic and imaging data are potentially the most attractive. Web-based assessment entry completed by participants and research staff increases efficiency and accuracy by eliminating the need for intermediate data entry (i.e., paper to computer). Equally important, individual item-level responses are coded in the database, providing researchers with a far richer phenotypic dataset for exploration. In addition, protected health information can be unlinked within COINS to facilitate data sharing while maximally protecting participant anonymity. Of note, COINS is in compliance with Health Insurance Portability and Accountability Act (HIPAA) standards and implementation rules. 
-
 Downloading Lite Release Data from NITRC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
