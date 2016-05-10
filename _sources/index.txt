@@ -14,6 +14,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Assessments <assessments>
     Sample Characteristics <demo>
     Accessing Data <sharing>
+    Data Quality Check <qc>
     Publications <pubs>
     FAQ <faq>
 
@@ -62,4 +63,4 @@ Principal support for the Real-Time Neurofeedback project is provided by the NIM
 Acknowledgements
 ^^^^^^^^^^^^^^^^^
 
-We would like to thank Lawrence Maayan for his key role in the design and execution of the pilot NKI-RS, David Guilfoyle for his assistance with human imaging, and Raj Sangoi and Caixia Hu for the many hours contributed to scanning and providing invaluable feedback. Also, special thanks to Randy Buckner for providing us the specifications for the Brain Genomics Superstruct’s Common Acquisition Protocol, which formed the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; and to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol. 
+We would like to thank Lawrence Maayan for his key role in the design and execution of the pilot NKI-RS, David Guilfoyle for his assistance with human imaging, and Raj Sangoi and Caixia Hu for the many hours contributed to scanning and providing invaluable feedback. Also, special thanks to Randy Buckner for providing us the specifications for the Brain Genomics Superstruct’s Common Acquisition Protocol, which formed the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol; and to the Brain Connectivity and Cognition Laboratory for providing us with the results of their quality control check. 
