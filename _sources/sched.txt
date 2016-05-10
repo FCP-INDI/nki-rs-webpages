@@ -1,33 +1,151 @@
 Participant Schedule
 ---------------------
+Previously, participants engaged in a 2-day protocol. Since September 15th, 2015, participants now engage in a 1-day protocol. The order of procedures may vary throughout the day to accommodate all participants. The screening visit and 1-day protocol compose the Core Battery, which is kept the same across all studies.
 
-During review of the finalized phenotyping protocol, a 2-day schedule format was developed. This 2-day format addressed concerns that the comprehensiveness of the phenotyping protocol would be unduly burdensome to both participants and experimenters if condensed into a single day.  This would potentially endanger its effectiveness due to factors such as fatigue. 
+Screening Visit
+^^^^^^^^^^^^^^^^
 
-As the data collection efforts continued, we determined that the full 2-day format reduced the likelihood of full participation.  In response to this concern, an abridged schedule was developed and implemented in September 2015.  Both schedules are listed below: 
+* Participant is consented into the study. 
+* Demographics are obtained. 
+* Height, weight, waist and hip measurements, and vital signs (blood pressure and pulse) are obtained. 
+* Participant is given an actigraphy watch to wear until 1-day protocol visit. 
+* Participants are sent online assessments to complete at home before their next visit:
+ * Demos-supplement
+ * Zip code
+ * NEO-FFI-3
+ * EHQ
+ * CAARS-S:S
+ * CFQ
+ * Social Network
+ * FTND
+ * EDEQ
+ * IPAQ
+ * CHRLS
+ * ICUY
+ * Med HX-Adult
+ * TFEQ
+ * UPPS-P
+ * CASI-A
+ * IRI
+ * DOSPERT
+ * PDI-21
+ * NIDA
+ * PSQI
+ * PASE 
+ * ATQ
 
-Abridged Format (Used as of September 2015)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Adult 1-Day Protocol Visit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Full 2-Day Format (Used prior to September 2015)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ +-----------+-----------------------------------------------------------------------------+
+ | Time      | Procedure                                                                   | 
+ +===========+=============================================================================+
+ | 8:30AM    | Arrival, blood draw, drug test, grip strength, color blindness, medical     | 
+ |           | conditions questionnaire, medications questionnaire                         |
+ +-----------+-----------------------------------------------------------------------------+
+ | 8:45AM    | Breakfast                                                                   |
+ +-----------+-----------------------------------------------------------------------------+
+ | 9:00AM    | MRI                                                                         |
+ +-----------+-----------------------------------------------------------------------------+
+ | 10:30AM   | MRI questionnaire                                                           |
+ +-----------+-----------------------------------------------------------------------------+
+ | 10:45AM   | Structured Clinical Interview for DSM-IV Non-Patient Edition, ACDS, SES     |
+ +-----------+-----------------------------------------------------------------------------+
+ | 11:45AM   | Lunch, family medical history questionnaires                                |
+ +-----------+-----------------------------------------------------------------------------+
+ | 12:15PM   | Abbreviated Delis-Kaplan Executive Function System, RAVLT, Grooved Purdue   | 
+ |           | Pegboard, WASI-II, WIAT-II-A                                                |
+ +-----------+-----------------------------------------------------------------------------+
+ | 2:15PM    | Online assessments: STAI, TSC-40, UCLA Youth, Sex-role Identity Scale,      |
+ |           | Sexual Orientation Scale, PhenX Sexual History, BDI-II, ASR-Adaptive        |
+ |           | Functioning Scales, ASR                                                     |
+ +-----------+-----------------------------------------------------------------------------+
+ | 3:00PM    | Bike                                                                        | 
+ +-----------+-----------------------------------------------------------------------------+
+ | 3:15PM    | Penn Computerized Neurocognitive Battery                                    |
+ +-----------+-----------------------------------------------------------------------------+
+ | 4:15PM    | ANT                                                                         |
+ +-----------+-----------------------------------------------------------------------------+
+ | 4:45PM    | Satisfaction Questionnaire and Wrap-Up                                      |
+ +-----------+-----------------------------------------------------------------------------+
 
-Adult Schedule
-===============
+ 
+Child 1-Day Protocol Visit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | Time      | Child Procedure                               | Adult Procedure                                         | 
+ +===========+===============================================+=========================================================+
+ | 8:30AM    | Arrival, blood draw, drug test, grip strength,  color blindness, medical conditions questionnaire,      |
+ |           | medications questionnaire.                                                                              |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 8:45AM    | Bike                                          |                                                         |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 9:00AM    | Penn Computerized Neurocognitive Battery      | Online assessments: CBCL-AF, CBCL, UCLA-Parent, BASC-2, |
+ |           |                                               | Conners 3-P(S)                                          |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 10:00AM   | Abbreviated Delis-Kaplan Executive Function   | Vineland-II                                             |
+ |           | System, RAVLT, Grooved Purdue Pegboard,       |                                                         |
+ |           | WASI-II, WIAT-II-A                            |                                                         |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 12:00PM   | Lunch                                                                                                   |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 12:30PM   | MRI                                                                                                     |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 2:00PM    | MRI Questionnaire                             |                                                         |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 2:15PM    | ANT                                           | Family medical history questionnaires                   |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 2:45PM    | Online assessments: UCLA Youth, MASC,         | K-SADS-PL                                               |
+ |           | CDI 2:SR, YSR-AF, Conners 3-SR(S), YSR,       |                                                         |
+ |           | Sex-role Identity Scale, Sexual Orientation   |                                                         |
+ |           | Scale, PhenX Sexual History, NIDA, YRBS-HS,   |                                                         |
+ |           | FTQA, CASI-A                                  |                                                         |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 3:45PM    | K-SADS-PL                                     |                                                         |
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
+ | 4:00PM    | Wrap-Up                                       | Satisfaction Questionnaire & Wrap-Up                    | 
+ +-----------+-----------------------------------------------+---------------------------------------------------------+
 
-.. figure:: /_images/adult_schedule.png
+This figure illustrates the 1-day assessment schedule for child and parent participants (children ages 6–17 years) in the Nathan Kline Institute-Rockland Sample (NKI-RS) protocol. **Note: some online assessments are omitted depending on child’s age.**
 
-This figure illustrates the 2-day assessment schedule for adult participants (ages 18–85 years) in the Nathan Kline Institute-Rockland Sample (NKI-RS) protocol. Abbreviations for the assessments: ANT, Attention Network Task; ASR, Adult Self Report; ATQ, Adult Temperament Questionnaire; BDI, Beck Depression Inventory-II; CAARS, Conners’ Adult ADHD Rating Scales; CASI-AOD, Comprehensive Adolescent Severity Inventory – Alcohol and Other Drugs; CHRLS, Cambridge-Hopkins Restless Leg Syndrome Questionnaire; CFQ, Cognitive Failures Questionnaire; DOSPERT, DOSPERT Risk Taking Scale; GDS-LF, Geriatric Depression Scale-Long Form; OASR, Older Adult Self Report; EDEQ, Eating Disorder Examination Questionnaire; EHI, Edinburgh Handedness Inventory; FTND, Fagerstrom Test for Nicotine Dependence; ICU-Y, Inventory of Callous-Unemotional Traits Youth Version; IPAQ, International Physical Activity Questionnaire; IRI, Interpersonal Reactivity Index; NEO-FFI, NEO Five Factor Inventory; PDI-21, 21-Item Peters et al. Delusions Inventory; PSQI, Pittsburgh Sleep Quality Index; STAI, State Trait Anxiety Inventory; TFEQ, Three Factor Eating Questionnaire; TSC-40, Trauma Symptom Checklist; UCLA-RI, UCLA PTSD Reaction Index for Children and Adolescents; UPPS-P, UPPS Impulsive Behavior Scale; Vineland-II, Vineland Adaptive Behavior Scales Parent Rating Form, Second Edition; WASI-II, Wechsler Abbreviated Scale of Intelligence-II; WIAT-II-A, Wechsler Individual Achievement Test-II-Abbreviated; Y-BOCS, Yale-Brown Obsessive Compulsive Scale; YGTSS, Yale Global Tic Severity Scale; YRBSS, Youth Risk Behavior Surveillance System. 
-
-Child Schedule
-===============
-
-.. figure:: /_images/child_schedule.png
-
-This figure illustrates the 2-day assessment schedule for child and parent participants (children ages 6–17 years) in the Nathan Kline Institute-Rockland Sample (NKI-RS) protocol. Abbreviations for the assessments: ANT, Attention Network Task; ASSQ, Autism Spectrum Screening Questionnaire; ATQ, Adult Temperament Questionnaire; BASC-2, Behavioral Assessment System for Children; CASI-AOD, Comprehensive Adolescent Severity Inventory-Alcohol and Other Drugs; CASS-S, Conner-Wells’ Adolescent Self-Report Scale-Short; CBCL, Child Behavioral Checklist; CBQ, Children’s Behavior Questionnaire; CFQ, Cognitive Failures Questionnaire; CDI-II, Children’s Depression Inventory-II; CEBQ, Child Eating Behavior Questionnaire; CPRS-R-S, Conners’ Parent Rating Scale-Revised-Short; CY-BOCS, Children’s Yale-Brown Obsessive Compulsive Scale; EATQ, Early Adolescent Temperament Questionnaire Parent Report; EDEQ, Eating Disorder Examination Questionnaire; EHI, Edinburgh Handedness Inventory; FTAQ, Fagerstrom Tolerance Questionnaire for Adolescents; ICU-P, Inventory of Callous-Unemotional Traits Parent Report; ICU-Y, Inventory of Callous-Unemotional Traits Youth Version; IPAQ, International Physical Activity Questionnaire; IRI, Interpersonal Reactivity Index; K-SADS-PL, Kiddie Schedule for Affective Disorders and Schizophrenia; MASC, Multidimensional Anxiety Scale for Children; MRI-Q, Magnetic Resonance Imaging Questionnaire; NEO-FFI, NEO Five Factor Inventory; PSQI, Pittsburgh Sleep Quality Index; RBSR, Repetitive Behavior Scale-Revised; SES, Hollingshead Four Factor Index of Socioeconomic Status; SRS, Social Responsiveness Scale-Parent Report; SWAN, Strengths and Weaknesses of Attention-Deficit/Hyperactivity Disorder Symptoms and Normal-Behavior Scale-Parent Version; TANN, Tanner Staging; TFEQ, Three Factor Eating Questionnaire; TSC-C, Trauma Symptom Checklist for Children; UCLA-RI, UCLA PTSD Reaction Index for Children and Adolescents; UCLA-RI-P, UCLA PTSD Reaction Index–Parent version; Vineland-II, Vineland Adaptive Behavior Scales Parent Rating Form, Second Edition; WASI-II, Wechsler Abbreviated Scale of Intelligence-II; WIAT-II-A, Wechsler Individual Achievement Test-II-Abbreviated; YGTSS, Yale Global Tic Severity Scale; YRBSS, Youth Risk Behavior Surveillance System; YSR, Achenbach Youth Self Report. 
+Abbreviations for the assessments: ANT, Attention Network Task; ASSQ, Autism Spectrum Screening Questionnaire; ATQ, Adult Temperament Questionnaire; BASC-2, Behavioral Assessment System for Children; CASI-AOD, Comprehensive Adolescent Severity Inventory-Alcohol and Other Drugs; CASS-S, Conner-Wells’ Adolescent Self-Report Scale-Short; CBCL, Child Behavioral Checklist; CBQ, Children’s Behavior Questionnaire; CFQ, Cognitive Failures Questionnaire; CDI-II, Children’s Depression Inventory-II; CEBQ, Child Eating Behavior Questionnaire; CPRS-R-S, Conners’ Parent Rating Scale-Revised-Short; CY-BOCS, Children’s Yale-Brown Obsessive Compulsive Scale; EATQ, Early Adolescent Temperament Questionnaire Parent Report; EDEQ, Eating Disorder Examination Questionnaire; EHI, Edinburgh Handedness Inventory; FTAQ, Fagerstrom Tolerance Questionnaire for Adolescents; ICU-P, Inventory of Callous-Unemotional Traits Parent Report; ICU-Y, Inventory of Callous-Unemotional Traits Youth Version; IPAQ, International Physical Activity Questionnaire; IRI, Interpersonal Reactivity Index; K-SADS-PL, Kiddie Schedule for Affective Disorders and Schizophrenia; MASC, Multidimensional Anxiety Scale for Children; MRI-Q, Magnetic Resonance Imaging Questionnaire; NEO-FFI, NEO Five Factor Inventory; PSQI, Pittsburgh Sleep Quality Index; RBSR, Repetitive Behavior Scale-Revised; SES, Hollingshead Four Factor Index of Socioeconomic Status; SRS, Social Responsiveness Scale-Parent Report; SWAN, Strengths and Weaknesses of Attention-Deficit/Hyperactivity Disorder Symptoms and Normal-Behavior Scale-Parent Version; TANN, Tanner Staging; TFEQ, Three Factor Eating Questionnaire; TSC-C, Trauma Symptom Checklist for Children; UCLA-RI, UCLA PTSD Reaction Index for Children and Adolescents; UCLA-RI-P, UCLA PTSD Reaction Index–Parent version; Vineland-II, Vineland Adaptive Behavior Scales Parent Rating Form, Second Edition; WASI-II, Wechsler Abbreviated Scale of Intelligence-II; WIAT-II-A, Wechsler Individual Achievement Test-II-Abbreviated; YGTSS, Yale Global Tic Severity Scale; YRBSS, Youth Risk Behavior Surveillance System; YSR, Achenbach Youth Self Report.  **Note that BIRD and Dot Probe were previously administered, but are no longer administered after September 15th, 2015.**
 
 Neurofeedback Schedule
-=======================
+^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_images/NFB_Schedule.png
+ +-----------+-----------------------------------------------------------------------------+
+ | Time      | Visit 3                                                                     | 
+ +===========+=============================================================================+
+ | 8:30AM    | Moral Dilemma, MSIT, and Neurofeedback Training                             |
+ +-----------+-----------------------------------------------------------------------------+
+ | 9:15AM    | Neurofeedback MRI                                                           |
+ +-----------+-----------------------------------------------------------------------------+
+ | 10:15AM   | RVIP Task                                                                   |
+ +-----------+-----------------------------------------------------------------------------+
+ | 10:30AM   | AIM, ERQ, PANAS-S, QME, RRS, PSWQ, PTQ, SIPI                                |
+ +-----------+-----------------------------------------------------------------------------+
+ | 11:00AM   | Wrap-Up                                                                     |
+ +-----------+-----------------------------------------------------------------------------+
 
-This figure illustrates the 3-day assessment schedule for adult participants (ages 21–45 years) in the Neurofeedback protocol. Abbreviations for the assessments: MSIT = Multi-Source Interference Task; RVIP = Rapid Visual Information Processing; AIM = Affect Intensity Measure; ERQ = Emotion Regulation Questionnaire; PANAS-S = Positive and Negative Affect Schedule – State; QME = Questionnaire on Meditation Experience; RRS = Ruminative Responses Scale; PSWQ = Penn State Worry Questionnaire; PTQ = Perseverative Thought Questionnaire; SIPI = Short Imaginal Processes Inventory 
+This figure illustrates the Visit 3 assessment schedule for adult participants (ages 21–45 years) in the Neurofeedback protocol. **Screening visit and 1-day protocol visit remain the same as above.**
+
+Abbreviations for the assessments: MSIT = Multi-Source Interference Task; RVIP = Rapid Visual Information Processing; AIM = Affect Intensity Measure; ERQ = Emotion Regulation Questionnaire; PANAS-S = Positive and Negative Affect Schedule – State; QME = Questionnaire on Meditation Experience; RRS = Ruminative Responses Scale; PSWQ = Penn State Worry Questionnaire; PTQ = Perseverative Thought Questionnaire; SIPI = Short Imaginal Processes Inventory 
+
+Adult Longitudinal Study Schedule
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ +-----------+-----------------------------------------------------------------------------+
+ | Time      | Visit 3                                                                     | 
+ +===========+=============================================================================+
+ | 8:30AM    | Orientation and Bike Setup                                                  |
+ +-----------+-----------------------------------------------------------------------------+
+ | 8:45AM    | VO2 Max Testing                                                             |
+ +-----------+-----------------------------------------------------------------------------+
+ | 9:00AM    | Equipment Breakdown                                                         |
+ +-----------+-----------------------------------------------------------------------------+
+ | 9:15AM    | Gait Walking Task                                                           |
+ +-----------+-----------------------------------------------------------------------------+
+ | 9:30AM    | Wrap-Up                                                                     |
+ +-----------+-----------------------------------------------------------------------------+
+ 
+This figure illustrates the Visit 3 assessment schedule for adult participants (ages 38-71 years) in the Adult Longitudinal Study protocol. **Screening visit and 1-day protocol visit remain the same as above.**
