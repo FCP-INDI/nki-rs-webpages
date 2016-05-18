@@ -11,11 +11,11 @@ It is our goal to provide researchers with the greatest flexibility to carry out
 
 Given the high dimensionality and personal nature of the data included (e.g., psychiatric assessments), we have developed two release versions: 
 
-**NKI-RS Lite Release:**
+**NKI-RS Neuroimaging Data Release**
 
-* Contains imaging data and limited phenotyping (age, sex, and handedness).
-* No psychiatric, cognitive, behavioral or physiological measurement information is included.
-* Immediately available to users (does not require a data usage agreement; see the :doc:`NKI-RS Lite Page <download>` for more information).
+* Contains imaging data, physiological data acquired during scan acquisition (cardiac and respiratory), and limited phenotyping (age, sex, and handedness).
+* No psychiatric, cognitive, or behavioral information is included.
+* Immediately available to users (does not require a data usage agreement)
 
 **NKI-RS Full Phenotypic Release:**
 
@@ -26,7 +26,6 @@ Given the high dimensionality and personal nature of the data included (e.g., ps
     * Neuropsychological testing.
     * Cognitive/behavioral performance measures.
     * Basic laboratory measures.
-    * Respiratory and cardiac recordings obtained during imaging.
     * Actigraphy (for a minimum 1 night of sleep).
 
 * Data Usage agreement is required.
@@ -34,70 +33,15 @@ Given the high dimensionality and personal nature of the data included (e.g., ps
     * Expected completion time: < 5 minutes
     * Signature and notarization by appropriate institutional representative is required.
 
-Data Usage Agreement
-^^^^^^^^^^^^^^^^^^^^^
+More details about these two releases can be found in the following pages:
 
-Given these considerations, the Enhanced NKI-RS Sample is requiring a data usage agreement for access to the data – a requirement similar to efforts such as the `Alzheimer’s Disease Neuroimaging Initiative (ADNI) <http://www.adni-info.org/>`_ and the `National Database for Autism Research (NDAR) <http://ndar.nih.gov/>`_. The adoption of a data usage agreement is not intended to limit the specific analyses a researcher can perform; users will only need to specify the broad range of analyses they may pursue with the data (e.g., association studies between DTI, R-fMRI, and behavior), not a specific analysis or set of analyses. The intent of the agreement is to ensure that data users agree to protect participant confidentiality when handling data that contains potentially identifying information and that they will agree to take the necessary measures to prevent breaches of privacy. The specific agreement to be employed for the Enhanced NKI-RS are those previously defined by the New York State Office of Mental Health, and can be found in the `Data Usage Agreement (DUA) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_. 
+.. toctree::
 
-Unlike the NDAR agreement, institutional review board (IRB) approval is not required for transfer of the data; it will be up to the individual data user to satisfy any additional requirements specified by their local IRB or ethics committee, prior to using the NKI-RS. Given that local IRB approval is not required as part of an individuals application for access to the NKI-RS, there is no need for an individual’s IRB to have a federal-wise assurance number – which can limit recipients of the NDAR datasets. 
-
-#. Complete the `Data Usage Agreement (DUA) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_.
-    * For your convenience, the DUA is already completed in its entirety with NKI-approved text for data handling.
-    * Investigators simply need to:
-
-        #. `Download the DUA form <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/DUA.pdf>`_.
-        #. Review all contents.
-        #. Provide appropriate information regarding their name(s) and institution.
-        #. Have the document signed and notarized by the appropriate institutional representative.
-        #. Scan and `send us the document <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_.
-
-#. When your application has been received and approved, you will
-   receive an email providing you access to all phenotypic (single-item
-   and summary) and imaging data in the COINS Database.
-
-Consistent with `FCP/INDI <http://fcon_1000.projects.nitrc.org/>`_ tradition, we will make .csv files containing the entire phenotypic dataset available to users via `NITRC <www.nitrc.org>`_. However, realizing the complexities of the 2000+ variables and many accessory files included in the protocol, we are now enabling download of the data from the COINS system (see below for more information about COINS, or `click here for a demo <_static/access_instructions.html>`_). 
-
-**Note:** If your institution requests any clarifications regarding DUA, just `contact us <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and will be developing a Frequently Asked Questions page as they emerge. 
-
-COINS Database
-^^^^^^^^^^^^^^^
-
-The Collaborative Informatics and Neuroimaging Suite (`COINS; Scott et al., 2011 <http://www.ncbi.nlm.nih.gov/pubmed/22275896>`_) was selected to provide the primary infrastructure for data capture for the NKI-RS, removing traditional paper and pencil approaches and integrating phenotypic and imaging data. COINS, developed by the `Mind Research Network <http://www.mrn.org/>`_, was created to facilitate communication and cultivate a data-sharing community by providing researchers with an open source information system that includes web-based tools to manage studies, subjects, imaging, and phenotypic data. This suite of tools has an intuitive ease of use and offers versatile data upload/import/entry options, rapid and secure sharing of data among investigators, querying of data types and assessments, real-time reporting, and study-management tools. Among its many features, the web-based assessments, automated data scoring, and integrated management of phenotypic and imaging data are potentially the most attractive. Web-based assessment entry completed by participants and research staff increases efficiency and accuracy by eliminating the need for intermediate data entry (i.e., paper to computer). Equally important, individual item-level responses are coded in the database, providing researchers with a far richer phenotypic dataset for exploration. In addition, protected health information can be unlinked within COINS to facilitate data sharing while maximally protecting participant anonymity. Of note, COINS is in compliance with Health Insurance Portability and Accountability Act (HIPAA) standards and implementation rules. 
-
-Downloading Lite Release Data from NITRC
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Instructions for downloading Rockland Sample Lite Release data via NITRC can be found `here <http://fcon_1000.projects.nitrc.org/indi/enhanced/download.html>`_. 
-
-Downloading Lite Release Data from the FCP-INDI S3 Bucket
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Data for the Rockland Sample Lite Release are available for download in an Amazon Web Services `S3 bucket <https://aws.amazon.com/s3/>`_. These data are currently organized as follows: 
-
-* RawData : Raw data for Rockland sample releases converted to NifTI format and not separated by release. The directory tree is organized with participants at the root, visits below participants, and individual series below visits.
-* RawDataTars : Raw data compressed with Gzip and separated by release.
-* PhenotypicData : Phenotypic data for participants (i.e., age, sex, handedness) stored in csv files by release.
-* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included. Currently only release 9 is available in BIDS.
-* Outputs : Rockland Sample data processed using `C-PAC <http://fcp-indi.github.io/docs/user/index.html>`_ and the `Gibbs’ connectome pipeline <https://www.nitrc.org/projects/gibbsconnectome/>`_.
-
-Each file in the S3 bucket can only be accessed using HTTP (i.e., **no ftp or scp** ). You can obtain a URL for each desired file and then download it using an HTTP client such as a web browser, *wget*, or *curl*. Each file can only be accessed using its literal name- wildcards will not work. 
-
-There are file transfer programs that can handle S3 natively and will allow you to navigate through the data using a file browser. `Cyberduck <https://cyberduck.io/>`_ is one such program that works with Windows and Mac OS X. Cyberduck also has a `command line version <https://duck.sh>`_ that works with Windows, Mac OS X, and Linux. Instructions for using Cyberduck are as follows: 
-
-#. Open Cyberduck and click on *Open Connection*.
-#. Set the application protocol in the dropdown menu to *S3 (Amazon Simple Storage Service)*.
-#. Set the server to *s3.amazonaws.com*.
-#. Check the box labelled *Anonymous Login*.
-#. Expand the More Options tab and set Path to *fcp-indi/data/Projects/RocklandSample*.
-#. Click *Connect*.
-
-The end result should appear as follows:
-
-.. figure:: /_images/rs_cyberduck.png
+    NKI-RS Neuroimaging Data <sharing_neuro>
+    NKI-RS Full Phenotypic <sharing_phenotypic>
 
 Participant Privacy
 ^^^^^^^^^^^^^^^^^^^^
-
 Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces. 
 
 NKI-RS differs from the other samples in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns support the need for implementation of a data usage agreement. 

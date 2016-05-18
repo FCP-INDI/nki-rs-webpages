@@ -13,11 +13,10 @@ Enhanced Nathan Kline Institute - Rockland Sample
     MRI Protocol <mri_protocol>
     Assessments <assessments>
     Sample Characteristics <demo>
-    Data Sharing <sharing>
-    NKI-RS Lite Releases <download>
+    Accessing Data <sharing>
+    Data Quality Check <qc>
     Publications <pubs>
-    NKI-RS Team <leadership>
-
+    FAQ <faq>
 
 Introduction
 ^^^^^^^^^^^^^
@@ -32,13 +31,13 @@ The NKI-RS Team
 | Michael Milham, MD, PhD, (co-founder of NKI-Rockland Sample Initiative, Principal Investigator for Cross-sectional Lifespan Connectomics and Longitudinal Developmental Connectomics studies; Director of the Center for Biomedical Imaging and Neuromodulation [C-BIN]), Cameron Craddock, PhD, (Principal Investigator for the Real-time Neurofeedback study; Director of the Computational Neuroimaging Laboratory, C-BIN), Russ Tobe, MD, (Director of NKI Outpatient Research Program), Anna MacKay-Brandt, PhD, (Clinical Neuropsychologist), Stan Colcombe, PhD, (Director of Design, Acquisition and Stimulation Laboratiory, C-BIN), Bennett Leventhal, MD, (co-founder of NKI-Rockland Sample Initiative, UCSF), F. Xavier Castellanos, MD, (co-founder of NKI-Rockland Sample Initiative, Director of Child and Adolescent Psychiatry, NKI) 
 
 | **Clinical Evaluation and Phenotyping**
-| Melissa Breland, MA, Steven Carter, Melissa Kramer, Alexis Lieval, LMSW, Amalia McDonald, Laura Panek, RN, Hayley Reed, Lauren Walden, Abigail Waters, Erica Ho, Michelle Kaplan, Enitan Marcelle, Ayesha Anwar (alumnus), Shaquanna Brown (alumnus), Caitlin Hinz (alumnus), Stephanie Kamiel (alumnus), Kate Nooner (alumnus), Anna Rachlin (alumnus), Christine Santiago (alumnus), Steve Zavitz (alumnus) 
+| Kathleen Cuneo, PhD, Melissa Breland, MA, Michelle Kaplan, LMSW, Melissa Kramer, LMSW, Alexis Lieval, LMSW, Laura Panek, RN, Amalia McDonald, Tiffany Chang, Jamie Glass, Erica Ho, Elise Taverna, Ricky Sinnig, Melissa Sital, Ayesha Anwar (alumnus), Shaquanna Brown (alumnus), Steven Carter (alumnus), Caitlin Hinz (alumnus), Stephanie Kamiel (alumnus), Enitan Marcelle (alumnus), Kate Nooner, PhD (alumnus), Anna Rachlin (alumnus), Hayley Reed (alumnus), Christine Santiago (alumnus), Lauren Walden (alumnus), Abigail Waters (alumnus), Steve Zavitz (alumnus)
 
 | **Imaging**
 | Cathy Hu, Raj Sangoi, Stan Colcombe, Cameron Craddock
 
 | **Programming, Technical and Analytic Support**
-| David O’Conner, Daniel Clark, David Lewis, Sharad Sikka (alumnus), Daniel Lurie (alumnus), Ranjit Khanuja (alumnus), Qingyang Li (alumnus), Brian Cheung (alumnus) 
+| David O’Connor, David Lewis, Brian Cheung (alumnus), Daniel Clark (alumnus), Ranjit Khanuja (alumnus), Qingyang Li (alumnus), Daniel Lurie (alumnus), Sharad Sikka (alumnus) 
 
 | **Neuroinformatics** (`Mind Research Network <http://www.mrn.org/>`_)
 | Vince Calhoun, Will Courtney, Margaret King, Susan Lane, Adam Scott, Runtang Wang, and Dylan Wood 
@@ -64,4 +63,4 @@ Principal support for the Real-Time Neurofeedback project is provided by the NIM
 Acknowledgements
 ^^^^^^^^^^^^^^^^^
 
-We would like to thank Lawrence Maayan for his key role in the design and execution of the pilot NKI-RS, David Guilfoyle for his assistance with human imaging, and Raj Sangoi and Caixia Hu for the many hours contributed to scanning and providing invaluable feedback. Also, special thanks to Randy Buckner for providing us the specifications for the Brain Genomics Superstruct’s Common Acquisition Protocol, which formed the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; and to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol. 
+We would like to thank Lawrence Maayan for his key role in the design and execution of the pilot NKI-RS, David Guilfoyle for his assistance with human imaging, and Raj Sangoi and Caixia Hu for the many hours contributed to scanning and providing invaluable feedback. Also, special thanks to Randy Buckner for providing us the specifications for the Brain Genomics Superstruct’s Common Acquisition Protocol, which formed the basis of the imaging protocol in the pilot phase; to Kamil Urgurbil, Eddie Auerbach, Junquian Gordon Xu, and Steen Moeller from the HCP for assistance with the implementation of the multiband sequences and reconstruction algorithms; to Satrajit Ghosh for his guidance in the development of our DICOM anonymization protocol; and to the Brain Connectivity and Cognition Laboratory for providing us with the results of their quality control check. 

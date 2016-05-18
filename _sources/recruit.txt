@@ -40,3 +40,16 @@ An example of a recruiting flyer posted at schools, shopping malls, community ce
 .. figure:: /_images/Craddock_NFB_flyer.png
    :width: 750px
 
+Sampling Strategy: Adult Longitudinal Study
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The proposed sample will consist of 19 cohorts evenly spaced at 2 year intervals between ages 38.0 and 71.9 (recruitment ages). For each age-cohort entry, 23 individuals will be enrolled.
+
+Recruitment Materials
+^^^^^^^^^^^^^^^^^^^^^^
+
+An example of a recruiting flyer posted at schools, shopping malls, community centers, and other locations within Rockland County. 
+
+.. figure:: /_images/ALG_flyer.png
+   :width: 750px
+
