@@ -1,6 +1,6 @@
-NKI-RS Lite Releases
---------------------
-NKI-RS Lite releases contain MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
+Neuroimaging Data Releases
+----------------------------
+The neuroimagign data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
 
 * Anatomical (MPRAGE)
 * Diffusion Tensor Imaging (137 Directions)
@@ -21,12 +21,12 @@ The Real-Time Neurofeedback study includes these scans:
 * PEER1
 * PEER2
 
-Downloading Lite Release Data from NITRC
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Downloading Neuroimaging Data Releases from NITRC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Anonymized image data is available in either DICOM or NIfTI file formats on `NITRC <http://www.nitrc.org/>`_. Each scan folder also includes a `JSON <http://en.wikipedia.org/wiki/JSON>`_ file containing information on scan parameters and file provenance (any changes made to the image since it came out of the scanner). 
 
-In order to access NKI-RS Lite data via NITRC you must be:
+In order to access NKI-RS neuroimaging data via NITRC you must be:
 
 #. Registered for NITRC.  You may register `here <http://fcon_1000.projects.nitrc.org/indi/req_access.html>`_ if you are not registered already.
 #. Logged into NITRC.
@@ -144,10 +144,10 @@ Once these conditions are satisified, you may use the links below to download da
     * `Release 7 (88 subjects) <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/PhenotypicData/nki-rs_lite_r7_phenotypic_v1.csv>`_
     * `Release 8 (114 subjects) <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/PhenotypicData/nki-rs_lite_r8_phenotypic_v1.csv>`_
 
-Downloading Lite Release Data from the FCP-INDI S3 Bucket
+Downloading Neuroimaging Data Release Data from the FCP-INDI S3 Bucket
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Data for the Rockland Sample Lite Release are available for download in an Amazon Web Services `S3 bucket <https://aws.amazon.com/s3/>`_. These data are currently organized as follows: 
+Data for the Rockland Sample Neuroimaging Data Release are available for download in an Amazon Web Services `S3 bucket <https://aws.amazon.com/s3/>`_. These data are currently organized as follows: 
 
 * RawData : Raw data for Rockland sample releases converted to NifTI format and not separated by release. The directory tree is organized with participants at the root, visits below participants, and individual series below visits.
 * RawDataTars : Raw data compressed with Gzip and separated by release.
@@ -183,7 +183,7 @@ The Python script located `here <https://raw.githubusercontent.com/FCP-INDI/rock
  * Series
  * Whether or not to download some derivatives of the raw data (such as despiked physiological data collected alongside series or a mask used in the real-time neurofeedback study).
 
-If none of these items are specified, the script will assume that you would like to download all available raw NKI-RS Lite release data without derivatives.
+If none of these items are specified, the script will assume that you would like to download all available raw NKI-RS Neuroimaging Data release data without derivatives.
 
 *Note:* All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to `here <http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line>`_.
 

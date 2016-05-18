@@ -9,6 +9,7 @@ The results of this quality check may be downloaded as a CSV `here <_static/Miam
 
 Credits
 ^^^^^^^
+* Lucina Uddin
 * Dina Dajani
 * Paola Odriozola
 * Melanie Winters

@@ -11,7 +11,7 @@ It is our goal to provide researchers with the greatest flexibility to carry out
 
 Given the high dimensionality and personal nature of the data included (e.g., psychiatric assessments), we have developed two release versions: 
 
-**NKI-RS Lite Release:**
+**NKI-RS Neuroimaging Data Release**
 
 * Contains imaging data, physiological data acquired during scan acquisition (cardiac and respiratory), and limited phenotyping (age, sex, and handedness).
 * No psychiatric, cognitive, or behavioral information is included.
@@ -37,5 +37,11 @@ More details about these two releases can be found in the following pages:
 
 .. toctree::
 
-    NKI-RS Lite <sharing_lite>
+    NKI-RS Neuroimaging Data <sharing_neuro>
     NKI-RS Full Phenotypic <sharing_phenotypic>
+
+Participant Privacy
+^^^^^^^^^^^^^^^^^^^^
+Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces. 
+
+NKI-RS differs from the other samples in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns support the need for implementation of a data usage agreement. 
