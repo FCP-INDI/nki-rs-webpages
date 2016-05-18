@@ -10,4 +10,5 @@ Physical
 * :doc:`International Physical Activity Questionnaire (IPAQ) <ipaq>`
 * :doc:`Ishihara’s Test for Color Deficiency <ishihara>`
 * :doc:`Labs <labs>`
+* :doc:`Physical Activity Scale for the Elderly (PASE) <pase>`
 * :doc:`Tanner <tanner>`

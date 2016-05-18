@@ -1,0 +1,15 @@
+Physical Activity Scale for the Elderly (PASE)
+-----------------------------------------------
+A physical activity questionnaire developed with a grant from the U.S National Institute on Aging designed to assess current level of activity (occupational, household and leisure) of community dwelling older persons, aged 65 and older, through self report of a one week period.  The adult is asked how many days per week, and how much time was spent in each activity over the past week, graded in four categories: less than one hour, one but less than two hours, two to four hours, and more than four hours. The measure was designed for epidemiological studies and exercise interventions. For scoring interpretation, the amount of time spent in each activity is multiplied by PASE item weights and then all scores are added together for a final PASE score. A high score indicates a high level of physical activity.
+
+**Domains Assessed:** :doc:`Physical <physical>`
+ 
+**Note:** Typically this assessment is given to adults aged 65 and older. In our study we start at age 38. For participants under 65, we will use the data to validate the PASE against the obtained VO2 max measurement.
+
+**References:** Hagiwara, A., Ito, N., Sawai, K., & Kazuma, K. (2008). Validity and reliability of the Physical Activity Scale for the Elderly (PASE) in Japanese people. Geriatrics & Gerontology International, 8, 143-151.
+
+Schuit, A. J., Schouten, E. G., Westerterp, K. R., & Saris, W. H. (1997). Validity of the Physical Activity Scale for the Elderly (PASE): According to energy expenditure assessed by the doubly labelled water method. Journal of Clinical Epidemiology, 50(5), 541- 546.
+
+Washburn, R. A., Smith, K. W., Jette, A. M., & Janney, C. A. (1993). The Physical Activity Scale for the Elderly (PASE) : Development and evaluation. Journal of Clinical Epidemiology, 46(2), 153-162.
+
+Washburn, R. A., McAuley, E., Katula, J., Mihalko, S. L., & Boileau, R. A. (1999). The Physical Activity Scale for the Elderly (PASE): Evidence for validity. Journal of Clinical Epidemiology, 52(7), 643- 651. 

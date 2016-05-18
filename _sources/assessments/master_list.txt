@@ -57,6 +57,7 @@ Complete List of Assessments
 * :doc:`NEO Five Factor Inventory (NEO-FFI-3) <neo-ffi-3>`
 * :doc:`NIDA <NIDA>`
 * :doc:`Older Adult Self Report (OASR) <oasr>`
+* :doc:`Physical Activity Scale for the Elderly (PASE) <pase>`
 * :doc:`The 21-Item Peters et al. Delusions Inventory (PDI-21) <pdi-21>`
 * :doc:`The Grooved Pegboard <pegboard>`
 * :doc:`Penn State Worry Questionnaire (PSWQ) <PSWQ>`
