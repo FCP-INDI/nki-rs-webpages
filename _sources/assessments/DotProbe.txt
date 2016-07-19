@@ -7,6 +7,8 @@ In this task, a pair of faces, one threat-related and one either neutral or happ
 
 **Note:** The Dot Probe is administered to children and adults ages 6-85 years old.
 
-**References:** MacLeod, C., Mathews, A., & Tata, P. (1986).
-Attentional bias in emotional disorders. Journal of Abnormal Psychology,
-95, 15-20. doi:10.1037/0021-843X.95.1.15
+**References:** 
+
+Abend, R., Pine, D.S., Bar-Haim, Y. (2014). The TAU-NIMH Attention Bias Measurement Toolbox. Retrieved from `http://people.socsci.tau.ac.il/mu/anxietytrauma/research/ <http://people.socsci.tau.ac.il/mu/anxietytrauma/research/>`_.
+
+MacLeod, C., Mathews, A., & Tata, P. (1986). Attentional bias in emotional disorders. Journal of Abnormal Psychology, 95, 15-20. doi:10.1037/0021-843X.95.1.15
