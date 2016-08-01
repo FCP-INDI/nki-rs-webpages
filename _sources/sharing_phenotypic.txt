@@ -28,3 +28,27 @@ Unlike the NDAR agreement, institutional review board (IRB) approval is not requ
 Consistent with `FCP/INDI <http://fcon_1000.projects.nitrc.org/>`_ tradition, we will make .csv files containing the entire phenotypic dataset available to users via `NITRC <www.nitrc.org>`_. However, realizing the complexities of the 2000+ variables and many accessory files included in the protocol, we are now enabling download of the data from the COINS system (see below for more information about COINS, or `click here for a demo <_static/access_instructions.html>`_). 
 
 **Note:** If your institution requests any clarifications regarding DUA, just `contact us <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and will be developing a Frequently Asked Questions page as they emerge. 
+
+Interpreting Data Pulled from COINS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Once you are able to access COINS, you will be able readily to download `assessment data <assessments>`.  To intrepret this data, you will need to download various codebooks that describe the meaning of the column names in the pulled data in greater detail.  To download these codebooks, perform the following steps:
+
+#. Navigate to the main screen of the COINS data exchange.  It should appear as follows:
+ 
+ .. figure:: /_images/COINS_dex.png
+    :align: center
+
+#. Click on `Study Information`.
+#. Under `Select a Study`, navigate to `NKI-RSI`.  There will now be several documents you may download in the box on the right.
+
+ .. figure:: /_images/COINS_dex_codebooks.png
+    :align: center
+
+Below is a short description of each item:
+
+* BIRD.pdf - A description of the variables collected in the `BIRD assessment <assessments/bird>`.
+* DS CODEBOOK.csv - A comprehensive document containing labels for individual assessment item ID codes obtained in the Rockland sample studies, as well as labels for assessment data itself.
+* NKI_RS_Enhanced_DKEFS_datadictionary8_6_2014.xls - Labels for the `DKEFS measure <assessments/d-kefs>` codes.
+* PennCNB_Test_Descriptions_NKLINE.pdf - Descriptions of the measures acquired in the `Penn CNB <assessments/GUR>`.
+* Relationships.csv - An identity matrix multiplied by 1000.
+
