@@ -1,0 +1,11 @@
+New York Cognition Questionnaire (NYC-Q) 
+---------------------------------------
+The NYC-Q is a 31-item self-report questionnaire that asks participants about the different thoughts and feelings that they may have had while in the MRI scan. Participants are asked to indicate the extent to which their thinking or experience corresponded to each item on a 9-point scale: 1-Completely did not describe my thoughts or characterize my experience, to 9-Completely did describe my thoughts or characterize my experience. 
+
+**Domains Assessed:** :doc:`MRI <mri>`
+
+**Note:** This assessment is given to participants ages 13-85 years old. 
+
+**References:** 
+
+Gorgolewski, K. J., Lurie, D., Urchs, S., Kipping, J. A., Craddock, R. C., Milham, M. P., … Smallwood, J. (2014). A Correspondence between Individual Differences in the Brain’s Intrinsic Functional Architecture and the Content and Form of Self-Generated Thoughts. PLoS ONE, 9(5), e97176. `http://doi.org/10.1371/journal.pone.0097176 <http://doi.org/10.1371/journal.pone.0097176>`_.
