@@ -1,6 +1,6 @@
 Neuroimaging Data Releases
 ----------------------------
-The neuroimagign data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
+The neuroimaging data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
 
 * Anatomical (MPRAGE)
 * Diffusion Tensor Imaging (137 Directions)
