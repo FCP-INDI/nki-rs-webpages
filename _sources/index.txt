@@ -16,7 +16,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Accessing Data <sharing>
     Data Quality Check <qc>
     Publications <pubs>
-    FAQ <faq>
+    Help and FAQ <help>
 
 Introduction
 ^^^^^^^^^^^^^
