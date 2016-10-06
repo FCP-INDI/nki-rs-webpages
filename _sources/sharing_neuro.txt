@@ -41,8 +41,8 @@ Once these conditions are satisified, you may use the links below to download da
     * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom3.html>`_
     * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom4.html>`_
     * `Release 5 (89 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom5.html>`_
-    * `Release 6 (151 Subjects) **COMING SOON** <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom6.html>`_
-    * `Release 7 (88 Subjects) **COMING SOON** <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom7.html>`_
+    * Release 6 (151 Subjects) **COMING SOON**
+    * Release 7 (88 Subjects) **COMING SOON**
     * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom8.html>`_
 
 * NIfTI Files Downloads
@@ -184,6 +184,13 @@ The Python script located `here <https://raw.githubusercontent.com/FCP-INDI/rock
  * Whether or not to download some derivatives of the raw data (such as despiked physiological data collected alongside series or a mask used in the real-time neurofeedback study).
 
 If none of these items are specified, the script will assume that you would like to download all available raw NKI-RS Neuroimaging Data release data without derivatives.
+
+The script requires the following dependencies to function properly:
+
+ * Python 2
+ * pandas
+
+To install pandas within Python 2, you can use the following command: `pip install pandas`
 
 *Note:* All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to `here <http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line>`_.
 
