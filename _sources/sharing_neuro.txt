@@ -61,7 +61,7 @@ Once these conditions are satisified, you may use the links below to download da
     * `Release 1 <http://www.nitrc.org/frs/downloadlink.php/5369>`_ (For initial subjects in Release 1, cardiac data has been excluded due to a technical error; respiratory data was unaffected. `Click here <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_r1_missing_cardiac_v1.txt>`_ for a listing of affected subjects.
     * `Release 2 <http://www.nitrc.org/frs/downloadlink.php/5377>`_
     * `Release 3 <http://www.nitrc.org/frs/downloadlink.php/5767>`_
-    * `Release 4 <http://www.nitrc.org/frs/downloadlink.php/6143>`_
+    * Release 4 Coming Soon 
     * Release 5 Coming Soon 
     * Release 6 Coming Soon 
     * Release 7 Coming Soon 
