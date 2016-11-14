@@ -19,7 +19,7 @@ Unlike the NDAR agreement, institutional review board (IRB) approval is not requ
         #. Review all contents.
         #. Provide appropriate information regarding their name(s) and institution.
         #. Have the document signed and notarized by the appropriate institutional representative.
-        #. Scan and `send us the document <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_.
+        #. Scan and `send us the document <mailto:john.pellman%40childmind.org?Subject=NKI-RS%20Access%20Request>`_.
 
 #. When your application has been received and approved, you will
    receive an email providing you access to all phenotypic (single-item
@@ -27,7 +27,7 @@ Unlike the NDAR agreement, institutional review board (IRB) approval is not requ
 
 Consistent with `FCP/INDI <http://fcon_1000.projects.nitrc.org/>`_ tradition, we will make .csv files containing the entire phenotypic dataset available to users via `NITRC <www.nitrc.org>`_. However, realizing the complexities of the 2000+ variables and many accessory files included in the protocol, we are now enabling download of the data from the COINS system (see below for more information about COINS, or `click here for a demo <_static/access_instructions.html>`_). 
 
-**Note:** If your institution requests any clarifications regarding DUA, just `contact us <mailto:mmilham%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and will be developing a Frequently Asked Questions page as they emerge. 
+**Note:** If your institution requests any clarifications regarding the DUA, just `contact us <mailto:john.pellman%40childmind.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and will be developing a Frequently Asked Questions page as they emerge. 
 
 Interpreting Data Pulled from COINS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
