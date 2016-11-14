@@ -53,9 +53,9 @@ Complete List of Assessments
 * :doc:`Medical History Questionnaire-Child <mhq-c>`
 * :doc:`Moral Dilemma Task <moraldilemma>`
 * :doc:`MRI Log Sheet <mri-log>`
-* :doc:`MRI Mind Wandering Questionnaire (MRIQ) <mriq>`
 * :doc:`NEO Five Factor Inventory (NEO-FFI-3) <neo-ffi-3>`
 * :doc:`NIDA <NIDA>`
+* :doc:`New York Cognition Questionnaire (NYC-Q) <nycq>`
 * :doc:`Older Adult Self Report (OASR) <oasr>`
 * :doc:`Physical Activity Scale for the Elderly (PASE) <pase>`
 * :doc:`The 21-Item Peters et al. Delusions Inventory (PDI-21) <pdi-21>`

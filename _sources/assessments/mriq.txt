@@ -1,9 +1,0 @@
-MRI Mind Wandering Questionnaire (MRIQ)
----------------------------------------
-The MRI-Q is a 31-item self-report questionnaire that asks participants about the different thoughts and feelings that they may have had while in the MRI scan. Participants are asked to indicate the extent to which their thinking or experience corresponded to each item on a 9-point scale: 1-Completely did not describe my thoughts or characterize my experience, to 9-Completely did describe my thoughts or characterize my experience. 
-
-**Domains Assessed:** :doc:`MRI <mri>`
-
-**Note:** This assessment is given to participants ages 13-85 years old. 
-
-**References:** Smallwood, J.- in development 

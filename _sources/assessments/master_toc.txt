@@ -47,8 +47,8 @@
     Medical History Questionnaire-Adult <mhq-a>
     Medical History Questionnaire-Child <mhq-c>
     MRI Log Sheet <mri-log>
-    MRI Mind Wandering Questionnaire (MRIQ) <mriq>
     NEO Five Factor Inventory (NEO-FFI-3) <neo-ffi-3>
+    New York Cognition Questionnaire (NYC-Q) <nycq>
     Older Adult Self Report (OASR) <oasr>
     The 21-Item Peters et al. Delusions Inventory (PDI-21) <pdi-21>
     The Grooved Pegboard <pegboard>

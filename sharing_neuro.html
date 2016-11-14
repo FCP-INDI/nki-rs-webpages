@@ -54,7 +54,7 @@
             
   <div class="section" id="neuroimaging-data-releases">
 <h1>Neuroimaging Data Releases<a class="headerlink" href="#neuroimaging-data-releases" title="Permalink to this headline">¶</a></h1>
-<p>The neuroimagign data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:</p>
+<p>The neuroimaging data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:</p>
 <ul class="simple">
 <li>Anatomical (MPRAGE)</li>
 <li>Diffusion Tensor Imaging (137 Directions)</li>
@@ -94,8 +94,8 @@
 <li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom3.html">Release 3 (46 subjects)</a></li>
 <li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom4.html">Release 4 (88 Subjects)</a></li>
 <li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom5.html">Release 5 (89 Subjects)</a></li>
-<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom6.html">Release 6 (151 Subjects) **COMING SOON**</a></li>
-<li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom7.html">Release 7 (88 Subjects) **COMING SOON**</a></li>
+<li>Release 6 (151 Subjects) <strong>COMING SOON</strong></li>
+<li>Release 7 (88 Subjects) <strong>COMING SOON</strong></li>
 <li><a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom8.html">Release 8 (114 Subjects)</a></li>
 </ul>
 </div></blockquote>
@@ -120,7 +120,7 @@
 <li><a class="reference external" href="http://www.nitrc.org/frs/downloadlink.php/5369">Release 1</a> (For initial subjects in Release 1, cardiac data has been excluded due to a technical error; respiratory data was unaffected. <a class="reference external" href="http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_r1_missing_cardiac_v1.txt">Click here</a> for a listing of affected subjects.</li>
 <li><a class="reference external" href="http://www.nitrc.org/frs/downloadlink.php/5377">Release 2</a></li>
 <li><a class="reference external" href="http://www.nitrc.org/frs/downloadlink.php/5767">Release 3</a></li>
-<li><a class="reference external" href="http://www.nitrc.org/frs/downloadlink.php/6143">Release 4</a></li>
+<li>Release 4 Coming Soon</li>
 <li>Release 5 Coming Soon</li>
 <li>Release 6 Coming Soon</li>
 <li>Release 7 Coming Soon</li>
@@ -275,6 +275,14 @@
 </ul>
 </div></blockquote>
 <p>If none of these items are specified, the script will assume that you would like to download all available raw NKI-RS Neuroimaging Data release data without derivatives.</p>
+<p>The script requires the following dependencies to function properly:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Python 2</li>
+<li>pandas</li>
+</ul>
+</div></blockquote>
+<p>To install pandas within Python 2, you can use the following command: <cite>pip install pandas</cite></p>
 <p><em>Note:</em> All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to <a class="reference external" href="http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line">here</a>.</p>
 <div class="section" id="study-visit-codes">
 <h3>Study / Visit Codes<a class="headerlink" href="#study-visit-codes" title="Permalink to this headline">¶</a></h3>
@@ -337,7 +345,7 @@
 </div></blockquote>
 <p>Note that in the real-time neurofeedback study, &#8216;R&#8217; signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.</p>
 <p>For example:</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -o /data/output -v CLG4 CLG4R CLG5
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -v CLG4 CLG4R CLG5
 </pre></div>
 </div>
 <p>This will download all of the files for the cross-sectional lifespan connectomics study for the 4th and 5th visits and store them in /data/output in <a class="reference external" href="http://bids.neuroimaging.io">BIDS format</a>.</p>
@@ -354,7 +362,7 @@
 </ul>
 </div></blockquote>
 <p>For example:</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -o /data/output -t anat dwi
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -t anat dwi
 </pre></div>
 </div>
 <p>This will download all of the anatomical and dti data only across all visits.</p>
@@ -393,7 +401,7 @@
 </div></blockquote>
 </div></blockquote>
 <p>For example:</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -o /data/output -e REST645 DMNTRACKINGTRAIN
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -e REST645 DMNTRACKINGTRAIN
 </pre></div>
 </div>
 <p>This will download only the data for these two series across all participants and visits.</p>
@@ -402,19 +410,19 @@
 <h3>Derivatives<a class="headerlink" href="#derivatives" title="Permalink to this headline">¶</a></h3>
 <p>Toggling the derivatives flag will download the mask used for the real-time neurofeedback study and despiked physiological data in addition to any other data that fit the other given criteria.</p>
 <p>For example, the following command will download all Rockland sample data plus the aforementioned derivatives:</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -o /data/output -d
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -d
 </pre></div>
 </div>
 </div>
 <div class="section" id="an-elaborate-example">
 <h3>An Elaborate Example<a class="headerlink" href="#an-elaborate-example" title="Permalink to this headline">¶</a></h3>
 <p>Here is a more complex example of the downloader script&#8217;s syntax, which illustrates how you can combine command line options to generate extremely nuanced subsets of the Rockland sample.</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -o /data/output -e REST645 -v DSA DS2 NFBAR NFB2R -t anat func -gt 15 -lt 40 -m L -x F
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -e REST645 -v DSA DS2 NFBAR NFB2R -t anat func -gt <span class="m">15</span> -lt <span class="m">40</span> -m L -x F
 </pre></div>
 </div>
 <p>This command would download all anatomical series and all resting state series with a 645 ms TR for left-handed women between the ages of 15 and 40, but only from the abridged and second visits of the discovery science and neurofeedback studies.  This data could be used to assess within-subject variations in connectivity and neuroanatomy for this specific population, since the first visit for the discovery science and neurofeedback protocols are identical.</p>
 <p>To get more information on all of the parameters you may use, type:</p>
-<div class="highlight-bash"><div class="highlight"><pre>python download_rockland_raw_bids.py -h
+<div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -h
 </pre></div>
 </div>
 </div>
@@ -458,6 +466,7 @@
 </li>
 <li class="toctree-l1"><a class="reference internal" href="qc.html">Data Quality Check</a></li>
 <li class="toctree-l1"><a class="reference internal" href="pubs.html">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="help.html">Help and FAQ</a></li>
 </ul>
 
 <div id="searchbox" style="display: none">
