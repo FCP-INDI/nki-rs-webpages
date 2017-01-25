@@ -1,0 +1,42 @@
+Data Access Overview
+=====================
+
+It is our goal to provide researchers with the greatest flexibility to carry out scientific inquiries using the NKI-Rockland data. In this regard: 
+
+* We do not require authorship on any manuscripts generated using NKI-RS data; citation as a data source is sufficient.
+* We do not require review of manuscripts generated using NKI-RS datasets; though we do strongly encourage careful documentation of any selection criteria applied to the NKI-RS in choosing datasets for your analysis.
+* We do not require specification of planned data analyses prior to data access.
+
+**Protection of participant privacy is our first and primary concern.**
+
+Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces. 
+
+NKI-RS differs from the other datasets in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns have led us to develop two release versions: 
+
+**Neuroimaging Release**
+
+* Contains imaging data, physiological data acquired during scan acquisition (cardiac and respiratory), and limited phenotyping (age, sex, and handedness).
+
+* No psychiatric, cognitive, or behavioral information is included.
+
+* Immediately available to users (does not require a data usage agreement)
+
+* Data is downloadable through Amazon Web Services or NITRC.
+
+**Full Phenotypic Release:**
+
+* Contains data for the high-dimensional phenotypic protocol. (See the :doc:`Assessments Page <assessments>`).
+
+    * DSM-IV based psychiatric diagnostic assessment.
+    * Dimensional psychiatric and behavioral assessment questionnaires (item-level responses included).
+    * Neuropsychological testing.
+    * Cognitive/behavioral performance measures.
+    * Basic laboratory measures.
+    * Actigraphy (for a minimum 1 night of sleep).
+
+* A Data Usage Agreement (DUA) is required.
+
+    * Expected completion time: < 5 minutes
+    * Signature and notarization by appropriate institutional representative is required.
+
+* Data is downloadable through the Collaborative Informatics and Neuroimaging Suite (COINS) database.

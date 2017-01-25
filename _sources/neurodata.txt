@@ -1,0 +1,293 @@
+Accessing the Neuroimaging Data Releases
+-----------------------------------------
+The neuroimaging data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
+
+* Anatomical (MPRAGE)
+* Diffusion Tensor Imaging (137 Directions)
+* Resting Functional (TR = 645ms, Multiband)
+* Resting Functional (TR = 1400ms, Multiband)
+* Resting Functional (TR = 2500ms)
+* Visual Checkerboard (TR = 645ms, Multiband)
+* Visual Checkerboard (TR = 1400ms, Multiband)
+* Breath Hold (TR = 1400ms, Multiband)
+
+The Real-Time Neurofeedback study includes these scans:
+
+* Anatomical (MPRAGE)
+* Default Mode Network Training Scan
+* Default Mode Network Testing Scan
+* Moral Dilemma
+* MSIT
+* PEER1
+* PEER2
+
+Downloading Neuroimaging Data Releases from NITRC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Anonymized image data is available in either DICOM or NIfTI file formats on `NITRC <http://www.nitrc.org/>`_. Each scan folder also includes a `JSON <http://en.wikipedia.org/wiki/JSON>`_ file containing information on scan parameters and file provenance (any changes made to the image since it came out of the scanner). 
+
+In order to access NKI-RS neuroimaging data via NITRC you must be:
+
+#. Registered for NITRC.  You may register `here <http://fcon_1000.projects.nitrc.org/indi/req_access.html>`_ if you are not registered already.
+#. Logged into NITRC.
+#. Registered with the `1000 Functional Connectomes Project <http://www.nitrc.org/projects/fcon_1000/>`_.
+
+Once these conditions are satisified, you may use the links below to download data.  **If you are not logged in and properly registered a permissions error will occur.**
+
+* DICOM Files Downloads
+
+    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom1.html>`_
+    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom2.html>`_
+    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom3.html>`_
+    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom4.html>`_
+    * `Release 5 (89 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom5.html>`_
+    * Release 6 (151 Subjects) **COMING SOON**
+    * Release 7 (88 Subjects) **COMING SOON**
+    * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom8.html>`_
+
+* Physiological Data (cardiac and respiratory recordings) Downloads
+
+    * `Release 1 <http://www.nitrc.org/frs/downloadlink.php/5369>`_ (For initial subjects in Release 1, cardiac data has been excluded due to a technical error; respiratory data was unaffected. `Click here <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_r1_missing_cardiac_v1.txt>`_ for a listing of affected subjects.
+    * `Release 2 <http://www.nitrc.org/frs/downloadlink.php/5377>`_
+    * `Release 3 <http://www.nitrc.org/frs/downloadlink.php/5767>`_
+    * Release 4 Coming Soon 
+    * Release 5 Coming Soon 
+    * Release 6 Coming Soon 
+    * Release 7 Coming Soon 
+
+* Motion Statistics
+
+    * Release 1
+
+        * `DTI <http://www.nitrc.org/frs/downloadlink.php/5200>`_
+        * `Rest (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5201>`_
+        * `Rest (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5202>`_
+        * `Rest (TR=2500) <http://www.nitrc.org/frs/downloadlink.php/5203>`_
+        * `Breath Hold <http://www.nitrc.org/frs/downloadlink.php/5204>`_
+        * `Visual Checkerboard (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5205>`_
+        * `Visual Checkerboard (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5206>`_
+
+    * Release 2
+
+        * `DTI <http://www.nitrc.org/frs/downloadlink.php/5370>`_
+        * `Rest (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5371>`_
+        * `Rest (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5372>`_
+        * `Rest (TR=2500) <http://www.nitrc.org/frs/downloadlink.php/5373>`_
+        * `Breath Hold <http://www.nitrc.org/frs/downloadlink.php/5374>`_
+        * `Visual Checkerboard (TR=645) <http://www.nitrc.org/frs/downloadlink.php/5375>`_
+        * `Visual Checkerboard (TR=1400) <http://www.nitrc.org/frs/downloadlink.php/5376>`_
+
+    * Release 3
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r3_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+    * Release 4
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r4_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+    * Release 5
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+    * Release 6
+
+        * `Rest (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+    * Release 7
+
+        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
+        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
+        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
+        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
+        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
+
+* Minimal Phenotypic Information (age, sex, handedness) Downloads
+
+    * The `BIDS participants.tsv file <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv>_` contains minimal phenotypic information for all releases.
+
+Downloading Neuroimaging Data Release Data from the FCP-INDI S3 Bucket
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Data for the Rockland Sample Neuroimaging Data Release are available for download in an Amazon Web Services `S3 bucket <https://aws.amazon.com/s3/>`_. These data are currently organized as follows: 
+
+* RawData : Raw data for Rockland sample releases converted to NifTI format and not separated by release. The directory tree is organized with participants at the root, visits below participants, and individual series below visits.
+* RawDataTars : Raw data compressed with Gzip and separated by release.
+* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included.
+* Outputs : Rockland Sample data processed using `C-PAC <http://fcp-indi.github.io/docs/user/index.html>`_ and the `Gibbs’ connectome pipeline <https://www.nitrc.org/projects/gibbsconnectome/>`_.
+
+Each file in the S3 bucket can only be accessed using HTTP (i.e., **no ftp or scp** ). You can obtain a URL for each desired file and then download it using an HTTP client such as a web browser, *wget*, or *curl*. Each file can only be accessed using its literal name- wildcards will not work.  We have written a script (described below) that can perform custom dataset downloads for you via HTTP.
+
+There are file transfer programs that can handle S3 natively and will allow you to navigate through the data using a file browser. `Cyberduck <https://cyberduck.io/>`_ is one such program that works with Windows and Mac OS X. Cyberduck also has a `command line version <https://duck.sh>`_ that works with Windows, Mac OS X, and Linux. Instructions for using Cyberduck are as follows: 
+
+#. Open Cyberduck and click on *Open Connection*.
+#. Set the application protocol in the dropdown menu to *S3 (Amazon Simple Storage Service)*.
+#. Set the server to *s3.amazonaws.com*.
+#. Check the box labelled *Anonymous Login*.
+#. Expand the More Options tab and set Path to *fcp-indi/data/Projects/RocklandSample*.
+#. Click *Connect*.
+
+The end result should appear as follows:
+
+.. figure:: /_images/rs_cyberduck.png
+
+Using the Downloader Script for S3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Python script located `here <https://raw.githubusercontent.com/FCP-INDI/rocklandsample/master/download_rockland_raw_bids.py>`_ allows you to specify a number of options so to download a customized subset of the sample from the S3 bucket.  In particular, it allows you to specify:
+
+ * Age Ranges
+ * Sex
+ * Handedness
+ * Study and Visit
+ * Scan Type 
+ * Series
+ * Whether or not to download some derivatives of the raw data (such as despiked physiological data collected alongside series or a mask used in the real-time neurofeedback study).
+
+If none of these items are specified, the script will assume that you would like to download all available raw NKI-RS Neuroimaging Data release data without derivatives.
+
+The script requires the following dependencies to function properly:
+
+ * Python 2
+ * pandas
+ * boto3
+
+To install pandas and boto3 within Python 2, you can use the following command: `pip install pandas boto3`
+
+*Note:* All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to `here <http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line>`_.
+
+Study / Visit Codes
+====================
+
+If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the *-v* option.  You may specify multiple study/visit code combinations after this option.
+
+ * Real-Time Neurofeedback
+  * Study Code: NFB
+  * Visit Codes:
+   * 2 - The second visit (original 2-day scheduling format).
+   * 2R - A re-visit to complete scans for the second visit (original 2-day scheduling format).
+   * A - The abridged second visit (abridged scheduling format).
+   * AR - A re-visit to complete scans for the abridged second visit (abridged scheduling format).
+   * 3 - The third visit.
+ * Cross-Sectional Lifespan Connectomics
+  * Study Code: DS
+  * Visit Codes:
+   * 2 - The second visit (original 2-day scheduling format).
+   * A - The abridged second visit (abridged scheduling format).
+ * Longitudinal Developmental Connectomics
+  * Study Code: CLG 
+  * Visit Codes:
+   * 2 - The second visit (original 2-day scheduling format).
+   * A - The abridged second visit (abridged scheduling format).
+   * 2R -  The second visit (original scheduling format) with a re-test.
+   * AR -  The abridged second visit (abridged scheduling format) with a re-test.
+   * 3 - The third visit.
+   * 4 - The fourth visit.
+   * 4R - The fourth visit with a re-test.
+   * 5 - The fifth visit.
+
+Note that in the real-time neurofeedback study, 'R' signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.
+
+For example:
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -o /data/output -v CLG4 CLG4R CLG5  
+
+This will download all of the files for the cross-sectional lifespan connectomics study for the 4th and 5th visits and store them in /data/output in `BIDS format <http://bids.neuroimaging.io>`_.
+
+Scan Types
+===========
+
+Multiple scan types, separated by spaces after the scan type parameter, can be selected.  These scan types can take on the following values, which come from the BIDS specification:
+
+ * anat - Anatomical scans.
+ * func - Functional/resting-state scans.
+ * dwi - DTI scans.
+ * fmap - Field map scans (NFB3 only)
+
+For example:
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -o /data/output -t anat dwi
+
+This will download all of the anatomical and dti data only across all visits.
+
+Series Codes
+============
+
+Similarly, multiple series can be specified at the command line.  These series can take on the following values:
+
+ * Non-neurofeedback studies:
+  * REST645
+  * REST1400
+  * RESTCAP
+  * RESTPCASL
+  * CHECKERBOARD645
+  * BREATHHOLD1400
+  * CHECKERBOARD1400
+ * Neurofeedback:
+  * DMNTRACKINGTRAIN
+  * DMNTRACKINGTEST
+  * MASK
+  * MORALDILEMMA
+  * MSIT
+  * PEER1
+  * PEER2
+
+For example:
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -o /data/output -e REST645 DMNTRACKINGTRAIN
+
+This will download only the data for these two series across all participants and visits.
+
+Derivatives
+============
+
+Toggling the derivatives flag will download the mask used for the real-time neurofeedback study and despiked physiological data in addition to any other data that fit the other given criteria.
+
+For example, the following command will download all Rockland sample data plus the aforementioned derivatives:
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -o /data/output -d
+
+An Elaborate Example
+====================
+
+Here is a more complex example of the downloader script's syntax, which illustrates how you can combine command line options to generate extremely nuanced subsets of the Rockland sample.
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -o /data/output -e REST645 -v DSA DS2 NFBAR NFB2R -t anat func -gt 15 -lt 40 -m L -x F
+
+This command would download all anatomical series and all resting state series with a 645 ms TR for left-handed women between the ages of 15 and 40, but only from the abridged and second visits of the discovery science and neurofeedback studies.  This data could be used to assess within-subject variations in connectivity and neuroanatomy for this specific population, since the first visit for the discovery science and neurofeedback protocols are identical.
+
+To get more information on all of the parameters you may use, type:
+
+.. code-block:: bash
+
+    python download_rockland_raw_bids.py -h

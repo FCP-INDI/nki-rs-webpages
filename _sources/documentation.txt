@@ -3,13 +3,13 @@ Documentation
 
 The following pages give more information about the data contained within the Rockland Sample:
 
+* :doc:`Sample Characteristics <demo>`
 * :doc:`Study Descriptions <studies>`
 * :doc:`Study Codes <study_codes>`
 * :doc:`Recruitment <recruit>`
+* :doc:`Assessments <assessments>`
 * :doc:`Participant Schedule <sched>`
 * :doc:`MRI Protocol <mri_protocol>`
-* :doc:`Assessments <assessments>`
-* :doc:`Sample Characteristics <demo>`
 * `Frequently Asked Questions <https://groups.google.com/forum/#!forum/nkirs_forum>`_
 
 .. toctree::

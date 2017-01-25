@@ -2,9 +2,10 @@ Data
 =====
 
 .. toctree::
+    :maxdepth: 1
 
-    Data Access Overview <sharing>
-    Neuroimaging Release Access Instructions <sharing_neuro>
-    Phenotypic Release Access Instructions <sharing_phenotypic>
+    Data Access Overview <access>
+    Neuroimaging Release Access Instructions <neurodata>
+    Phenotypic Release Access Instructions <phenotypicdata>
     Data Quality Check <qc>
 

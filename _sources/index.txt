@@ -11,7 +11,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Data <data>
     Documentation <documentation>
     Publications <pubs>
-    Contact <help>
+    Contact <contact>
 
 Introduction
 ^^^^^^^^^^^^^
