@@ -6,18 +6,12 @@ Enhanced Nathan Kline Institute - Rockland Sample
 
 .. toctree::
     :hidden:
+    :maxdepth: 2
 
-    Home <index>
-    Studies <studies>
-    Recruitment <recruit>
-    Participant Schedule <sched>
-    MRI Protocol <mri_protocol>
-    Assessments <assessments>
-    Sample Characteristics <demo>
-    Accessing Data <sharing>
-    Data Quality Check <qc>
+    Data <data>
+    Documentation <documentation>
     Publications <pubs>
-    Help and FAQ <help>
+    Contact <help>
 
 Introduction
 ^^^^^^^^^^^^^

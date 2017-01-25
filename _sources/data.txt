@@ -1,0 +1,10 @@
+Data
+=====
+
+.. toctree::
+
+    Data Access Overview <sharing>
+    Neuroimaging Release Access Instructions <sharing_neuro>
+    Phenotypic Release Access Instructions <sharing_phenotypic>
+    Data Quality Check <qc>
+
