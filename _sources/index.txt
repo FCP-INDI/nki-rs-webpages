@@ -7,6 +7,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
 .. toctree::
     :hidden:
 
+    Home <index>
     Studies <studies>
     Recruitment <recruit>
     Participant Schedule <sched>
@@ -31,13 +32,13 @@ The NKI-RS Team
 | Michael Milham, MD, PhD, (co-founder of NKI-Rockland Sample Initiative, Principal Investigator for Cross-sectional Lifespan Connectomics and Longitudinal Developmental Connectomics studies; Director of the Center for Biomedical Imaging and Neuromodulation [C-BIN]), Cameron Craddock, PhD, (Principal Investigator for the Real-time Neurofeedback study; Director of the Computational Neuroimaging Laboratory, C-BIN), Russ Tobe, MD, (Director of NKI Outpatient Research Program), Anna MacKay-Brandt, PhD, (Clinical Neuropsychologist), Stan Colcombe, PhD, (Director of Design, Acquisition and Stimulation Laboratiory, C-BIN), Bennett Leventhal, MD, (co-founder of NKI-Rockland Sample Initiative, UCSF), F. Xavier Castellanos, MD, (co-founder of NKI-Rockland Sample Initiative, Director of Child and Adolescent Psychiatry, NKI) 
 
 | **Clinical Evaluation and Phenotyping**
-| Kathleen Cuneo, PhD, Melissa Breland, MA, Michelle Kaplan, LMSW, Melissa Kramer, LMSW, Alexis Lieval, LMSW, Laura Panek, RN, Alexis Akeyson, Alyssa Gianonne, Jamie Glass, Allison Rolfe, Rachel Rothschild, Melissa Sital, Betty Varghese, Ayesha Anwar (alumnus), Shaquanna Brown (alumnus), Steven Carter (alumnus), Tiffany Chang (alumnus), Caitlin Hinz (alumnus), Erica Ho (alumnus), Stephanie Kamiel (alumnus), Enitan Marcelle (alumnus), Amalia McDonald (alumnus), Kate Nooner, PhD (alumnus), Anna Rachlin (alumnus), Hayley Reed (alumnus), Christine Santiago (alumnus), Ricky Sinnig (alumnus), Elise Taverna (alumnus), Lauren Walden (alumnus), Abigail Waters (alumnus), Steve Zavitz (alumnus)
+| Kathleen Cuneo, PhD, Melissa Breland, MA, Michelle Kaplan, LMSW, Melissa Kramer, LMSW, Alexis Lieval, LMSW, Laura Panek, RN, Alexis Akeyson, Alyssa Gianonne, Jamie Glass, George Lopez, Allison Rolfe, Rachel Rothschild, Melissa Sital, Ayesha Anwar (alumnus), Shaquanna Brown (alumnus), Steven Carter (alumnus), Tiffany Chang (alumnus), Caitlin Hinz (alumnus), Erica Ho (alumnus), Stephanie Kamiel (alumnus), Enitan Marcelle (alumnus), Amalia McDonald (alumnus), Kate Nooner, PhD (alumnus), Anna Rachlin (alumnus), Hayley Reed (alumnus), Christine Santiago (alumnus), Ricky Sinnig (alumnus), Elise Taverna (alumnus), Betty Varghese (alumnus), Lauren Walden (alumnus), Abigail Waters (alumnus), Steve Zavitz (alumnus)
 
 | **Imaging**
 | Cathy Hu, Raj Sangoi, Stan Colcombe, Cameron Craddock
 
 | **Programming, Technical and Analytic Support**
-| David O’Connor, David Lewis, John Pellman, Brian Cheung (alumnus), Daniel Clark (alumnus), Ranjit Khanuja (alumnus), Qingyang Li (alumnus), Daniel Lurie (alumnus), Sharad Sikka (alumnus) 
+| David O’Connor, John Pellman, Brian Cheung (alumnus), Daniel Clark (alumnus), Ranjit Khanuja (alumnus), David Lewis (alumnus), Qingyang Li (alumnus), Daniel Lurie (alumnus), Sharad Sikka (alumnus) 
 
 | **Neuroinformatics** (`Mind Research Network <http://www.mrn.org/>`_)
 | Vince Calhoun, Will Courtney, Margaret King, Susan Lane, Adam Scott, Runtang Wang, and Dylan Wood 

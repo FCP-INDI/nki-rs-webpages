@@ -31,7 +31,7 @@ Consistent with `FCP/INDI <http://fcon_1000.projects.nitrc.org/>`_ tradition, we
 
 Interpreting Data Pulled from COINS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Once you are able to access COINS, you will be able readily to download `assessment data <assessments>`.  To intrepret this data, you will need to download various codebooks that describe the meaning of the column names in the pulled data in greater detail.  To download these codebooks, perform the following steps:
+Once you are able to access COINS, you will be able to readily download :doc:`assessment data <assessments>`.  To intrepret this data, you will need to download various codebooks that describe the meaning of the column names in the pulled data in greater detail.  To download these codebooks, perform the following steps:
 
 #. Navigate to the main screen of the COINS data exchange.  It should appear as follows:
  
@@ -46,9 +46,10 @@ Once you are able to access COINS, you will be able readily to download `assessm
 
 Below is a short description of each item:
 
-* BIRD.pdf - A description of the variables collected in the `BIRD assessment <assessments/bird>`.
+* BIRD.pdf - A description of the variables collected in the :doc:`BIRD assessment <assessments/BIRD>`.
 * DS CODEBOOK.csv - A comprehensive document containing labels for individual assessment item ID codes obtained in the Rockland sample studies, as well as labels for assessment data itself.
-* NKI_RS_Enhanced_DKEFS_datadictionary8_6_2014.xls - Labels for the `DKEFS measure <assessments/d-kefs>` codes.
-* PennCNB_Test_Descriptions_NKLINE.pdf - Descriptions of the measures acquired in the `Penn CNB <assessments/GUR>`.
+* NKI_RS_Enhanced_DKEFS_datadictionary8_6_2014.xls - Labels for the :doc:`DKEFS measure <assessments/d-kefs>` codes.
+* PennCNB_Test_Descriptions_NKLINE.pdf - Descriptions of the measures acquired in the :doc:`Penn CNB <assessments/GUR>`.
+* RAVLT data dictionary_4_27_2016.xlsx -  Descriptions of the measures acquired in the :doc:`Rey Auditory Verbal Learning Test <assessments/RAVLT>`.
 * Relationships.csv - An identity matrix multiplied by 1000.
 

@@ -133,7 +133,7 @@ Data for the Rockland Sample Neuroimaging Data Release are available for downloa
 
 * RawData : Raw data for Rockland sample releases converted to NifTI format and not separated by release. The directory tree is organized with participants at the root, visits below participants, and individual series below visits.
 * RawDataTars : Raw data compressed with Gzip and separated by release.
-* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included. Currently only release 9 is available in BIDS.
+* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included.
 * Outputs : Rockland Sample data processed using `C-PAC <http://fcp-indi.github.io/docs/user/index.html>`_ and the `Gibbs’ connectome pipeline <https://www.nitrc.org/projects/gibbsconnectome/>`_.
 
 Each file in the S3 bucket can only be accessed using HTTP (i.e., **no ftp or scp** ). You can obtain a URL for each desired file and then download it using an HTTP client such as a web browser, *wget*, or *curl*. Each file can only be accessed using its literal name- wildcards will not work.  We have written a script (described below) that can perform custom dataset downloads for you via HTTP.

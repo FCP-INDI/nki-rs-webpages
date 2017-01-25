@@ -1,7 +1,7 @@
 Studies
 -------
 
-The Rockland Sample currently consists of four active studies:
+The Rockland Sample currently consists of four studies:
 
 Cross-Sectional Lifespan Connectomics Study
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
