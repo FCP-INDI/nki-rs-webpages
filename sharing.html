@@ -7,7 +7,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>How to Access NKI-RS Data &mdash; Nathan Kline Institute - Rockland Sample  documentation</title>
+    <title>Data Access Overview &mdash; Nathan Kline Institute - Rockland Sample  documentation</title>
     
     <link rel="stylesheet" href="_static/nature.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,7 +25,7 @@
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="top" title="Nathan Kline Institute - Rockland Sample  documentation" href="index.html" />
-    <link rel="next" title="Neuroimaging Data Releases" href="sharing_neuro.html" />
+    <link rel="next" title="Accessing the Neuroimaging Data Releases" href="sharing_neuro.html" />
     <link rel="prev" title="Current Sample Characteristics (As of July 2015)" href="demo.html" /> 
   </head>
   <body>
@@ -36,7 +36,7 @@
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="sharing_neuro.html" title="Neuroimaging Data Releases"
+          <a href="sharing_neuro.html" title="Accessing the Neuroimaging Data Releases"
              accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="demo.html" title="Current Sample Characteristics (As of July 2015)"
@@ -50,25 +50,27 @@
         <div class="bodywrapper">
           <div class="body">
             
-  <div class="section" id="how-to-access-nki-rs-data">
-<h1>How to Access NKI-RS Data<a class="headerlink" href="#how-to-access-nki-rs-data" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="data-access-overview">
+<h1>Data Access Overview<a class="headerlink" href="#data-access-overview" title="Permalink to this headline">¶</a></h1>
 <p>It is our goal to provide researchers with the greatest flexibility to carry out scientific inquiries using the NKI-Rockland data. In this regard:</p>
 <ul class="simple">
-<li>We do not require authorship on any manuscripts generated using NKI-Rockland data; citation as a data-source is sufficient.</li>
-<li>We do not require review of manuscripts generated using NKI-Rockland datasets; though we do strongly encourage careful documentation of any selection criteria applied to the NKI-RS in choosing datasets for your analysis.</li>
+<li>We do not require authorship on any manuscripts generated using NKI-RS data; citation as a data source is sufficient.</li>
+<li>We do not require review of manuscripts generated using NKI-RS datasets; though we do strongly encourage careful documentation of any selection criteria applied to the NKI-RS in choosing datasets for your analysis.</li>
 <li>We do not require specification of planned data analyses prior to data access.</li>
 </ul>
 <p><strong>Protection of participant privacy is our first and primary concern.</strong></p>
-<p>Given the high dimensionality and personal nature of the data included (e.g., psychiatric assessments), we have developed two release versions:</p>
-<p><strong>NKI-RS Neuroimaging Data Release</strong></p>
+<p>Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces.</p>
+<p>NKI-RS differs from the other datasets in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns have led us to develop two release versions:</p>
+<p><strong>Neuroimaging Release</strong></p>
 <ul class="simple">
 <li>Contains imaging data, physiological data acquired during scan acquisition (cardiac and respiratory), and limited phenotyping (age, sex, and handedness).</li>
 <li>No psychiatric, cognitive, or behavioral information is included.</li>
 <li>Immediately available to users (does not require a data usage agreement)</li>
+<li>Data is downloadable through Amazon Web Services or NITRC.</li>
 </ul>
-<p><strong>NKI-RS Full Phenotypic Release:</strong></p>
+<p><strong>Full Phenotypic Release:</strong></p>
 <ul>
-<li><p class="first">Contains data for the high-dimensional phenotypic protocol. (See the <a class="reference internal" href="assessments.html"><em>Assessments Page</em></a> for more information, or contact <a class="reference external" href="mailto:MMilham&#37;&#52;&#48;NKI&#46;RFMH&#46;org">Michael Milham</a>)</p>
+<li><p class="first">Contains data for the high-dimensional phenotypic protocol. (See the <a class="reference internal" href="assessments.html"><em>Assessments Page</em></a>).</p>
 <blockquote>
 <div><ul class="simple">
 <li>DSM-IV based psychiatric diagnostic assessment.</li>
@@ -80,7 +82,7 @@
 </ul>
 </div></blockquote>
 </li>
-<li><p class="first">Data Usage agreement is required.</p>
+<li><p class="first">A Data Usage Agreement (DUA) is required.</p>
 <blockquote>
 <div><ul class="simple">
 <li>Expected completion time: &lt; 5 minutes</li>
@@ -88,11 +90,13 @@
 </ul>
 </div></blockquote>
 </li>
+<li><p class="first">Data is downloadable through the Collaborative Informatics and Neuroimaging Suite (COINS) database.</p>
+</li>
 </ul>
-<p>More details about these two releases can be found in the following pages:</p>
+<p>Instructions for how to download either of the release types can be found at the links below:</p>
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="sharing_neuro.html">NKI-RS Neuroimaging Data</a><ul>
+<li class="toctree-l1"><a class="reference internal" href="sharing_neuro.html">Accessing Neuroimaging Data Releases</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="sharing_neuro.html#downloading-neuroimaging-data-releases-from-nitrc">Downloading Neuroimaging Data Releases from NITRC</a></li>
 <li class="toctree-l2"><a class="reference internal" href="sharing_neuro.html#downloading-neuroimaging-data-release-data-from-the-fcp-indi-s3-bucket">Downloading Neuroimaging Data Release Data from the FCP-INDI S3 Bucket</a></li>
 <li class="toctree-l2"><a class="reference internal" href="sharing_neuro.html#using-the-downloader-script-for-s3">Using the Downloader Script for S3</a><ul>
@@ -105,18 +109,14 @@
 </li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="sharing_phenotypic.html">NKI-RS Full Phenotypic</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#coins-database">COINS Database</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sharing_phenotypic.html">Accessing Full Phenotypic Data Releases</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#data-usage-agreement">Data Usage Agreement</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#interpreting-data-pulled-from-coins">Interpreting Data Pulled from COINS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#coins-database-overview">COINS Database Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#requesting-data-in-coins">Requesting Data in COINS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html#interpreting-data-downloaded-from-coins">Interpreting Data Downloaded from COINS</a></li>
 </ul>
 </li>
 </ul>
-</div>
-<div class="section" id="participant-privacy">
-<h2>Participant Privacy<a class="headerlink" href="#participant-privacy" title="Permalink to this headline">¶</a></h2>
-<p>Confidentiality was a paramount consideration in planning data-sharing requirements. Protecting participant privacy while also providing access to extensively revealing data was a goal. All imaging data are fully anonymized in compliance with HIPAA by removing any potential protected health information identifiers, including identifying facial features from anatomical images, and randomizing the timing of release. It is important to note that data users must be aware of the possible negative impact of defacing on some analysis toolkits (e.g., FreeSurfer), and exercise additional care when producing such images and/or sharing pre-processed surfaces.</p>
-<p>NKI-RS differs from the other samples in that it is being obtained using a community-ascertained epidemiologic design, which requires residence in Rockland County. Accordingly, a given participant’s residential location is identifiable to the level of a county, which is not in keeping with the definition of complete de-identification based on HIPAA’s 18 protected health identifiers. Additionally, the concurrently supplied psychometric data in the NKI-RS phenotypic protocol include individual item-level data and an increased breadth of phenotypic sampling. The high-dimensionality of these data increases risk of identification far beyond that posed by revealing some of the 18 protected health identifiers specified by HIPAA. These concerns support the need for implementation of a data usage agreement.</p>
 </div>
 </div>
 
@@ -138,9 +138,8 @@
 <li class="toctree-l1"><a class="reference internal" href="assessments.html">Assessments</a></li>
 <li class="toctree-l1"><a class="reference internal" href="demo.html">Sample Characteristics</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">Accessing Data</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sharing_neuro.html">NKI-RS Neuroimaging Data</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html">NKI-RS Full Phenotypic</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#participant-privacy">Participant Privacy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sharing_neuro.html">Accessing Neuroimaging Data Releases</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sharing_phenotypic.html">Accessing Full Phenotypic Data Releases</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="qc.html">Data Quality Check</a></li>
@@ -176,7 +175,7 @@
           <a href="genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="sharing_neuro.html" title="Neuroimaging Data Releases"
+          <a href="sharing_neuro.html" title="Accessing the Neuroimaging Data Releases"
              >next</a> |</li>
         <li class="right" >
           <a href="demo.html" title="Current Sample Characteristics (As of July 2015)"
