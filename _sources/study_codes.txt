@@ -1,14 +1,22 @@
-Study Visit Codes
+Study/Visit Codes
 ==================
 
-Visit codes are also more informative for data collection and organization for upload.   The longitudinal information will be better handled with the addition of a time-lag variable for assessments that we hope to include in the future.
+The NKI-RS data uses the following coding convention to differentiate between data acquisition sessions:
 
-* V1      - code for the first day of testing when we had two days of testing for our core battery
-* V2     - code for the second day of testing when we had two days of testing for our core battery
-* VA     - code for the one day of testing when we shifted from two days of data collection to one day for our core battery
-* VA_ALG  – code for the one day of testing (adult longitudinal fitness study), same as VA just with ALG because needed for data entry
-* V2REP   - participant has a baseline cross-sectional visit (V2) and then came back some period of time later and repeated (REP) the visit (V2) – we coded those visits (V2REP)
-* VA-REP  participant has a baseline cross-sectional visit (VA) and then came back some period of time later and repeated (REP) the visit (VA) – we coded those visits (VA-REP)
-* V4     - child longitudinal study 12-15month follow-up appointment
-* V5        - child longitudinal study 24-30 month follow-up appointment
+Study Codes
+-----------
 
+.. csv-table::
+    :header: "Code (COINS)", "Code (NITRC/AWS)","Description"
+    :widths: 5,5,40
+    :file: _static/visit_codes.csv
+
+Visit Codes
+-----------
+
+.. csv-table::
+    :header: "Code (COINS)", "Code (NITRC/AWS)","Description"
+    :widths: 5,5,40
+    :file: _static/study_codes.csv
+
+Note that in the real-time neurofeedback study, 'R' signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.

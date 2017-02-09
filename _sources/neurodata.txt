@@ -137,7 +137,7 @@ Once these conditions are satisified, you may use the links below to download da
 
 * Minimal Phenotypic Information (age, sex, handedness) Downloads
 
-    * The `BIDS participants.tsv file <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv>_` contains minimal phenotypic information for all releases.
+    * The `BIDS participants.tsv file <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv>`_ contains minimal phenotypic information for all releases.
 
 Downloading Neuroimaging Data Release Data from the FCP-INDI S3 Bucket
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -192,34 +192,7 @@ To install pandas and boto3 within Python 2, you can use the following command: 
 Study / Visit Codes
 ====================
 
-If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the *-v* option.  You may specify multiple study/visit code combinations after this option.
-
- * Real-Time Neurofeedback
-  * Study Code: NFB
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * 2R - A re-visit to complete scans for the second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
-   * AR - A re-visit to complete scans for the abridged second visit (abridged scheduling format).
-   * 3 - The third visit.
- * Cross-Sectional Lifespan Connectomics
-  * Study Code: DS
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
- * Longitudinal Developmental Connectomics
-  * Study Code: CLG 
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
-   * 2R -  The second visit (original scheduling format) with a re-test.
-   * AR -  The abridged second visit (abridged scheduling format) with a re-test.
-   * 3 - The third visit.
-   * 4 - The fourth visit.
-   * 4R - The fourth visit with a re-test.
-   * 5 - The fifth visit.
-
-Note that in the real-time neurofeedback study, 'R' signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.
+If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the *-v* option.  You may specify multiple :doc:`study/visit code combinations <study_codes>` (using the NITRC/AWS convention) after this option.
 
 For example:
 

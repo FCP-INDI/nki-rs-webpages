@@ -224,7 +224,7 @@
 <li><p class="first">Minimal Phenotypic Information (age, sex, handedness) Downloads</p>
 <blockquote>
 <div><ul class="simple">
-<li>The <cite>BIDS participants.tsv file &lt;https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv&gt;_</cite> contains minimal phenotypic information for all releases.</li>
+<li>The <a class="reference external" href="https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv">BIDS participants.tsv file</a> contains minimal phenotypic information for all releases.</li>
 </ul>
 </div></blockquote>
 </li>
@@ -281,64 +281,7 @@
 <p><em>Note:</em> All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to <a class="reference external" href="http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line">here</a>.</p>
 <div class="section" id="study-visit-codes">
 <h3>Study / Visit Codes<a class="headerlink" href="#study-visit-codes" title="Permalink to this headline">¶</a></h3>
-<p>If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the <em>-v</em> option.  You may specify multiple study/visit code combinations after this option.</p>
-<blockquote>
-<div><ul class="simple">
-<li>Real-Time Neurofeedback</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>Study Code: NFB</li>
-<li>Visit Codes:</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>2 - The second visit (original 2-day scheduling format).</li>
-<li>2R - A re-visit to complete scans for the second visit (original 2-day scheduling format).</li>
-<li>A - The abridged second visit (abridged scheduling format).</li>
-<li>AR - A re-visit to complete scans for the abridged second visit (abridged scheduling format).</li>
-<li>3 - The third visit.</li>
-</ul>
-</div></blockquote>
-</div></blockquote>
-<ul class="simple">
-<li>Cross-Sectional Lifespan Connectomics</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>Study Code: DS</li>
-<li>Visit Codes:</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>2 - The second visit (original 2-day scheduling format).</li>
-<li>A - The abridged second visit (abridged scheduling format).</li>
-</ul>
-</div></blockquote>
-</div></blockquote>
-<ul class="simple">
-<li>Longitudinal Developmental Connectomics</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>Study Code: CLG</li>
-<li>Visit Codes:</li>
-</ul>
-<blockquote>
-<div><ul class="simple">
-<li>2 - The second visit (original 2-day scheduling format).</li>
-<li>A - The abridged second visit (abridged scheduling format).</li>
-<li>2R -  The second visit (original scheduling format) with a re-test.</li>
-<li>AR -  The abridged second visit (abridged scheduling format) with a re-test.</li>
-<li>3 - The third visit.</li>
-<li>4 - The fourth visit.</li>
-<li>4R - The fourth visit with a re-test.</li>
-<li>5 - The fifth visit.</li>
-</ul>
-</div></blockquote>
-</div></blockquote>
-</div></blockquote>
-<p>Note that in the real-time neurofeedback study, &#8216;R&#8217; signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.</p>
+<p>If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the <em>-v</em> option.  You may specify multiple <a class="reference internal" href="study_codes.html"><em>study/visit code combinations</em></a> (using the NITRC/AWS convention) after this option.</p>
 <p>For example:</p>
 <div class="highlight-bash"><div class="highlight"><pre><span></span>python download_rockland_raw_bids.py -o /data/output -v CLG4 CLG4R CLG5
 </pre></div>
