@@ -63,10 +63,6 @@ Once these conditions are satisified, you may use the links below to download da
     * `Release 1 <http://www.nitrc.org/frs/downloadlink.php/5369>`_ (For initial subjects in Release 1, cardiac data has been excluded due to a technical error; respiratory data was unaffected. `Click here <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_r1_missing_cardiac_v1.txt>`_ for a listing of affected subjects.
     * `Release 2 <http://www.nitrc.org/frs/downloadlink.php/5377>`_
     * `Release 3 <http://www.nitrc.org/frs/downloadlink.php/5767>`_
-    * Release 4 Coming Soon 
-    * Release 5 Coming Soon 
-    * Release 6 Coming Soon 
-    * Release 7 Coming Soon 
 
 * Motion Statistics
 
@@ -111,29 +107,6 @@ Once these conditions are satisified, you may use the links below to download da
     * Release 5
 
         * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
-        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
-        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
-        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r5_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
-
-    * Release 6
-
-        * `Rest (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
-        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
-        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
-        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r6_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
-
-    * Release 7
-
-        * `Rest (TR=645) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_mx_645_rest_motion_parameters.csv>`_
-        * `Rest (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_mx_1400_rest_motion_parameters.csv>`_
-        * `Rest (TR=2500) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_RfMRI_std_2500_rest_motion_parameters.csv>`_
-        * `Breath Hold Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_breathHold_1400_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=645) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_visualCheckerboard_645_func_motion_parameters.csv>`_
-        * `Visual Checkerboard (TR=1400) Coming Soon <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/nki-rs_lite_r7_v1_TfMRI_visualCheckerboard_1400_func_motion_parameters.csv>`_
 
 * Minimal Phenotypic Information (age, sex, handedness) Downloads
 
