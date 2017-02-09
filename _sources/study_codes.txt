@@ -1,0 +1,22 @@
+Study/Visit Codes
+==================
+
+The NKI-RS data uses the following coding convention to differentiate between data acquisition sessions:
+
+Study Codes
+-----------
+
+.. csv-table::
+    :header: "Code (COINS)", "Code (NITRC/AWS)","Description"
+    :widths: 5,5,40
+    :file: _static/visit_codes.csv
+
+Visit Codes
+-----------
+
+.. csv-table::
+    :header: "Code (COINS)", "Code (NITRC/AWS)","Description"
+    :widths: 5,5,40
+    :file: _static/study_codes.csv
+
+Note that in the real-time neurofeedback study, 'R' signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.

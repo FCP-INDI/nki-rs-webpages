@@ -1,5 +1,5 @@
-Neuroimaging Data Releases
-----------------------------
+Accessing the Neuroimaging Data Releases
+-----------------------------------------
 The neuroimaging data releases contain the MRI data, physiological data obtained during scanning (cardiac and respiratory)  and only basic phenotypic information (age, sex, handedness). The following scans are included for subjects in the Cross-Sectional Lifespan Connectomics Study, Longitudinal Developmental Connectomics Study, and Mapping Interindividual Variation In The Aging Connectome studies:  
 
 * Anatomical (MPRAGE)
@@ -34,6 +34,19 @@ In order to access NKI-RS neuroimaging data via NITRC you must be:
 
 Once these conditions are satisified, you may use the links below to download data.  **If you are not logged in and properly registered a permissions error will occur.**
 
+* NIfTI Files Downloads        
+       
+    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii1.html>`_     
+    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii2.html>`_
+    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii3.html>`_      
+    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii4.html>`_      
+    * `Release 5 (89 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii5.html>`_      
+    * `Release 6 (151 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii6.html>`_     
+    * `Release 7 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii7.html>`_      
+    * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii8.html>`_
+    * Release 9 (Link Coming Soon)
+    * Release 10 (Link Coming Soon)
+
 * DICOM Files Downloads
 
     * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom1.html>`_
@@ -44,17 +57,6 @@ Once these conditions are satisified, you may use the links below to download da
     * Release 6 (151 Subjects) **COMING SOON**
     * Release 7 (88 Subjects) **COMING SOON**
     * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom8.html>`_
-
-* NIfTI Files Downloads
-
-    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii1.html>`_
-    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii2.html>`_ (includes physiological data)
-    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii3.html>`_
-    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii4.html>`_
-    * `Release 5 (89 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii5.html>`_
-    * `Release 6 (151 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii6.html>`_
-    * `Release 7 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii7.html>`_
-    * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii8.html>`_
 
 * Physiological Data (cardiac and respiratory recordings) Downloads
 
@@ -135,14 +137,7 @@ Once these conditions are satisified, you may use the links below to download da
 
 * Minimal Phenotypic Information (age, sex, handedness) Downloads
 
-    * `Release 1 (181 subjects) <http://www.nitrc.org/frs/downloadlink.php/5208>`_
-    * `Release 2 (14 subjects) <http://www.nitrc.org/frs/downloadlink.php/5367>`_
-    * `Release 3 (46 subjects) <http://www.nitrc.org/frs/downloadlink.php/5766>`_
-    * `Release 4 (88 subjects) <http://www.nitrc.org/frs/downloadlink.php/6142>`_
-    * `Release 5 (89 subjects) <https://www.nitrc.org/frs/downloadlink.php/7059>`_
-    * `Release 6 (151 subjects) <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/PhenotypicData/nki-rs_lite_r6_phenotypic_v1.csv>`_
-    * `Release 7 (88 subjects) <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/PhenotypicData/nki-rs_lite_r7_phenotypic_v1.csv>`_
-    * `Release 8 (114 subjects) <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/PhenotypicData/nki-rs_lite_r8_phenotypic_v1.csv>`_
+    * The `BIDS participants.tsv file <https://s3.amazonaws.com/fcp-indi/data/Projects/RocklandSample/RawDataBIDS/participants.tsv>`_ contains minimal phenotypic information for all releases.
 
 Downloading Neuroimaging Data Release Data from the FCP-INDI S3 Bucket
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,8 +146,7 @@ Data for the Rockland Sample Neuroimaging Data Release are available for downloa
 
 * RawData : Raw data for Rockland sample releases converted to NifTI format and not separated by release. The directory tree is organized with participants at the root, visits below participants, and individual series below visits.
 * RawDataTars : Raw data compressed with Gzip and separated by release.
-* PhenotypicData : Phenotypic data for participants (i.e., age, sex, handedness) stored in csv files by release.
-* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included. Currently only release 9 is available in BIDS.
+* RawDataBIDS : Raw data organized in the `BIDS format <http://bids.neuroimaging.io>`_. Since BIDS makes provisions for phenotypic and data collected during scanning (physiological,event-related), this data is also included in this folder in addition to the MRI series NifTIs. DICOMs are not included.
 * Outputs : Rockland Sample data processed using `C-PAC <http://fcp-indi.github.io/docs/user/index.html>`_ and the `Gibbs’ connectome pipeline <https://www.nitrc.org/projects/gibbsconnectome/>`_.
 
 Each file in the S3 bucket can only be accessed using HTTP (i.e., **no ftp or scp** ). You can obtain a URL for each desired file and then download it using an HTTP client such as a web browser, *wget*, or *curl*. Each file can only be accessed using its literal name- wildcards will not work.  We have written a script (described below) that can perform custom dataset downloads for you via HTTP.
@@ -189,42 +183,16 @@ The script requires the following dependencies to function properly:
 
  * Python 2
  * pandas
+ * boto3
 
-To install pandas within Python 2, you can use the following command: `pip install pandas`
+To install pandas and boto3 within Python 2, you can use the following command: `pip install pandas boto3`
 
 *Note:* All examples in this section assume some literacy with the Unix command line and that the commands are being executed from the local directory where the script is stored.  If you have not used the command line before, a number of tutorials to get you started are linked to `here <http://fcp-indi.github.io/docs/user/install.html#a-note-about-the-nix-command-line>`_.
 
 Study / Visit Codes
 ====================
 
-If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the *-v* option.  You may specify multiple study/visit code combinations after this option.
-
- * Real-Time Neurofeedback
-  * Study Code: NFB
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * 2R - A re-visit to complete scans for the second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
-   * AR - A re-visit to complete scans for the abridged second visit (abridged scheduling format).
-   * 3 - The third visit.
- * Cross-Sectional Lifespan Connectomics
-  * Study Code: DS
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
- * Longitudinal Developmental Connectomics
-  * Study Code: CLG 
-  * Visit Codes:
-   * 2 - The second visit (original 2-day scheduling format).
-   * A - The abridged second visit (abridged scheduling format).
-   * 2R -  The second visit (original scheduling format) with a re-test.
-   * AR -  The abridged second visit (abridged scheduling format) with a re-test.
-   * 3 - The third visit.
-   * 4 - The fourth visit.
-   * 4R - The fourth visit with a re-test.
-   * 5 - The fifth visit.
-
-Note that in the real-time neurofeedback study, 'R' signifies a re-visit, while in the longitudinal developmental connectomics study, it represents a re-test.
+If you want to specify which studies / visits to download, you must take a study code and append the desired visit code to it, and then add this after the *-v* option.  You may specify multiple :doc:`study/visit code combinations <study_codes>` (using the NITRC/AWS convention) after this option.
 
 For example:
 

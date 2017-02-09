@@ -1,0 +1,8 @@
+"V1","1","The code for the first day of testing when we had two days of testing for our core battery"
+"V2","2","The code for the second day of testing when we had two days of testing for our core battery"
+"VA","A","The code for the one day of testing when we shifted from two days of data collection to one day for our core battery"
+"VA_ALG","A","The code for the one day of testing (adult longitudinal fitness study), same as VA just with ALG because needed for data entry"
+"V2REP","2R","The participant has a baseline cross-sectional visit (V2) and then came back some period of time later and repeated (REP) the visit (V2) – we coded those visits (V2REP)"
+"VA-REP","AR","The participant has a baseline cross-sectional visit (VA) and then came back some period of time later and repeated (REP) the visit (VA) – we coded those visits (VA-REP)"
+"V4","4","Longitudinal Developmental Connectomics 12-15 month follow-up appointment"
+"V5","5","Longitudinal Developmental Connectomics 24-30 month follow-up appointment"
