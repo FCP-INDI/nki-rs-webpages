@@ -11,6 +11,7 @@ Enhanced Nathan Kline Institute - Rockland Sample
     Data <data>
     Documentation <documentation>
     Publications <pubs>
+    Frequently Asked Questions <https://groups.google.com/forum/#!forum/nkirs_forum>
     Contact <contact>
 
 Introduction
