@@ -6,7 +6,7 @@ Hosted on NITRC
 
 login with sftp:
 
-sftp $username$@nitrc.org:/mnt/gforge-data/gforge/home/groups/fcon_1000/htdocs/indi/enhanced/
+sftp $username@nitrc.org:/mnt/gforge-data/gforge/home/groups/fcon_1000/htdocs/indi/enhanced/
 
 Ask Dave for username and password
 
