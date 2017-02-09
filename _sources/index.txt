@@ -32,7 +32,7 @@ The NKI-RS Team
 | Cathy Hu, Raj Sangoi, Stan Colcombe, Cameron Craddock
 
 | **Programming, Technical and Analytic Support**
-| David O’Connor, John Pellman, Brian Cheung (alumnus), Daniel Clark (alumnus), Ranjit Khanuja (alumnus), David Lewis (alumnus), Qingyang Li (alumnus), Daniel Lurie (alumnus), Sharad Sikka (alumnus) 
+| David O’Connor, Brian Cheung (alumnus), Daniel Clark (alumnus), Ranjit Khanuja (alumnus), David Lewis (alumnus), Qingyang Li (alumnus), Daniel Lurie (alumnus), John Pellman (alumnus), Sharad Sikka (alumnus) 
 
 | **Neuroinformatics** (`Mind Research Network <http://www.mrn.org/>`_)
 | Vince Calhoun, Will Courtney, Margaret King, Susan Lane, Adam Scott, Runtang Wang, and Dylan Wood 

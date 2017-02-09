@@ -34,6 +34,19 @@ In order to access NKI-RS neuroimaging data via NITRC you must be:
 
 Once these conditions are satisified, you may use the links below to download data.  **If you are not logged in and properly registered a permissions error will occur.**
 
+* NIfTI Files Downloads        
+       
+    * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii1.html>`_     
+    * `Release 2 (14 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii2.html>`_
+    * `Release 3 (46 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii3.html>`_      
+    * `Release 4 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii4.html>`_      
+    * `Release 5 (89 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii5.html>`_      
+    * `Release 6 (151 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii6.html>`_     
+    * `Release 7 (88 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii7.html>`_      
+    * `Release 8 (114 Subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_nii8.html>`_
+    * Release 9 (Link Coming Soon)
+    * Release 10 (Link Coming Soon)
+
 * DICOM Files Downloads
 
     * `Release 1 (181 subjects) <http://fcon_1000.projects.nitrc.org/indi/enhanced/data/download_dicom1.html>`_
