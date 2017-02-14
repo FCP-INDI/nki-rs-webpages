@@ -13,10 +13,10 @@ For your convenience, the DUA is already completed in its entirety with NKI-appr
 #. Review all contents.
 #. Provide appropriate information regarding their name(s) and institution.
 #. Have the document signed and notarized by the appropriate institutional representative.
-#. Scan and `send us the document <mailto:david.oconnor%40childmind.org?Subject=NKI-RS%20Access%20Request>`_.
+#. Scan and `send us the document <mailto:rocklandsample%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_.
 #. When your application has been received and approved, you will receive an email confirming your ability to request all phenotypic (single-item and summary) and imaging data in the Collaborative Informatics and Neuroimaging Suite (COINS) Database (see description below).
 
-**Note:** If your institution requests any clarifications regarding the DUA, just `contact us <mailto:david.oconnor%40childmind.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and are developing a `Frequently Asked Questions <https://groups.google.com/forum/#!forum/nkirs_forum>`_ page as questions occur.
+**Note:** If your institution requests any clarifications regarding the DUA, just `contact us <mailto:rockland%40nki.rfmh.org?Subject=NKI-RS%20Access%20Request>`_ and let us know – we are happy to work with them and are developing a `Frequently Asked Questions <https://groups.google.com/forum/#!forum/nkirs_forum>`_ page as questions occur.
 
 
 COINS Database Overview
