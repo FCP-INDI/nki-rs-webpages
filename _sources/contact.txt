@@ -1,4 +1,4 @@
 Contact
 =======
 
-The Rockland Sample maintains a repository containing frequently asked questions about the dataset and their answers `here <https://groups.google.com/forum/#!forum/nkirs_forum>`_.  If a question you have is not answered there, or you would like further clarification do not hesitate to contact us at `david.oconnor@childmind.org <mailto:david.oconnor%40childmind.org>`_.
+The Rockland Sample maintains a repository containing frequently asked questions about the dataset and their answers `here <https://groups.google.com/forum/#!forum/nkirs_forum>`_.  If a question you have is not answered there, or you would like further clarification do not hesitate to contact us at `RocklandSample.Enduser@nki.rfmh.org <mailto:RocklandSample.Enduser%40nki.rfmh.org>`_.

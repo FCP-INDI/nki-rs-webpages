@@ -15,12 +15,12 @@ The following pages give more information about the data contained within the Ro
 .. toctree::
     :hidden:
 
+    Sample Characteristics <demo>
     Study Descriptions <studies>
     Study Codes <study_codes>
     Recruitment <recruit>
+    Assessments <assessments>
     Participant Schedule <sched>
     MRI Protocol <mri_protocol>
-    Assessments <assessments>
-    Sample Characteristics <demo>
     Frequently Asked Questions <https://groups.google.com/forum/#!forum/nkirs_forum>
 
